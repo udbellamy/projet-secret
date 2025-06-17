@@ -1,0 +1,11 @@
+<string>Rapport de confiscation
+<string>Date : 14 août 1998<lf>Lieu : Salle d'attente 2F, R.P.D.<lf><lf>Cause de la confiscation :<lf>Individu surpris dans la pièce susmentionnée.<lf>Lorsqu'il a été interpellé, il a tenté de fuir<lf>en simulant la confusion, mais a été arrêté.<lf>Une <COL FILE_EMP>note</COLOR> en sa possession a été confisquée.
+<string>Remarques :<lf>Tout le monde sait déjà de qui on parle, mais<lf>au cas où : il s'agit de Justin Hanson, 39 ans,<lf>habitant de la ville, célibataire, habitué de<lf>nos cellules. C'est pas vraiment un truand,<lf>plutôt un kleptomane vraiment stupide.<lf>J'arrive pas à croire qu'il ait tenté de faire ça<lf>dans un commissariat...
+<string>(Il y a un morceau de papier dans un sac<lf>plastique.)
+<string>
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>

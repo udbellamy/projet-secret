@@ -1,0 +1,11 @@
+<string>Rapport : À propos de "G"
+<string>Les essais cliniques du virus G entreront<lf>bientôt en phase finale. En attendant la<lf>naissance de "G", la nouvelle créature qui<lf>surpassera les humains, permettez-moi<lf>d'annoncer quelques détails relatifs à sa<lf>physiologie et à ses fonctions biologiques.
+<string>Intelligence<lf>L'intelligence du sujet commencera<lf>immédiatement à chuter, et ses fonctions<lf>linguistiques disparaîtront en quelques jours.<lf>Il perdra alors sa capacité de raisonnement et<lf>son humanité. G sera une créature totalement<lf>instinctive, guidée uniquement par un besoin<lf>de survie et de reproduction.
+<string>Capacités physiques<lf>Sa division cellulaire (et donc son évolution)<lf>particulièrement rapide lui permettra de<lf>s'adapter à tout type d'environnement.<lf>De plus, sa capacité étonnante à se régénérer<lf>le rendra extrêmement difficile à tuer avec une<lf>arme légère conventionnelle.
+<string>Comportement reproductif<lf>La caractéristique la plus remarquable de G<lf>sera son désir intense de se reproduire. Il<lf>recherchera instinctivement des humains à l'ADN<lf>proche du sien afin d'y implanter un embryon.
+<string>Les chances de succès sont cependant faibles,<lf>et si l'ADN n'est pas suffisamment proche, une<lf>créature G sous-développée sera produite.<lf>Je suppose que les seuls individus suffisamment<lf>proches génétiquement seront les enfants<lf>biologiques du sujet...
+<string><END>
+<string>
+<string>
+<string>
+<string>

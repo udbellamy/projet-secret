@@ -1,0 +1,25 @@
+<string><TIME 1.21, 3.76><TIME 4.11, 5.65><TIME 6.81, 8.36><TIME 8.91, 10.44><TIME 10.87, 12.81><TIME 13.34, 15.1><TIME 15.28, 17.33><TIME 18.99, 20.74><TIME 20.9, 22.54><TIME 22.56, 23.84><TIME 25.1, 26.03><TIME 26.63, 27.93><TIME 28.84, 30.04><TIME 33.12, 36.04><TIME 39.3, 42.28><TIME 43.98, 45.51><TIME 45.6, 50.56><TIME 65.59, 69.63><TIME 74.27, 78.24><TIME 83.38, 86.21>Ça c'est du William tout craché...<PAGE><lf>Hé, qui êtes-vous ?<PAGE><lf>Annette Birkin.<PAGE><lf>C'est elle qu'on cherche ?<PAGE><lf>Pas assez de temps...<PAGE><lf>Il faut s'en débarrasser...<PAGE><lf>Nous sommes là pour le virus G !<PAGE><lf>Et puis quoi encore ?<PAGE><lf>Dernier avertissement !<PAGE><lf>Ah oui ?<PAGE><lf>Hé !<PAGE><lf>Arrêtez !<PAGE><lf>Ada !<PAGE><lf>Vous n'aurez jamais le virus G !<PAGE><lf>Je crois que je l'ai sous-estimée.<PAGE><lf>Leon...<PAGE><lf>T'en fais pas pour moi... Vas-y...<lf>Surtout, la laisse pas s'échapper...<PAGE><lf>Je suis à l'extérieur de l'installation, sur la trace d'Annette.<PAGE><lf>Si elle ne l'a pas sur elle, alors ça doit être dans le NEST.<PAGE><lf>Quand je l'aurai, je ferai une demande d'extraction.
+<string>Ça c'est du William tout craché...
+<string>Hé, qui êtes-vous ?
+<string>Annette Birkin.
+<string>C'est elle qu'on cherche ?
+<string>Pas assez de temps...
+<string>Il faut s'en débarrasser...
+<string>Nous sommes là pour le virus G !
+<string>Et puis quoi encore ?
+<string>Dernier avertissement !
+<string>Ah oui ?
+<string>Hé !
+<string>Arrêtez !
+<string>Ada !
+<string>Vous perdez votre temps !
+<string>Vous n'aurez jamais le virus G !
+<string>Je crois que je l'ai sous-estimée.
+<string>Leon...
+<string>T'en fais pas pour moi... Vas-y...<lf>Surtout, la laisse pas s'échapper...
+<string>J'espère que tu as de bonnes nouvelles.
+<string>Je suis à l'extérieur de l'installation, sur la trace d'Annette.
+<string>Quel est ton plan, Ada ?
+<string>Si elle ne l'a pas sur elle, alors ça doit être dans le NEST.
+<string>J'espère que tu sais ce que tu fais.
+<string>Quand je l'aurai, je ferai une demande d'extraction.

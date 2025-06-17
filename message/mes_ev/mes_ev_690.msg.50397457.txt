@@ -1,0 +1,28 @@
+<string><TIME 2.0, 5.15><TIME 5.7, 9.39><TIME 11.84, 12.74><TIME 14.89, 15.98><TIME 16.79, 17.92><TIME 18.62, 20.13><TIME 26.45, 28.04><TIME 28.74, 30.05><TIME 33.88, 39.0><TIME 39.28, 40.68><TIME 40.68, 42.92><TIME 42.93, 44.53><TIME 45.41, 48.54><TIME 48.71, 50.77><TIME 52.89, 60.24><TIME 62.33, 64.08><TIME 68.63, 72.99><TIME 74.94, 78.73><TIME 81.05, 82.63><TIME 86.81, 88.86><TIME 89.48, 92.73><TIME 93.37, 96.51><TIME 97.13, 98.55><TIME 99.87, 101.63>Sherry ? Maman est là...<PAGE><lf>Sherry ! Sherry, est-ce que tu m'entends ?<PAGE><lf> Oh, non...<PAGE><lf>Sherry ?<PAGE><lf>Claire ?<PAGE><lf>Sherry... Est-ce que ça va ?<PAGE><lf>Qu'est-ce que tu fais ?<PAGE><lf>Je viens l'aider.<PAGE><lf>Sherry a reçu l'embryon...<lf>On ne peut pas la sauver.<PAGE><lf>Non mais vous vous foutez de moi ?<PAGE><lf>Vous êtes sa mère. Alors venez ici !<PAGE><lf>Tu ne comprends pas.<PAGE><lf>William est toujours en vie. Et si je ne l'arrête pas...<PAGE><lf>Ça suffit, j'en ai assez entendu !<PAGE><lf>Attends ! Attends... Je peux la soigner... dans mon labo.<lf>C'est pas loin d'ici.<PAGE><lf>Maman... ?<PAGE><lf>On n'a pas le temps... Des millions de vies sont en jeu.<PAGE><lf>Sherry...<lf>Maman t'aime, trésor...<PAGE><lf>Adieu.<PAGE><lf>C'est pas possible, je rêve ?<PAGE><lf>Sherry, t'en fais pas.<lf>Je vais trouver ce dont tu as besoin.<PAGE><lf>Pourquoi... tu fais tout ça ?<PAGE><lf>Je tiens à toi.<PAGE><lf>Merci, Claire.
+<string>Sherry ? Maman est là...
+<string>Sherry ! Sherry, est-ce que tu m'entends ?
+<string> Oh, non...
+<string>Sherry ?
+<string>Claire ?
+<string>Sherry... Est-ce que ça va ?
+<string>
+<string>Qu'est-ce que tu fais ?
+<string>Je viens l'aider.
+<string>
+<string>Sherry a reçu l'embryon...<lf>On ne peut pas la sauver.
+<string>Non mais vous vous foutez de moi ?
+<string>Vous êtes sa mère. Alors venez ici !
+<string>Tu ne comprends pas.
+<string>William est toujours en vie. Et si je ne l'arrête pas...
+<string>Ça suffit, j'en ai assez entendu !
+<string>Attends ! Attends... Je peux la soigner... dans mon labo.<lf>C'est pas loin d'ici.
+<string>Maman... ?
+<string>On n'a pas le temps... Des millions de vies sont en jeu.
+<string>Sherry...<lf>Maman t'aime, trésor...
+<string>Adieu.
+<string>C'est pas possible, je rêve ?
+<string>
+<string>Sherry, t'en fais pas.<lf>Je vais trouver ce dont tu as besoin.
+<string>Pourquoi... tu fais tout ça ?
+<string>Je tiens à toi.
+<string>Merci, Claire.

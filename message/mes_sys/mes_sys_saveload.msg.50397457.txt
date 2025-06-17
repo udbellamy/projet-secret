@@ -1,0 +1,54 @@
+<string>CHARGEMENT...
+<string>CONSEILS
+<string>Créer des données de sauvegarde.
+<string>Écraser les données sauvegardées.
+<string>Charger des données sauvegardées.
+<string>AUCUNE DONNÉE
+<string>Sauvegarde réussie.
+<string>La sauvegarde a échoué.
+<string>La sauvegarde des données de sauvegarde additionnelles a échoué.
+<string>Chargement réussi.
+<string>Le chargement des données sauvegardées a échoué.<lf>Les données semblent corrompues.
+<string>Le chargement des données de sauvegarde additionnelles a échoué.<lf>Les données semblent corrompues.
+<string>Le chargement des données sauvegardées a échoué.
+<string>Le chargement des données de sauvegarde additionnelles a échoué.
+<string>Écraser les données sauvegardées ?
+<string>Les données sauvegardées sont corrompues.
+<string>Retourner au menu principal sans sauvegarder ?<lf><lf>Toute progression non sauvegardée sera perdue<lf>si vous quittez la partie sans sauvegarder.
+<string>Annuler la sauvegarde ?<lf><lf>Toute progression non sauvegardée sera perdue<lf>si vous annulez.
+<string>Annuler la sauvegarde des données de sauvegarde additionnelles ?<lf><lf>Toute progression non sauvegardée sera perdue si vous annulez.
+<string>Annuler le chargement des données sauvegardées ?<lf><lf>Si vous annulez, la partie commencera sans que<lf>les données sauvegardées soient chargées.
+<string>Échec de la connexion au réseau.
+<string>Charger les données sélectionnées ?<lf>Toute progression non sauvegardée sera perdue.
+<string>Une partie a déjà été sauvegardée sur cet emplacement.<lf>Remplacer les données sauvegardées ?
+<string>Les extensions liées aux épisodes sont introuvables.<lf>Veuillez les télécharger à nouveau.
+<string>Les extensions liées aux modes sont introuvables.<lf>Veuillez les télécharger à nouveau.
+<string>Les extensions liées aux armes sont introuvables.<lf>Veuillez les télécharger à nouveau.
+<string>Les extensions liées aux tenues sont introuvables.<lf>Veuillez les télécharger à nouveau.
+<string>Les extensions sont introuvables.<lf>Veuillez les télécharger à nouveau.
+<string>Impossible de charger les données sauvegardées.
+<string>Les extensions liées à la bande-son sont introuvables.<lf>Veuillez les télécharger à nouveau.
+<string>Les extensions liées aux récompenses sont introuvables.<lf>Veuillez les télécharger à nouveau.
+<string>Commencer la partie sans charger les données sauvegardées ?<lf>(La prochaine sauvegarde remplacera les données sauvegardées actuelles.)
+<string>Commencer la partie sans charger les données de sauvegarde<lf>additionnelles ? (La prochaine sauvegarde remplacera les données<lf>de sauvegarde additionnelles actuelles.)
+<string>Les extensions liées aux voix sont introuvables.<lf>Veuillez les télécharger à nouveau.
+<string>Sauvegarde en cours.<lf>N'éteignez pas votre PC.
+<string>Chargement en cours.<lf>N'éteignez pas votre PC.
+<string>Vous ne pouvez pas utiliser les données de sauvegarde<lf>d'un autre compte.
+<string>Vérification du contenu téléchargeable.<lf>N'éteignez pas votre PC.
+<string>Une erreur est survenue.
+<string>Une erreur est survenue.<lf>Réessayer ?
+<string>Espace libre insuffisant.<lf>Pour sauvegarder la partie, vous devez disposer d'au moins {0} Ko<lf>d'espace libre et créer de nouvelles données de sauvegarde.
+<string>Les données sauvegardées sont corrompues.<lf>Suppression des données et création de nouvelles données de sauvegarde...
+<string>Données de sauvegarde inexistantes.<lf>Vous devez créer des données de sauvegarde pour sauvegarder la partie<lf>et vous ne pouvez pas commencer la partie sans données de sauvegarde.<lf><lf>Créer des données de sauvegarde ?
+<string>Créer de nouvelles données de sauvegarde ?
+<string>Vous ne pourrez pas utiliser les fonctionnalités en ligne<lf>car votre câble Ethernet n'est pas connecté ou vous<lf>n'êtes pas connecté à un réseau sans fil.
+<string>La connexion au réseau a été perdue.
+<string>Échec de la connexion.<lf>Voulez-vous réessayer ?
+<string>Installation en cours.<lf>Veuillez patienter...
+<string>Vous ne pouvez pas accéder à cette option<lf>car vous n'êtes pas connecté.
+<string>Connexion au réseau.<lf>Veuillez patienter.
+<string>La connexion au réseau a été interrompue.
+<string>Échec de la connexion à Resident Evil.Net.<lf>Veuillez réessayer ultérieurement.
+<string>L'envoi des données de jeu à RE NET a échoué.
+<string>L'envoi des données de jeu à RE NET a échoué.<lf>Le transfert des données de jeu sera temporairement suspendu.<lf><lf>L'envoi des données de jeu à RE NET reprendra lorsque vous<lf>serez sur le menu principal ou dans le menu Options.

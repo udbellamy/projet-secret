@@ -1,0 +1,36 @@
+<string>Sauvegarde du contenu...<lf>Ne pas éteindre.
+<string>Quitter la partie ?<lf>(Toute progression non sauvegardée sera perdue.)
+<string>Ce jeu dispose d'une fonction de sauvegarde automatique.<lf>N'éteignez pas le système PlayStation®4 lorsque l'icône ci-dessus apparaît.
+<string>Ce jeu dispose d'une fonction de sauvegarde automatique.<lf>N'éteignez pas la console Xbox One lorsque l'icône ci-dessus apparaît.
+<string>Ce jeu dispose d'une fonction de sauvegarde automatique.<lf>N'éteignez pas votre PC lorsque l'icône ci-dessus apparaît.
+<string>Quitter la partie ?
+<string>Rétablir les paramètres par défaut ?<lf>
+<string>Retirer les éléments et effectuer le remplacement ?
+<string>Tenue débloquée.<lf><lf>Vous pouvez changer de tenue à partir du menu Campagne<lf>ou via l'option "Tenues" du menu Pause.
+<string>Revenir aux tenues normales pour tous les personnages ?
+<string>Utiliser les tenues alternatives pour tous les personnages ?
+<string>Un nouveau mode de jeu a été ajouté à la section<lf>"Modes additionnels" du menu principal.
+<string>Arme(s) bonus ∞ ajoutée(s) au coffre à objets.
+<string>Arme(s) spéciale(s) ajoutée(s).
+<string>L'option "Tenues" a été ajoutée.<lf>Sélectionnez-la pour changer les tenues des personnages.
+<string>Tenue spéciale obtenue.<lf>Vous pouvez changer de tenue dans le menu "Tenues".
+<string>Arme(s) spéciale(s) ajoutée(s) au coffre à objets.
+<string>Sauvegarde du contenu...<lf>Veuillez patienter.
+<string>Aller au PlayStation™Store ?
+<string>Aller au Microsoft Store ?
+<string>Aller à la boutique en ligne ?
+<string>Si vous réglez le paramètre de sortie audio sur Dolby Atmos,<lf>vous devez aussi configurer votre périphérique de sortie audio.<lf><lf>S'il n'est pas configuré, il se peut que le son ne sorte pas correctement.
+<string>En mode "Hardcore", la sauvegarde nécessite des rubans encreurs.<lf>Il n'y a pas de sauvegarde automatique dans ce mode.<lf><lf>Commencer une nouvelle partie en mode "Hardcore" ?
+<string>Activer l'aide à la visée ?<lf><lf>Cette option vous aide à viser les ennemis.<lf>Elle est conseillée pour les joueurs qui ont du mal à<lf>éliminer les ennemis.<lf><lf>Elle peut être modifiée à tout moment via le menu Options.
+<string>Impossible d'utiliser ces données de sauvegarde.<lf>Elles ne sont pas compatibles.
+<string>Impossible d'utiliser ces données de sauvegarde additionnelles.<lf>Elles ne sont pas compatibles.
+<string>"Nouvelle partie (bis)" est maintenant disponible<lf>dans la section "Campagne" du menu principal.<lf><lf>La fin et certaines parties du jeu diffèrent dans<lf>les scénarios bis.
+<string>Passer en mode "Facile" et continuer ?<lf><lf>・Aide à la visée<lf>・Récupération automatique d'une certaine quantité de vie<lf>・Ennemis un peu moins résistants<lf><lf>Attention : une fois effectué, le changement de mode<lf>ne peut être annulé.
+<string>Vous jouez maintenant en mode "Facile".
+<string>De nouveaux personnages ont été déverrouillés.
+<string>Activer le mode HDR ?
+<string>HDR activé.
+<string>L'activation du mode HDR a échoué.<lf>Le jeu commencera avec le mode HDR désactivé.<lf><lf>Si vous souhaitez activer le mode HDR, allez dans<lf>Options → Affichage et activez l'option "Mode HDR".
+<string>L'activation du mode HDR a échoué.<lf>Le jeu commencera avec le mode HDR désactivé.
+<string>Les modes additionnels contiennent des spoilers sur<lf>l'aventure principale. Afin d'éviter les spoilers,<lf>nous vous conseillons de finir d'abord l'aventure principale.
+<string>Rétablir les configurations de touches par défaut ?

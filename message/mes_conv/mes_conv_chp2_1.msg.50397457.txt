@@ -1,0 +1,136 @@
+<string>Hé ho ! Est-ce qu'il y a quelqu'un ?
+<string>Y'a quelqu'un ?
+<string>Ça va aller...
+<string>Respire, Claire. Respire.
+<string>Bon sang...
+<string>Oh... Oh mon Dieu...
+<string>Ouvrez-moi ! Vite, ouvrez-moi !
+<string>Je vais vous aider !
+<string>Ouvrez cette putain de porte !
+<string>Ouvrez-moi ! Vite, ouvrez-moi !
+<string>J'arrive !
+<string>Ouvrez cette putain de porte !
+<string>
+<string>Merde ! Ils sont partout !
+<string>C'est quoi ?
+<string>C'est pas comme ça que j'imaginais mon premier jour.
+<string>Quelle idée de transformer un musée en commissariat...
+<string>Donc Elliot avait raison...
+<string>On dirait... Mais le passage est encore fermé.
+<string>Donc Elliot avait raison...
+<string>Ouais, mais on n'est pas encore sortis...
+<string>
+<string>
+<string>
+<string>
+<string>Ici 73-Bird——sauvetage.<PAGE><lf>——vers l'est——River.<PAGE><lf>Arrivée au R.P.D.——<PAGE><lf>Je répète, arrivée dans——
+<string>Ici 73-Bird——sauvetage.
+<string>——vers l'est——River.
+<string>Arrivée au R.P.D.——
+<string>Je répète, arrivée dans——
+<string>C'était quoi ça ?
+<string>C'était quoi ?
+<string>
+<string>
+<string>
+<string>
+<string>Leon, c'est Marvin.<lf>Il faut que tu reviennes immédiatement.<PAGE><lf>Tout va bien, Marvin ?<PAGE><lf>Je veux te montrer quelque chose.<lf>C'est important.<PAGE><lf>Compris, j'arrive tout de suite.
+<string>Leon, c'est Marvin.<lf>Il faut que tu reviennes immédiatement.
+<string>Tout va bien, Marvin ?
+<string>Je veux te montrer quelque chose.<lf>C'est important.
+<string>Compris, j'arrive tout de suite.
+<string>
+<string>
+<string>
+<string>
+<string>Claire, c'est Marvin.<lf>Est-ce que tu peux revenir rapidement ?<PAGE><lf>Qu'est-ce qui se passe ?<PAGE><lf>Je veux te montrer quelque chose.<lf>C'est important.<PAGE><lf>Compris. J'arrive tout de suite.
+<string>Claire, c'est Marvin.<lf>Est-ce que tu peux revenir rapidement ?
+<string>Qu'est-ce qui se passe ?
+<string>Je veux te montrer quelque chose.<lf>C'est important.
+<string>Compris. J'arrive tout de suite.
+<string><COLOR FF0000>#Rejected#</COLOR> CONV240_0010_pl0000
+<string><COLOR FF0000>#Rejected#</COLOR> CONV240_0020_pl0000
+<string><COLOR FF0000>#Rejected#</COLOR> CONV241_0010_pl1000
+<string><COLOR FF0000>#Rejected#</COLOR> CONV241_0020_pl1000
+<string><COLOR FF0000>#Rejected#</COLOR> CONV242_0010_pl5700
+<string><COLOR FF0000>#Rejected#</COLOR> CONV243_0010_pl5700
+<string>
+<string>
+<string>
+<string>
+<string>Euh... Marvin ? Ça chauffe par ici.<PAGE><lf>Ça grouille de zombies !<PAGE><lf>Marvin ! Vous me recevez ?<lf>Marvin !?<PAGE><lf>Merde !
+<string>Euh... Marvin ? Ça chauffe par ici.
+<string>Ça grouille de zombies !
+<string>Marvin ! Vous me recevez ?<lf>Marvin !?
+<string>Merde !
+<string>
+<string>
+<string>
+<string>
+<string>Hé, Marvin ! Ça craint ici.<PAGE><lf>Il y a des zombies partout !<PAGE><lf>Marvin ? Marvin, vous êtes là ?<lf>Marvin ?!<PAGE><lf>Merde, il manquait plus que ça...
+<string>Hé, Marvin ! Ça craint ici.
+<string>Il y a des zombies partout !
+<string>Marvin ? Marvin, vous êtes là ?<lf>Marvin ?!
+<string>Merde, il manquait plus que ça...
+<string><COLOR FF0000>#Rejected#</COLOR> CONV244_0010_pl0000
+<string><COLOR FF0000>#Rejected#</COLOR> CONV244_0020_pl0000
+<string><COLOR FF0000>#Rejected#</COLOR> CONV245_0010_pl1000
+<string><COLOR FF0000>#Rejected#</COLOR> CONV245_0020_pl1000
+<string>Toujours vivant...
+<string>OK... Faut pas traîner...
+<string>C'est quoi ce truc ?
+<string>Putain ! C'est quoi, ça ?
+<string>C'est quoi ça ?
+<string>Hé ! Y'a quelqu'un ?
+<string>Il a pas l'air de vouloir discuter...
+<string>Pas le choix ! Il faut que je l'abatte !
+<string>Merde. Il est où ?
+<string>Quelqu'un m'observe...
+<string>Je crois pas qu'il ait envie de négocier !
+<string>Il va falloir l'abattre.
+<string>Merde ! Il est où ?
+<string>Par ici !
+<string><COLOR FF0000>#Rejected#</COLOR> CONV386_0020_pl3000
+<string>Ça bouge pas !
+<string>Tu as réussi !
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Alors... Comment est ta maman ?<PAGE><lf>Elle travaille à Umbrella.<PAGE><lf>Elle fabrique un nouveau médicament important.<PAGE><lf>Umbrella ? Cette grande société pharmaceutique ?<PAGE><lf>Ma maman travaille beaucoup.<PAGE><lf>Je la vois pas souvent.<PAGE><lf>Oh... Avec un peu de chance, tu la reverras bientôt.
+<string>Alors... Comment est ta maman ?
+<string>Elle travaille à Umbrella.
+<string>Elle fabrique un nouveau médicament important.
+<string>Umbrella ? Cette grande société pharmaceutique ?
+<string>Ma maman travaille beaucoup.
+<string>Je la vois pas souvent.
+<string>Oh... Avec un peu de chance, tu la reverras bientôt.
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Et... où est ton papa ?<PAGE><lf>Il travaillait avec ma mère mais... il est parti.<PAGE><lf>Oh...<PAGE><lf>Moi, mes deux parents sont partis.<lf>Je n'ai plus que mon frère.<PAGE><lf>Oh, je suis désolée...<PAGE><lf>Pas de souci. Et ça nous fait quelque chose en commun !<PAGE><lf>C'est une bonne chose, non ?
+<string>Et... où est ton papa ?
+<string>Il travaillait avec ma mère mais... il est parti.
+<string>Oh...
+<string>Moi, mes deux parents sont partis.<lf>Je n'ai plus que mon frère.
+<string>Oh, je suis désolée...
+<string>Pas de souci. Et ça nous fait quelque chose en commun !
+<string>C'est une bonne chose, non ?
+<string>Claire... J'espère que tu t'en es sortie.
+<string>C'est pas exactement ce que j'avais imaginé...
+<string>Quelque chose me dit que c'est pas un flic.
+<string>Leon... Je suis sûre que tu es arrivé avant moi.
+<string>Je parie qu'il fait pas partie des secours.
+<string>
+<string>
+<string>Ouvrez-moi ! Vite, ouvrez-moi !<PAGE><lf>Ouvrez cette putain de porte !
+<string>
+<string>
+<string>Ouvrez-moi ! Vite, ouvrez-moi !<PAGE><lf>Ouvrez cette putain de porte !

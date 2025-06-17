@@ -1,0 +1,14 @@
+<string><TIME 7.86, 9.13><TIME 16.61, 17.49><TIME 18.62, 20.47><TIME 21.38, 23.35><TIME 30.58, 32.87><TIME 39.57, 40.55>Il y a forcément quelqu'un ici...<PAGE><lf>C'est pas bon, ça.<PAGE><lf>David ! Marvin ! Vous m'entendez ?<PAGE><lf>On a un moyen de sortir ! Tout est là-dedans !<PAGE><lf>Envoyez des renforts ! Dans le couloir est !<PAGE><lf>Il faut que j'aille l'aider.
+<string>Il y a forcément quelqu'un ici...
+<string>C'est pas bon, ça.
+<string>David ! Marvin ! Vous m'entendez ?
+<string>On a un moyen de sortir ! Tout est là-dedans !
+<string>Envoyez des renforts ! Dans le couloir est !
+<string>Il faut que j'aille l'aider.
+<string><TIME 6.8, 9.36><TIME 16.16, 18.61><TIME 18.79, 21.11><TIME 21.61, 23.77><TIME 30.83, 33.47><TIME 39.72, 41.19>Allez, Chris... Où est-ce que tu es ?<PAGE><lf>Merde... Il y en a à l'intérieur.<PAGE><lf>David ! Marvin ! Vous m'entendez ?<PAGE><lf>On a un moyen de sortir ! Tout est là-dedans !<PAGE><lf>Envoyez des renforts ! Dans le couloir est !<PAGE><lf>Il faut que j'aille l'aider.
+<string>Allez, Chris... Où est-ce que tu es ?
+<string>Merde... Il y en a à l'intérieur.
+<string>David ! Marvin ! Vous m'entendez ?
+<string>On a un moyen de sortir ! Tout est là-dedans !
+<string>Envoyez des renforts ! Dans le couloir est !
+<string>Il faut que j'aille l'aider.

@@ -1,0 +1,124 @@
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_dummy
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_dummy
+<string>Se déplacer
+<string><ICON MOVE>
+<string>Contrôler la vue
+<string><ICON CAMERA>
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_003
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_003
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_004
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_004
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_005
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_005
+<string>Courir
+<string><ICON RUN>
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_007
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_007
+<string>Ouvrir l'inventaire
+<string><ICON STATUS>
+<string>Voir la carte
+<string><ICON OPEN_MAP>
+<string>Recharger
+<string><ICON RELOAD>
+<string>Changer d'arme
+<string><ICON EQUIP>
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_012
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_012
+<string>Voir les fichiers
+<string><ICON STATUS>, puis <ICON TAB_RIGHT>
+<string>S'accroupir
+<string><ICON HOLD_MAIN>
+<string>S'accroupir
+<string><ICON HOLD_MAIN>
+<string>Dégainer et tirer
+<string><ICON HOLD_MAIN> + <ICON ATTACK>
+<string>Dégainer et pirater
+<string><ICON HOLD_MAIN> + <ICON ATTACK>
+<string>Changer de munitions
+<string><ICON CHANGE_BULLET>
+<string>Changer d'arme secondaire
+<string><ICON HOLD_SUB> + <ICON EQUIP>
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_020
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_020
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_021
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_021
+<string>Changer de munitions
+<string><ICON CHANGE_BULLET>
+<string>Sortir une arme secondaire et attaquer
+<string><ICON HOLD_SUB> + <ICON ATTACK>
+<string>Décharge maximale
+<string>Maintenir <ICON HOLD_MAIN>
+<string>Organiser les objets
+<string><ICON STATUS>
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_026
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_026
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_027
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_027
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_028
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_028
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_029
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_029
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_030
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_030
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_dummy
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_dummy
+<string>Grenade
+<string>À équiper depuis l'inventaire.<lf>Permet de tuer les ennemis situés<lf>dans le rayon de l'explosion.<lf><lf><ICON HOLD_SUB>: Armer<lf><ICON ATTACK>: Lancer<lf><lf>Peut être utilisée pour contre-attaquer (<ICON HOLD_SUB>)<lf>quand un ennemi vous saisit, mais son<lf>efficacité est alors grandement réduite.
+<string>Grenade assourdissante
+<string>À équiper depuis l'inventaire.<lf>Permet d'étourdir les ennemis situés<lf>dans la zone d'effet.<lf><lf><ICON HOLD_SUB>: Armer<lf><ICON ATTACK>: Lancer<lf><lf>Peut être utilisée pour contre-attaquer (<ICON HOLD_SUB>)<lf>quand un ennemi vous saisit, mais son<lf>efficacité est alors grandement réduite.
+<string>Couteau de combat
+<string>À équiper depuis l'inventaire.<lf>Le couteau s'abîme à chaque utilisation<lf>et casse lorsque sa jauge est vide.<lf><lf><ICON HOLD_SUB>: Sortir le couteau<lf><ICON ATTACK>: Attaquer<lf><lf>Vous pouvez contre-attaquer (<ICON HOLD_SUB>)<lf>quand un ennemi vous saisit, et récupérer<lf>le couteau une fois l'ennemi vaincu.
+<string>Examiner les objets
+<string>Vous pouvez examiner un objet sous tous<lf>les angles en le sélectionnant et en<lf>utilisant la commande "<ICON SEARCH>Examiner".<lf><lf>Il se peut que vous découvriez quelque<lf>chose d'utile à votre progression.
+<string>GM 79
+<string>Ce lance-grenades est capable de tirer<lf>des munitions incendiaires et acides.<lf><lf><ICON CHANGE_BULLET>: Changer de type de munition
+<string>Fusil électrique
+<string>Cette arme plante des broches métalliques dans<lf>votre cible, et vous permet de lui infliger des<lf>décharges électriques aussi longtemps que vous<lf>pointez l'arme (en maintenant <ICON HOLD_MAIN>).<lf><lf>Attention, si vous envoyez trop de courant<lf>électrique à travers les câbles de l'arme,<lf>ils se couperont après la dernière décharge.
+<string>Lance-flammes chimique
+<string>Maintenez <ICON ATTACK> pour utiliser le lance-flammes.<lf><lf>Plus vous enflammez une cible, et plus les flammes<lf>générées seront grandes.
+<string>Utiliser des objets clés
+<string>Lorsqu'il vous faut un objet pour déverrouiller<lf>une porte ou activer un mécanisme, sélectionnez<lf>l'objet en question et la commande "<ICON USE>Utiliser".
+<string>Se débarrasser d'objets clés
+<string>Vous pouvez vous débarrasser des objets déjà<lf>utilisés et marqués d'un symbole <ICON USELESSITEM><lf>en sélectionnant la commande "<ICON TRASH>Jeter".
+<string>Utiliser la carte
+<string>La carte est utile non seulement pour se repérer,<lf>mais aussi pour conserver une trace des points<lf>d'intérêt et des objets non ramassés.
+<string>Modifier les armes
+<string>Certaines armes peuvent être modifiées via<lf>des éléments de personnalisation. Utilisez<lf>la commande "<ICON COMBINE>Combiner" pour attacher<lf>un élément à une arme.
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_012
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_012
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_013
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_013
+<string>Combiner des objets
+<string>Certains objets peuvent être combinés avec<lf>d'autres objets via la commande "<ICON COMBINE>Combiner".<lf>En faisant cela, vous pourrez libérer un<lf>emplacement dans votre inventaire ou créer<lf>quelque chose de nouveau.
+<string>Santé et objets de soin
+<string>Au fur et à mesure des dégâts que vous subissez,<lf>votre statut indiqué par le moniteur de santé en<lf>bas à gauche de l'écran changera dans cet ordre :<lf><COL FINE>OK</COLOR> > <COL CAUTION>Attention</COLOR> > <COL DANGER>Danger</COLOR><lf>Lorsque vous êtes en <COL DANGER>Danger</COLOR>, soignez-vous avec<lf>une plante verte ou un spray de premiers secours<lf>avant qu'il ne soit trop tard.
+<string>Détecteur CEM
+<string>Utilisez le détecteur CEM pour repérer<lf>les câbles et pirater les équipements<lf>électroniques.<lf><lf><ICON HOLD_MAIN>: Viser<lf>En visant, maintenir <ICON ATTACK>: Pirater
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_017
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_017
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_018
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_018
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_019
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_019
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_020
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_020
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_021
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_021
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_022
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_022
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_023
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_023
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_024
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_024
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_025
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_025
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_026
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_026
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_027
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_027
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_028
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_028
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_029
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_029
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_030
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_030

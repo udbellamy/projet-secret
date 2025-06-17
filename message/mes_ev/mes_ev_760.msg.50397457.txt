@@ -1,0 +1,35 @@
+<string><TIME 12.08, 14.24><TIME 14.4, 19.23><TIME 20.32, 24.74><TIME 24.96, 28.91><TIME 28.95, 30.49><TIME 32.54, 34.93><TIME 34.95, 38.73><TIME 39.11, 41.51><TIME 43.93, 45.51><TIME 48.06, 50.73><TIME 51.15, 54.54><TIME 54.92, 56.5><TIME 56.98, 59.68><TIME 59.76, 64.36><TIME 64.42, 65.61><TIME 65.64, 68.26><TIME 68.29, 69.54><TIME 69.57, 72.0><TIME 72.03, 73.66><TIME 73.78, 75.03><TIME 81.49, 85.76><TIME 102.73, 104.42><TIME 112.66, 115.22><TIME 123.91, 125.52><TIME 127.58, 130.01><TIME 130.03, 132.01><TIME 134.41, 135.73><TIME 135.77, 137.53><TIME 138.18, 139.75><TIME 140.69, 142.29><TIME 152.25, 154.56><TIME 158.21, 159.97>Justement, je pensais à toi.<PAGE><lf>On est deux alors !<lf>Je commençais à m'inquiéter.<PAGE><lf>On forme une bonne équipe...<lf>mais j'ai quelque chose à te demander.<PAGE><lf>La voie est libre. Allez, dis-moi que tu l'as.<PAGE><lf>Oh, je l'ai.<PAGE><lf>Laisse-moi vérifier l'échantillon et on fiche le camp.<PAGE><lf>Mais d'abord... J'ai croisé Annette.<PAGE><lf>Elle dit que tu n'es pas du FBI.<PAGE><lf>Oh, Leon...<PAGE><lf>Pourquoi tu m'as pas juste donné l'échantillon ?<PAGE><lf>J'ai compris que même si je voulais te faire confiance...<PAGE><lf>Je pouvais pas.<PAGE><lf>J'espérais ne pas avoir à en arriver là.<PAGE><lf>Donc c'était ça ?<lf>J'étais qu'un pion pour toi ?<PAGE><lf>Je ne fais que mon travail.<PAGE><lf>Et moi le mien, alors pose cette arme !<PAGE><lf>Tu viens avec moi.<PAGE><lf>Donne-moi l'échantillon, Leon.<PAGE><lf>Je ne veux pas te blesser.<PAGE><lf><PAGE><lf>Vas-y, tire ! Je pense pas que t'en sois capable.<PAGE><lf>Ada !<PAGE><lf>Personne n'aura cet échantillon maintenant.<PAGE><lf>Leon...<PAGE><lf>Attends ! Je peux...<PAGE><lf>Oh merde !<PAGE><lf>Lâche-moi.<PAGE><lf>Tais-toi ! Je te tiens !<PAGE><lf>Ça sert à rien.<PAGE><lf>Fais pas ça...<PAGE><lf>Fais attention à toi, Leon.<PAGE><lf>Non !
+<string>Attention : Séquence d'autodestruction activée.
+<string>Utilisez l'ascenseur central pour évacuer<lf>immédiatement vers le quai du niveau inférieur.
+<string>Justement, je pensais à toi.
+<string>On est deux alors !<lf>Je commençais à m'inquiéter.
+<string>On forme une bonne équipe...<lf>mais j'ai quelque chose à te demander.
+<string>La voie est libre. Allez, dis-moi que tu l'as.
+<string>Oh, je l'ai.
+<string>Laisse-moi vérifier l'échantillon et on fiche le camp.
+<string>Mais d'abord... J'ai croisé Annette.
+<string>Elle dit que tu n'es pas du FBI.
+<string>Oh, Leon...
+<string>Pourquoi tu m'as pas juste donné l'échantillon ?
+<string>J'ai compris que même si je voulais te faire confiance...
+<string>Je pouvais pas.
+<string>J'espérais ne pas avoir à en arriver là.
+<string>Donc c'était ça ?<lf>J'étais qu'un pion pour toi ?
+<string>Je ne fais que mon travail.
+<string>Et moi le mien, alors pose cette arme !
+<string>Tu viens avec moi.
+<string>Donne-moi l'échantillon, Leon.
+<string>Je ne veux pas te blesser.
+<string>
+<string>Vas-y, tire ! Je pense pas que t'en sois capable.
+<string>Ada !
+<string>Personne n'aura cet échantillon maintenant.
+<string>Leon...
+<string>Attends ! Je peux...
+<string>Oh merde !
+<string>Lâche-moi.
+<string>Tais-toi ! Je te tiens !
+<string>Ça sert à rien.
+<string>Fais pas ça...
+<string>Fais attention à toi, Leon.
+<string>Non !

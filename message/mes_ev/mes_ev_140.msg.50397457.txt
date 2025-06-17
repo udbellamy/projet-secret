@@ -1,0 +1,45 @@
+<string><TIME 3.34, 4.51><TIME 5.56, 6.86><TIME 9.77, 10.98><TIME 11.03, 12.95><TIME 12.98, 14.23><TIME 22.73, 26.39><TIME 26.41, 28.66><TIME 28.66, 31.34><TIME 32.03, 35.22><TIME 35.24, 40.06><TIME 40.67, 43.41><TIME 43.99, 47.06><TIME 47.19, 48.77><TIME 49.06, 52.68><TIME 57.22, 60.48><TIME 60.55, 63.59><TIME 66.52, 67.59><TIME 67.62, 70.64><TIME 73.28, 75.63><TIME 77.87, 81.39>Hé !<PAGE><lf>Leon !?<PAGE><lf>Claire !<PAGE><lf>Bouge pas ! J'arrive tout de suite !<PAGE><lf>D'accord !<PAGE><lf>Claire...<lf>Je suis content de te voir.<PAGE><lf>Comment tu vas ?<lf>Cet hélicoptère est sorti de nulle part...<PAGE><lf>Ouais... J'ai rien de cassé.<PAGE><lf>Évidemment, aucune de ces poches ne contient la clé, je me trompe ?<PAGE><lf>Malheureusement, non...<lf>Toi, comment tu t'en sors ?<PAGE><lf>On va dire que... je survis.<PAGE><lf>Tant mieux.<lf>Des nouvelles de ton frère ?<PAGE><lf>Non, pas encore.<PAGE><lf>Claire, garde espoir.<lf>On finira par le retrouver...<PAGE><lf>Merde. Tu sais ce que ça veut dire...<PAGE><lf>Ouais...<lf>C'est l'heure du dîner.<PAGE><lf>Claire, reste pas ici.<PAGE><lf>T'en fais pas pour moi, Leon.<lf>Fais attention à toi.<PAGE><lf>Claire, va-t'en de là. Allez !<PAGE><lf>Hé ! On va s'en sortir. Tous les deux.
+<string>
+<string>
+<string>
+<string>Hé !
+<string>Leon !?
+<string>Claire !
+<string>Bouge pas ! J'arrive tout de suite !
+<string>D'accord !
+<string>Claire...<lf>Je suis content de te voir.
+<string>Comment tu vas ?<lf>Cet hélicoptère est sorti de nulle part...
+<string>Ouais... J'ai rien de cassé.
+<string>Évidemment, aucune de ces poches ne contient la clé, je me trompe ?
+<string>Malheureusement, non...<lf>Toi, comment tu t'en sors ?
+<string>On va dire que... je survis.
+<string>Tant mieux.<lf>Des nouvelles de ton frère ?
+<string>Non, pas encore.
+<string>Claire, garde espoir.<lf>On finira par le retrouver...
+<string>Merde. Tu sais ce que ça veut dire...
+<string>Ouais...<lf>C'est l'heure du dîner.
+<string>Claire, reste pas ici.
+<string>T'en fais pas pour moi, Leon.<lf>Fais attention à toi.
+<string>Claire, va-t'en de là. Allez !
+<string>Hé ! On va s'en sortir. Tous les deux.
+<string><TIME 3.67, 4.98><TIME 5.83, 7.29><TIME 10.58, 11.6><TIME 11.64, 13.08><TIME 21.75, 23.05><TIME 25.81, 28.8><TIME 28.82, 32.29><TIME 32.3, 34.43><TIME 35.73, 37.41><TIME 38.43, 43.1><TIME 43.24, 44.52><TIME 44.65, 45.83><TIME 46.23, 48.51><TIME 48.57, 50.49><TIME 55.71, 58.24><TIME 58.9, 61.08><TIME 65.08, 68.35><TIME 70.94, 72.89><TIME 72.9, 74.01><TIME 77.43, 80.45>Hé !<PAGE><lf>Claire ?!<PAGE><lf>Leon !<PAGE><lf>J'arrive tout de suite !<PAGE><lf>Eh merde...<PAGE><lf>Leon ! Faudrait qu'on arrête de se voir comme ça.<PAGE><lf>Tout va bien ? L'hélicoptère...<lf>Il a surgi de nulle part...<PAGE><lf>Ouais, ça va.<PAGE><lf>Je suppose que tu as pas la clé...<PAGE><lf>Non, je l'ai pas... Mais je suis contente de te revoir.<lf>Tu tiens le coup ?<PAGE><lf>Bah... On fait aller.<PAGE><lf>Sacrée nuit, hein ?<PAGE><lf>Ouais. Et ton frère ?<PAGE><lf>J'ai appris qu'en fait il...<PAGE><lf>Moi qui pensais que ça pouvait pas être pire...<PAGE><lf>Leon, tu ferais mieux de partir.<PAGE><lf>T'inquiète pas pour moi.<lf>Essaie... de te mettre à l'abri.<PAGE><lf>Leon, je plaisante pas.<lf>La clôture va pas tenir !<PAGE><lf>Vite, va-t'en !<PAGE><lf>On s'en sortira. Tous les deux.
+<string>Hé !
+<string>Claire ?!
+<string>Leon !
+<string>J'arrive tout de suite !
+<string>Eh merde...
+<string>Leon ! Faudrait qu'on arrête de se voir comme ça.
+<string>Tout va bien ? L'hélicoptère...<lf>Il a surgi de nulle part...
+<string>Ouais, ça va.
+<string>Je suppose que tu as pas la clé...
+<string>Non, je l'ai pas... Mais je suis contente de te revoir.<lf>Tu tiens le coup ?
+<string>Bah... On fait aller.
+<string>Sacrée nuit, hein ?
+<string>Ouais. Et ton frère ?
+<string>J'ai appris qu'en fait il...
+<string>Moi qui pensais que ça pouvait pas être pire...
+<string>Leon, tu ferais mieux de partir.
+<string>T'inquiète pas pour moi.<lf>Essaie... de te mettre à l'abri.
+<string>Leon, je plaisante pas.<lf>La clôture va pas tenir !
+<string>Vite, va-t'en !
+<string>On s'en sortira. Tous les deux.

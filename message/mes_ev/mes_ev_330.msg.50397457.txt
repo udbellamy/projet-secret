@@ -1,0 +1,16 @@
+<string><TIME 25.58, 26.42><TIME 26.61, 28.0><TIME 28.88, 30.97><TIME 32.23, 34.03><TIME 34.09, 35.8><TIME 35.98, 37.47><TIME 38.49, 40.43><TIME 50.33, 51.78><TIME 52.86, 54.95><TIME 55.83, 57.81><TIME 59.27, 63.4><TIME 65.3, 66.35>Ada !?<PAGE><lf>Ça commence à bien faire.<PAGE><lf>Déjà deux fois que je te sauve la peau.<PAGE><lf>Alors comme ça on compte les points ?<PAGE><lf>Écoute, ce n'est pas un jeu !<PAGE><lf>C'est une blague ?<PAGE><lf>Rien ne meurt ici, tu comprends ?<PAGE><lf>J'imagine que tu as la carte ?<PAGE><lf>Oui, et ça...<PAGE><lf>J'espérais que tu m'en dises plus là-dessus...<PAGE><lf>Peut-être... Après l'avoir écouté.<PAGE><lf>Fichons le camp d'ici.
+<string>
+<string>
+<string>Ada !?
+<string>Ça commence à bien faire.
+<string>Déjà deux fois que je te sauve la peau.
+<string>Alors comme ça on compte les points ?
+<string>Écoute, ce n'est pas un jeu !
+<string>C'est une blague ?
+<string>Rien ne meurt ici, tu comprends ?
+<string>
+<string>J'imagine que tu as la carte ?
+<string>Oui, et ça...
+<string>J'espérais que tu m'en dises plus là-dessus...
+<string>Peut-être... Après l'avoir écouté.
+<string>Fichons le camp d'ici.

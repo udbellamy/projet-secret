@@ -1,0 +1,11 @@
+<string>Première mission
+<string>Leon S. Kennedy, votre première affaire est<lf>très spéciale.<lf><lf>Votre mission est... d'ouvrir votre bureau ! La<lf>clé de la réussite se trouve dans les <COL FILE_EMP>initiales<lf>de nos prénoms</COLOR>. Entrez les lettres dans l'ordre<lf>de nos bureaux. Il y a deux serrures, une de<lf>chaque côté de votre bureau. Ouvrez les deux.
+<string>En gros, votre première tâche est de vous<lf>souvenir du nom de vos collègues, mais vous<lf>aviez compris, pas vrai ? Bonne chance, Leon.<lf>Au fait, il se peut que l'officier Scott ne<lf>soit pas très coopératif...<lf><lf><RIGHT>Lieutenant Branagh
+<string>(Griffonné au milieu de taches de sang)
+<string>T'as de la chance de pas être là, le bleu.
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>

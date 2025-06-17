@@ -1,0 +1,39 @@
+<string>
+<string>Ce n'est pas le moment...
+<string>Authentification du compte requise. Insérez votre clé dans le port USB.
+<string>"Les pellicules contiennent des preuves.<lf>Ne les laissez pas traîner !"
+<string>"Ascenseur express vers le bureau du chef.<lf>Réservé au personnel autorisé."
+<string>"Il me semble que la tour et le cavalier sont sur le même<lf>mur, et que le fou et la reine ne sont pas côte à côte.<lf>La reine et la tour étaient l'une en face de l'autre, aussi."
+<string>"La tour est à côté du cavalier, mais pas en face de la reine.<lf>Le roi n'est pas à côté de la reine, mais en face du cavalier,<lf>au bout. Le cavalier n'est pas à l'endroit indiqué."
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_Door01_Lock
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_Door01_Unlock
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_Door02_Lock
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_Door02_Unlock
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_Door03_Lock
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_Door03_Unlock
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_Door04_Lock
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_Door04_Unlock
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_CardReader_Search
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_CardReader_Unlock
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_FingerLock_Search
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_FingerLock_Unlock
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_Typewriter_NoInk
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_Typewriter_HasInk
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_Typewriter_SetItem
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_Typewriter_SetItemError
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_Typewriter_ContainInk_p1
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_Typewriter_ContainInk_p2
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_Typewriter_ContainInk_p3
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_Typewriter_Ink1to0
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_C4Bomb_Search01
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_C4Bomb_Search02
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_C4Bomb_SetItem
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_LightSwitch_Search
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_WoodBar01_Search
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_WoodBar01_SetItem
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_WoodBar01_After
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_AEDBox_Search
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_Dummy_001
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_Dummy_002
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_UseItem
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Common_MAP

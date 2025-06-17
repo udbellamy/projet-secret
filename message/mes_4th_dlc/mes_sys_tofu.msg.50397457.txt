@@ -1,0 +1,7 @@
+<string>Tofu
+<string>Uiro-Mochi
+<string>Annin Tofu
+<string>Konjac
+<string>Flan
+<string>Le Tofu survivant
+<string>Jouer au mode "Le Tofu survivant".

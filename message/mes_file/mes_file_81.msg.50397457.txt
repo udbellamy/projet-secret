@@ -1,0 +1,11 @@
+<string>Transcription d'entretien
+<string>— Mais cela n'explique pas les rumeurs qui<lf>courent sur l'orphelinat. Et le fait qu'Umbrella<lf>fasse partie des bienfaiteurs ne peut pas être<lf>qu'une simple coïncidence.<lf><lf>— Je croyais que cet entretien portait sur la<lf>nouvelle bourse d'étude mise en place par<lf>Umbrella.
+<string>— Annette, tout le monde s'en fiche de ça.<lf>Les gens veulent en savoir plus sur le virus G...<lf><lf>— Où avez-vous entendu parler de ça ?<lf><lf>— ...et sur ce putain de gouffre dans la ville<lf>qui, d'après la rumeur, mène tout droit vers<lf>votre labo souterrain.
+<string>— Alors, est-ce que vous allez m'en dire plus<lf>ou est-ce que vous...<lf><lf>— Cet entretien est terminé.<lf><lf>— Connasse.
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

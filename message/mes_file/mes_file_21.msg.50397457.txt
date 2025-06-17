@@ -1,0 +1,11 @@
+<string>Journal de Sally
+<string>4 janvier<lf>Les mercredi, c'est trop bien parce qu'on a<lf>un goûter et une glace. Je détestais là où<lf>j'étais avant. Les profs étaient méchants !<lf>On faisait que travailler et travailler encore<lf>et on avait pas de glace. J'adore cet endroit !
+<string>10 janvier<lf>Il y a eu une nouvelle règle importante<lf>aujourd'hui. Tout le monde doit écrire un<lf>journal, aller voir le docteur et on n'a<lf>plus le droit de sortir tous seuls. Du coup,<lf>j'ai plus besoin d'aller à l'école. J'ai pas<lf>envie que quelqu'un se moque de mes habits.<lf>Surtout pas le garçon qui les avait avant.
+<string>16 janvier<lf>Le directeur de l'orphelinat va venir<lf>aujourd'hui, alors je vais porter ma tenue<lf>préférée, celle à carreaux bleus.<lf><lf>Le directeur est grand.<lf>Le directeur a une moustache.<lf>Le directeur est policier.
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

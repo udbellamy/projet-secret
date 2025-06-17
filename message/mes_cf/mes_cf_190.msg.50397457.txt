@@ -1,0 +1,22 @@
+<string><TIME 10.07, 12.27><TIME 13.0, 14.8><TIME 15.68, 17.91><TIME 20.5, 21.27><TIME 22.82, 24.61><TIME 27.06, 29.29><TIME 30.38, 32.08><TIME 32.85, 34.21><TIME 34.72, 35.63><TIME 35.7, 36.5><TIME 38.08, 40.81><TIME 42.6, 44.74><TIME 47.0, 51.5><TIME 53.31, 55.5><TIME 56.69, 58.25><TIME 59.39, 60.5><TIME 66.02, 67.09><TIME 86.59, 88.32>Ça mène bien en bas...<PAGE><lf>C'est bon, on peut sortir.<PAGE><lf>Lieutenant Branagh ! Marvin !<PAGE><lf>On fiche le camp !<PAGE><lf>Hé, Marvin...<PAGE><lf>On doit vous emmener à l'hôpital sans tarder.<PAGE><lf>Non, non... Je...<PAGE><lf>Sauve ta peau.<PAGE><lf>Allez, je vais vous aider...<PAGE><lf>Va-t'en !<PAGE><lf>On peut encore sortir d'ici tous les deux, mais donnez...<PAGE><lf>C'est trop tard, Leon.<PAGE><lf>J'ai essayé, tu sais... Mais j'ai pas pu l'arrêter.<PAGE><lf>On peut pas laisser ça se propager.<PAGE><lf>Je compte sur toi.<PAGE><lf>Va-t'en...<PAGE><lf>Très bien.<PAGE><lf>Comptez sur moi, Marvin.
+<string>Ça mène bien en bas...
+<string>C'est bon, on peut sortir.
+<string>Lieutenant Branagh ! Marvin !
+<string>On fiche le camp !
+<string>On fiche le camp !
+<string>Hé, Marvin...
+<string>
+<string>On doit vous emmener à l'hôpital sans tarder.
+<string>Non, non... Je...
+<string>Sauve ta peau.
+<string>Allez, je vais vous aider...
+<string>Va-t'en !
+<string>On peut encore sortir d'ici tous les deux, mais donnez...
+<string>C'est trop tard, Leon.
+<string>J'ai essayé, tu sais... Mais j'ai pas pu l'arrêter.
+<string>On peut pas laisser ça se propager.
+<string>Je compte sur toi.
+<string>Va-t'en...
+<string>Très bien.
+<string>Comptez sur moi, Marvin.
+<string><TIME 6.43, 8.0><TIME 9.44, 11.45><TIME 11.9, 14.9><TIME 16.41, 19.22><TIME 23.39, 24.31><TIME 29.03, 32.27><TIME 32.6, 33.82><TIME 34.27, 35.44><TIME 35.46, 36.11><TIME 36.15, 37.63><TIME 39.99, 42.12><TIME 43.3, 45.37><TIME 46.62, 48.42><TIME 48.45, 55.13><TIME 64.59, 65.42><TIME 70.24, 71.32><TIME 74.38, 75.3>On dirait que ça mène au sous-sol...<PAGE><lf>Super. On va pouvoir sortir d'ici.<PAGE><lf>Hé Marvin ! C'est bon !<lf>Il y a bien une issue !<PAGE><lf>Marvin, debout.<lf>On fiche le camp d'ici. Allez !<PAGE><lf>Est-ce que ça va ?<PAGE><lf>Non, je... Vas-y.<PAGE><lf>Sauve ta peau.<PAGE><lf>Qu'est-ce que vous racontez ?<PAGE><lf>Il faut vous emmener à l'hôpital...<PAGE><lf>Je t'en prie, Claire...<PAGE><lf>On sait tous les deux comment ça va se finir.<PAGE><lf>Il faut que tu quittes la ville.<PAGE><lf>Je peux pas vous laisser ici.<PAGE><lf>Claire, s'il te plaît... Va-t'en...<lf>Fais ça pour moi.<PAGE><lf>D'accord.<PAGE><lf>Marvin...<PAGE><lf>Merci.

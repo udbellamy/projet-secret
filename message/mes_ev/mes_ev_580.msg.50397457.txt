@@ -1,0 +1,13 @@
+<string><TIME 6.96, 9.84><TIME 10.5, 13.5><TIME 16.14, 19.86><TIME 20.98, 24.09><TIME 24.45, 25.75><TIME 28.34, 31.87><TIME 32.76, 34.6><TIME 45.98, 47.17><TIME 47.81, 48.99><TIME 59.5, 60.62><TIME 64.14, 66.34>Ça suffit de jouer au chat et à la souris.<PAGE><lf>La partie est finie. Vous avez perdu.<PAGE><lf>Dites-moi... Votre mari est encore vivant ?<PAGE><lf>Ou vous l'avez tué pour vous attribuer le mérite du virus G ?<PAGE><lf>Théorie intéressante...<PAGE><lf>Si vous ne coopérez pas, j'obtiendrai un échantillon du NEST.<PAGE><lf>Il faudra d'abord me tuer.<PAGE><lf>Eh, merde...<PAGE><lf><PAGE><lf><PAGE><lf>Où est Leon quand on a besoin de lui ?
+<string>Ça suffit de jouer au chat et à la souris.
+<string>La partie est finie. Vous avez perdu.
+<string>Dites-moi... Votre mari est encore vivant ?
+<string>Ou vous l'avez tué pour vous attribuer le mérite du virus G ?
+<string>Théorie intéressante...
+<string>
+<string>Si vous ne coopérez pas, j'obtiendrai un échantillon du NEST.
+<string>Il faudra d'abord me tuer.
+<string>Eh, merde...
+<string>
+<string>
+<string>Où est Leon quand on a besoin de lui ?

@@ -1,0 +1,11 @@
+<string>Vertus des plantes
+<string>L'homme utilise des plantes pour soigner les<lf>maladies depuis la nuit des temps. Cet ouvrage<lf>analyse les plantes médicinales natives<lf>des montagnes Arklay.<lf><lf>Les <COL FILE_EMP>plantes vertes</COLOR> soignent les blessures sans<lf>gravité et les <COL FILE_EMP>plantes bleues</COLOR> sont utilisées<lf>depuis longtemps contre les empoisonnements.
+<string>Quant aux <COL FILE_EMP>plantes rouges</COLOR>, elles n'ont malgré<lf>leur beauté aucun effet thérapeutique. C'est du<lf>moins ce que l'on pensait jusqu'à récemment.<lf><lf>On savait que <COL FILE_EMP>la combinaison</COLOR> de plusieurs<lf>plantes améliorait les effets, mais on a<lf>découvert que les plantes rouges étaient utiles<lf>lorsqu'elles étaient correctement associées.
+<string>D'après un expert en médecine asiatique,<lf>un mélange de plantes bleues et rouges<lf><COL FILE_EMP>renforce la constitution</COLOR>.<lf><lf>Nous commençons seulement à réaliser le<lf>potentiel de ces plantes et leur capacité à<lf>soigner le corps. Des analyses poussées<lf>donneront sans doute des résultats fascinants.
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

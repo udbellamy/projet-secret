@@ -1,0 +1,340 @@
+<string>Le scénario "Sans issue" est maintenant disponible.
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Common_LVUP
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Common_BtnGuide_Store_PS4
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Common_BtnGuide_Store_Xone
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Common_BtnGuide_Store_Steam
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Common_Start_Title
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Common_Finish_Title
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Common_Fail_Title
+<string>Difficulté :
+<string>Difficulté : ★
+<string>Difficulté : ★★
+<string>Difficulté : ★★★
+<string>Difficulté : ★★★★
+<string>Difficulté : ★★★★★
+<string>Entraînement
+<string>Difficulté : Entraînement<lf><lf>Utilisez <ICON CURSOR_LR> pour passer de la difficulté normale<lf>au mode Entraînement.<lf><lf>Le mode Entraînement s'adresse aux nouveaux joueurs.<lf>Dans ce mode, les ennemis seront plus faibles et vous<lf>commencerez avec plus d'objets. En revanche, votre score<lf>ne sera pas pris en compte.<lf><lf>Utilisez ce mode pour vous familiariser avec le placement<lf>des ennemis et des objets, et trouver la meilleure stratégie<lf>pour compléter le scénario.
+<string>Difficulté : Entraînement<lf><lf>Utilisez <ICON CURSOR_LR> pour passer de la difficulté normale<lf>au mode Entraînement.<lf><lf>Le mode Entraînement s'adresse aux nouveaux joueurs.<lf>Dans ce mode, les ennemis seront plus faibles et vous<lf>commencerez avec plus d'objets. En revanche, votre score<lf>ne sera pas pris en compte.<lf><lf>Utilisez ce mode pour vous familiariser avec le placement<lf>des ennemis et des objets, et trouver la meilleure stratégie<lf>pour compléter le scénario.
+<string>Difficulté : Entraînement<lf><lf>Utilisez <ICON CURSOR_LR> pour passer de la difficulté normale<lf>au mode Entraînement.<lf><lf>Le mode Entraînement s'adresse aux nouveaux joueurs.<lf>Dans ce mode, les ennemis seront plus faibles et vous<lf>commencerez avec plus d'objets. En revanche, votre score<lf>ne sera pas pris en compte.<lf><lf>Utilisez ce mode pour vous familiariser avec le placement<lf>des ennemis et des objets, et trouver la meilleure stratégie<lf>pour compléter le scénario.
+<string>Bonus débloqués (Les survivants fantômes)
+<string>:
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_SaveLoad_PlayTime
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_SaveLoad_OwnItem
+<string>Les survivants fantômes
+<string>Jouer au mode "Les survivants fantômes".
+<string><ICON CURSOR_LR> Changer la difficulté
+<string><ICON DEFAULT> Changer d'accessoire
+<string>Soldat oublié
+<string>Jouer au scénario "Soldat oublié".
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_LostS_Title_0001_BtnGuide
+<string>La fugitive
+<string>Jouer au scénario "La fugitive".
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_LostS_Title_0002_BtnGuide
+<string>Le deuil attendra
+<string>Jouer au scénario "Le deuil attendra".
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_LostS_Title_0003_BtnGuide
+<string>Sans issue
+<string>Jouer au scénario "Sans issue".
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_LostS_Title_0004_BtnGuide
+<string>MEILLEUR TEMPS
+<string>ENNEMIS TUÉS
+<string>BALLES DE PISTOLET TIRÉES
+<string>{0:D2}:{1:D2}.<size 40>{2:D3}</size>
+<string>{0:D2}:{1:D2}.<size 32>{2:D3}</size>
+<string>{0}
+<string>{0}
+<string>Accessoire
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Title_Title
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Title_Guide_Detail
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Title_BtnGuide
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Title_Dialogue
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_Title
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_Name_00
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_Name_01
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_Name_02
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_Name_03
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_Name_04
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_Name_05
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_Name_06
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_Name_07
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_Name_08
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_Name_09
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_FullName_00
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_FullName_01
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_FullName_02
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_FullName_03
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_FullName_04
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_FullName_05
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_FullName_06
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_FullName_07
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_FullName_08
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_FullName_09
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_Vital
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_Item
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_SuitWep
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_WepKind_00
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_WepKind_01
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_WepKind_02
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_WepKind_03
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_WepKind_04
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_WepKind_05
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_WepKind_06
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_WepKind_07
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_WepKind_08
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_ClearTime
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_BtnGuide_Cos
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CharSel_Dialogue
+<string>ACCESSOIRES
+<string>Changer d'accessoire pour votre tête.
+<string><ICON ACCESSORY_ROLL> Faire pivoter
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_LostS_Accessory_BtnGuide
+<string>Crâne
+<string>Crocodile
+<string>Masque à gaz
+<string>Poupée
+<string>Licorne
+<string>Mr. Raccoon
+<string>Mycomorphe
+<string>G
+<string>Ivy
+<string>Tyran
+<string>Licker
+<string>Tigre
+<string>Bélier
+<string>Raton laveur
+<string>Oreilles de chat <COL FILE_EMP>(munitions ∞)</COLOR>
+<string>Votre record ne sera pas mis à jour si vous équipez<lf>un accessoire qui vous donne des munitions infinies.
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CosSel_Accessory_15
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CosSel_Accessory_16
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CosSel_Accessory_17
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CosSel_Accessory_18
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CosSel_Accessory_19
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CosSel_Costume
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CosSel_Leon_00
+<string>Atteindre le funiculaire
+<string>Atteindre la cellule de Ben
+<string>Atteindre le point de rendez-vous dans les égouts
+<string>Tuer les zombies
+<string>{0}/{1}
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_HUD_Purpose_00
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_HUD_Purpose_01
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_HUD_Purpose_02
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_HUD_Purpose_03
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_HUD_Purpose_S_00
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_HUD_Purpose_S_01
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_HUD_Purpose_S_02
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_HUD_Common_Lv
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_HUD_Lv
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_HUD_EM_LV
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_HUD_EM_Dmg
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_HUD_Boss_Battle
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_HUD_Boss_Battle_Fin
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_ActLog_Title
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_ActLog_00
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_ActLog_01
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_ActLog_02
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_ActLog_03
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_ActLog_04
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_ActLog_05
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_ActLog_06
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_ActLog_07
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_ActLog_08
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_ActLog_Enemy_01
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_ActLog_Enemy_02
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_ActLog_Enemy_03
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_ActLog_Enemy_04
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_ActLog_Enemy_05
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_ActLog_Enemy_06
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_ActLog_Enemy_07
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_ActLog_Enemy_08
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_ActLog_Enemy_09
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_ActLog_Enemy_10
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_ActLog_Enemy_11
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_ActLog_Enemy_12
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_ActLog_Enemy_13
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_ActLog_Enemy_14
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_ActLog_Enemy_15
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_ActLog_Enemy_16
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_ActLog_Room_01
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_ActLog_Room_02
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_ActLog_Room_03
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_ActLog_Room_04
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Pause_Guide_Quit
+<string>Défis (Les survivants fantômes)
+<string>Voir les défis et les bonus débloqués dans le mode "Les survivants fantômes".
+<string>Cette option n'est disponible qu'en mode Entraînement.
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Inventory_Continue_Coin
+<string>SAC À DOS
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Backpack_Title
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_CATEGORY_SPECIAL
+<string>Sac à dos
+<string>Distributeur d'objets
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Map_Icon_WarpDoor
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Map_Icon_VenusShop
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Map_Rucksack
+<string>{0:D2}:{1:D2}.<size 80>{2:D3}</size>
+<string>{0:D2}:{1:D2}.<size 58>{2:D3}</size>
+<string>{0}
+<string>{0}
+<string>{0}
+<string>Réessayer
+<string>Quitter
+<string>BALLES DE PISTOLET TIRÉES
+<string>ENNEMIS TUÉS
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Result_SelContinue
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Result_SelExit
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rouge_Result_Dialogue_Continue
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Result_Dialogue_CoinNum
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Result_Dialogue_Retire
+<string>RÉSULTATS
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Result_CatLastLevel
+<string>ENNEMIS TUÉS :
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Result_CatItemNum
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Result_CatStep
+<string>TEMPS
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Result_BtnGuide_DispBack
+<string>SÉLECTIONNER UN OBJET
+<string>Sélectionnez un objet à prendre.
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_LostS_Shop_Get_Command
+<string>Prendre l'objet sélectionné.
+<string>OBJET PRIS
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Shop_Title
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Shop_CatStock
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Shop_CatCoin
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Shop_Guide_Select
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Shop_Dialogue_Buy
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Shop_Dialogue_Disable
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Shop_Unit
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Shop_OwnUnit
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Shop_Dialogue_DisablePoint
+<string>DÉFIS (LES SURVIVANTS FANTÔMES)
+<string>Ce n'est que le début
+<string>Jouer au mode "Les survivants fantômes" trois fois.
+<string>Dix nuits, dix cauchemars
+<string>Jouer au mode "Les survivants fantômes" dix fois.
+<string>Mission accomplie ?
+<string>Compléter le scénario "Soldat oublié".
+<string>Réunis
+<string>Compléter le scénario "La fugitive". (Hors mode Entraînement)
+<string>La vie continue
+<string>Compléter le scénario "Le deuil attendra".
+<string>Premier survivant
+<string>Compléter le scénario "Sans issue".
+<string>Le fantôme vivant
+<string>Compléter le scénario "Soldat oublié". (Hors mode Entraînement)
+<string>Le pouvoir de l'amour
+<string>Compléter le scénario "La fugitive". (Hors mode Entraînement)
+<string>Armé et dangereux
+<string>Compléter le scénario "Le deuil attendra". (Hors mode Entraînement)
+<string>Shérif à faire peur
+<string>Compléter le scénario "Sans issue". (Hors mode Entraînement)
+<string>Mélange détonnant
+<string>Fabriquer une grenade en combinant des objets.
+<string>Passe-partout
+<string>Compléter le scénario "La fugitive" en ayant ouvert tous les cadenas.<lf>(Hors mode Entraînement)
+<string>Égoutier
+<string>Compléter le scénario "Le deuil attendra" en empruntant les deux routes.<lf>(Hors mode Entraînement)
+<string>Fine gâchette
+<string>Compléter le scénario "Sans issue" sans tirer plus de {0} coups de pistolet.<lf>(Hors mode Entraînement)
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_LostS_Record_All
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_LostS_Record_All_Guide
+<string>Abattez-les tous !
+<string>Détruire tous les Mr. Raccoon cachés dans le mode "Les survivants fantômes".
+<string>{0}
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_LostS_Reward_Accessory_A
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_LostS_Reward_Accessory_B
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_LostS_Reward_Accessory_C
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_LostS_Reward_Accessory_D
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_LostS_Reward_Accessory_All
+<string>Accessoire : 
+<string>Crâne
+<string>Crocodile
+<string>Masque à gaz
+<string>Poupée
+<string>Licorne
+<string>Mr. Raccoon
+<string>Mycomorphe
+<string>G
+<string>Ivy
+<string>Tyran
+<string>Licker
+<string>Tigre
+<string>Bélier
+<string>Raton laveur
+<string>Oreilles de chat <COL FILE_EMP>(munitions ∞)</COLOR>
+<string>Aucun
+<string><size 30>Voici l'histoire d'un futur qui ne se réalisa jamais,<lf>d'une nuit sans aube.</size><lf><lf><COL LOADING_GRAY>"Votre objectif est de récupérer le virus G..."<lf>Sa première mission au sein de l'U.S.S. aurait dû être simple,<lf>mais une rafale de coups de feu vint tout bouleverser.<lf><lf>En devenant l'arme biologique G, William Birkin décima l'unité qui<lf>l'avait attaqué, à l'exception d'un soldat qui s'échappa de justesse<lf>et s'enfonça dans le NEST pour accomplir sa mission.<lf>Mais une fois l'échantillon du virus en sa possession, une alerte<lf>retentit dans toute l'installation : "Séquence d'autodestruction activée."<lf><lf>Pour le soldat oublié Ghost, l'ultime mission commence.</COL>
+<string><size 30>Voici l'histoire d'un futur qui ne se réalisa jamais,<lf>d'une nuit sans aube.</size><lf><lf><COL LOADING_GRAY>"Viens, je t'emmène retrouver celui que tu aimes..."<lf>Katherine Warren ne douta pas un seul instant d'Irons.<lf>C'était un gentleman et le chef de la police, en plus d'être<lf>un bon ami de son père, le maire.<lf><lf>Mais une fois dans l'orphelinat, Irons tomba le masque :<lf>"Tu sais, je crois que tu pourrais devenir ma plus belle réalisation."<lf>En entendant ces mots, le désespoir gagna la jeune femme.<lf>Mais le destin était avec elle. Elle ramassa les clés de la prison<lf>sur le cadavre de son bourreau et prit la décision de retrouver<lf>son bien-aimé, Ben...</COL>
+<string><size 30>Voici l'histoire d'un futur qui ne se réalisa jamais,<lf>d'une nuit sans aube.</size><lf><lf><COL LOADING_GRAY>En regardant le petit corps inerte à ses côtés, Robert Kendo<lf>retourna son arme contre lui-même. Mais alors qu'il allait appuyer sur<lf>la gâchette, il entendit la voix d'un vieil ami à travers sa radio grésillante :<lf><lf>"Robert ! Mon pote ! Réponds ! J'ai dégoté un hélicoptère pour nous sortir<lf>d'ici. Rejoins-moi dès que possible ! Je bouge pas jusqu'à ce que tu arrives !"<lf>Ce type avait toujours été têtu. Lorsqu'il avait une idée en tête, rien ne<lf>pouvait l'en détourner.<lf><lf>"Pardonne-moi, Emma. Papa doit y aller."<lf>Robert se leva. Son deuil attendrait encore un peu.</COL>
+<string><size 30>Voici l'histoire d'un futur qui ne se réalisa jamais,<lf>d'une nuit sans aube.</size><lf><lf><COL LOADING_GRAY>Le shérif Daniel Cortini reçut l'alerte alors qu'il était en voiture.<lf>"Quoi ? Ils ont presque été dévorés ?"<lf>Il se remémora alors les derniers titres : "Cannibale en cavale",<lf>"L'horreur frappe à nouveau", "Le criminel toujours en liberté"...<lf>Les mains moites de sueur, il donna un coup de volant pour se diriger<lf>vers l'endroit signalé, une station-service aux abords de la ville.<lf><lf>Envahi par le stress, il ne remarqua pas que l'air qui entrait par<lf>les fenêtres de la voiture était chargé de l'odeur du sang.</COL>
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Tips_00
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Tips_01
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Tips_02
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Tips_03
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Tips_04
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Tips_05
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Tips_06
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Tips_07
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Tips_08
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Tips_09
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Tips_10
+<string>Rapport de l'équipe de sécurité
+<string>De nombreux membres de l'équipe de sécurité<lf>du NEST ont été infectés par le virus qui s'est<lf>répandu. Certains d'entre eux portaient un<lf><COL FILE_EMP>équipement antipersonnel blindé</COLOR> (également<lf>appelé "équipement A").<lf><lf>L'équipement A est très résistant et offre<lf>une protection intégrale face aux tirs d'armes<lf>à feu. Il a été conçu pour faire face aux<lf>situations les plus incontrôlables.
+<string><END>
+<string>
+<string>
+<string>
+<string>Lettre au directeur
+<string>Vous vous souvenez des spécimens blancs<lf>mentionnés dans le rapport du mois dernier ?<lf>Les chercheurs les ont nommés "<COL FILE_EMP>Pale Heads</COLOR>".<lf>Ces spécimens ont subi une mutation spéciale.<lf>Contrairement aux spécimens habituels, ils sont<lf><COL FILE_EMP>capables de se régénérer</COLOR>. Il est difficile de<lf>les arrêter avec des armes de faible puissance.<lf><lf>(Pas impossible, certes, mais cela prendrait du<lf>temps. Personnellement, je ne m'y risquerais<lf>pas.)
+<string>Pour stopper un Pale Head, vous devez utiliser<lf>des <COL FILE_EMP>armes assez puissantes</COLOR> pour pouvoir lui<lf>infliger des dégâts qui dépassent sa capacité<lf>de régénération.<lf><lf>Mon équipe recherche actuellement un moyen<lf>de produire des Pale Heads avec fiabilité.<lf>J'aimerais donc demander que l'on double le<lf>nombre de sujets envoyés à notre laboratoire<lf>le mois prochain. C'est le prix que nous devons<lf>payer pour nous assurer un futur meilleur.
+<string><END>
+<string>
+<string>
+<string>Enregistrement radio de la police
+<string>— Ici l'officier Mills ! QG, répondez !<lf><lf>— Ici QG. Quelle est la situation ?<lf><lf>— On a un nouveau type de monstre.<lf>Avec leurs <COL FILE_EMP>yeux luisants</COLOR>, ces saloperies<lf>font vraiment flipper !
+<string>— Mon partenaire en a abattu un à bout portant.<lf>La créature y est restée, mais en mourant elle<lf>a libéré une sorte de <COL FILE_EMP>fumée violette</COLOR>... Merde !<lf><lf>— Officier, restez calme.<lf><lf>— Mon partenaire a pris cette fumée en pleine<lf>face. Depuis il n'arrête pas de <COL FILE_EMP>tousser</COLOR>.<lf>On dirait qu'il a du mal à respirer.
+<string>— C'est quoi ce bordel !? On n'était pas censés<lf>s'occuper de ces saloperies avec du gaz P-Z ?<lf><lf>— Calmez-vous. Nous demandons actuellement<lf>confirmation au département R et D d'Umbrella...<lf><lf>— Fermez-la ! Le gaz... Il y a un problème avec.<lf>Au lieu de les tuer, il les a fait mut...
+<string><END>
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_File_Name_00
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_File_00_00
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_File_Name_01
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_File_01_00
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_File_Name_02
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_File_02_00
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_File_Name_03
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_File_03_00
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_File_Name_04
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_File_04_00
+<string>Distributeurs d'objets
+<string>Vous ne pouvez prendre qu'un seul objet de<lf>chaque distributeur.<lf><lf>Vous ne pourrez pas obtenir les objets non<lf>sélectionnés, alors choisissez avec soin.
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Tutorial_Title_00
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Tutorial_00
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Tutorial_Title_01
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Tutorial_01
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Tutorial_Title_02
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Tutorial_02
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Tutorial_Title_03
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_Tutorial_03
+<string>Les sacs à dos
+<string>Vous pouvez prendre des objets dans les sacs à dos<lf>laissés par les zombies.<lf><lf>Dans le mode "Les survivants fantômes", les armes<lf>peuvent être jetées (<ICON TRASH>Jeter). Si vous n'avez pas<lf>assez de place dans votre inventaire pour prendre<lf>certains objets, pensez à vous débarrasser des armes<lf>dont vous n'avez plus l'utilité.
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_LostS_TutorialStop_Title_01
+<string>Accessoire débloqué !<lf><lf>Vous pouvez équiper des accessoires depuis le menu<lf>Accessoires. Accédez à ce menu en appuyant sur <ICON DEFAULT>.<lf>De nouveaux accessoires seront ajoutés au fur et à<lf>mesure que vous compléterez les différents défis.
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_TutorialStop_Title_00
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_TutorialStop_00
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_TutorialStop_Title_01
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_TutorialStop_01
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_TutorialStop_Title_02
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_TutorialStop_02
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_TutorialStop_Title_03
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_TutorialStop_03
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_TutorialStop_Title_04
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_TutorialStop_04
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_TutorialStop_Title_05
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_TutorialStop_05
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_TutorialStop_Title_06
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_TutorialStop_06
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_TutorialStop_Title_07
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_TutorialStop_07
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_TutorialStop_Title_08
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Rogue_TutorialStop_08

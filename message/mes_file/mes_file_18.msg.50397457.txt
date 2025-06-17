@@ -1,0 +1,11 @@
+<string>Rapport d'autopsie n°53477
+<string>Nom du défunt : Justin Hanson<lf>Homme blanc, 39 ans<lf><lf>Observations :<lf>Retrouvé mort dans sa cellule par les gardiens.<lf>Les poings sont encore serrés par la rigidité<lf>cadavérique, qui disparaîtra vite. Il est sans<lf>doute mort peu après l'extinction des feux.
+<string>Le défunt était un kleptomane notoire,<lf>incarcéré à de nombreuses reprises. Il a même<lf>continué à voler en prison, ce qui, bien<lf>qu'étonnant, confirme son diagnostic clinique.
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

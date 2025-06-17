@@ -1,0 +1,32 @@
+<string>L'installation des données de jeu n'est pas terminée.<lf>Veuillez patienter.
+<string>L'installation des données de jeu n'est pas terminée.<lf>Veuillez patienter jusqu'à la fin de l'installation.<lf><lf>Retour au menu principal.
+<string>Parties complétées
+<string>Zombies tués
+<string>Morsures
+<string>BIOHAZARD RE:2
+<string>RESIDENT EVIL 2
+<string>BIOHAZARD RE:2 Z Version
+<string>RESIDENT EVIL 2 / BIOHAZARD RE:2
+<string>Menu principal
+<string>Top secret
+<string>Données de sauvegarde système
+<string>Données de sauvegarde système (Extra)
+<string>Données de sauvegarde automatique
+<string>Données de sauvegarde - Emplacement {0}
+<string>Leon
+<string>Claire
+<string>Leon (bis)
+<string>Claire (bis)
+<string>Mode :
+<string>Sauvegardes :
+<string>Zone :
+<string>Objectif :
+<string>Langue :
+<string>Personnage :
+<string>Ada
+<string>Sherry
+<string>Correction de bugs
+<string>Ajout du mode "Les survivants fantômes"
+<string>Ajout de trophées
+<string>Ajout de succès
+<string>Ajout de langues supplémentaires (textes)

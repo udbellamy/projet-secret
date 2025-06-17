@@ -1,0 +1,201 @@
+<string>Résultats
+<string>Voir vos résultats de complétion du jeu.
+<string>Modèles
+<string>Concept arts
+<string>Voir les modèles débloqués.
+<string>Voir les concept arts débloqués.
+<string>Commandes
+<string>Variante A
+<string>Variante B
+<string>Variante C
+<string>Variante D
+<string>Variante E
+<string>Variante F
+<string>Variante G
+<string>Variante H
+<string>Variante I
+<string>Variante J
+<string>Variante K
+<string>Variante L
+<string>Voir les défis et les bonus débloqués.
+<string>Voir vos résultats de complétion du jeu.
+<string>? ? ?
+<string>Né à Raccoon City
+<string>Né à Raccoon City
+<string>Mais que fait la police ?
+<string>Chemin de la déesse
+<string>Pluie incessante
+<string>Pirate !
+<string>Cache-cache
+<string>Besoin d'une douche
+<string>Survie
+<string>Un héros est né
+<string>Une héroïne est née
+<string>Parapluie troué
+<string>Les bases de la survie
+<string>Premier cambriolage
+<string>Expert en cambriolage
+<string>Pauvre bête
+<string>Bricoleur
+<string>Besoin de place
+<string>Prends ça !
+<string>Défense d'entrer !
+<string>Mise au poing
+<string>Éclaboussures
+<string>Gâchette facile
+<string>Un problème ?
+<string>Brûlés ou fondus ?
+<string>Générateur humain
+<string>Barbecue
+<string>Tacticien né
+<string>Pas besoin de flingue
+<string>Torse nu
+<string>Et bon appétit bien sûr !
+<string>Ça décoiffe !
+<string>Poule !
+<string>Sonné
+<string>D'une pierre deux coups
+<string>Vieille branche
+<string>Fin électrique
+<string>Trois pour le prix d'un
+<string>Chapeau bas !
+<string>Pouce !
+<string>Électricien
+<string>Chargée à bloc
+<string>Aucune résistance
+<string>Un joyau et des joules
+<string>Apprenti chimiste
+<string>Chimiste de génie
+<string>En plein dans l'œil
+<string>Qui l'eût grue ?
+<string>Pose ça !
+<string>Les pieds sur terre
+<string>À l'aise
+<string>À plat
+<string>En un clin d'œil
+<string>Super espionne
+<string>Fugueuse
+<string>Jill serait fière
+<string>Espèce éteinte
+<string>Rat de bibliothèque
+<string>Chambre noire
+<string>Chasse au trésor
+<string>Plein de place
+<string>Poches pleines
+<string>Sac à dos plein
+<string>Fana d'armes
+<string>Passionnée d'armes
+<string>Reviens Leon !
+<string>Cette fois c'est Claire
+<string>Leon "A." Kennedy
+<string>Une étudiante pas comme les autres
+<string>Leon "S." Kennedy
+<string>Clairement au-dessus
+<string>Plus un bleu
+<string>La méthode Redfield
+<string>Sprinteur
+<string>Minimaliste
+<string>Allergique
+<string>Sans détour
+<string>La Faucheuse
+<string>Tofu tout flamme
+<string>Super Uiro
+<string>Annin tout fou
+<string>Inspecteur Konjac
+<string>Tire-au-Flan
+<string>Maître de l'histoire
+<string>Joueur Apte
+<string>Joueur Supérieur
+<string>Joueur Sensationnel
+<string>Espèce en danger
+<string>Signé Jill
+<string>Obtenir tous les trophées.
+<string>Compléter tous les défis.
+<string>Atteindre le commissariat.
+<string>Activer la statue de déesse.
+<string>S'échapper du commissariat.
+<string>Compléter la partie d'Ada.
+<string>Compléter la partie de Sherry.
+<string>S'échapper des égouts.
+<string>S'échapper du laboratoire.
+<string>Compléter la campagne de Leon.
+<string>Compléter la campagne de Claire.
+<string>Assister à la vraie fin.
+<string>Combiner deux objets ensemble.
+<string>Ouvrir un coffre à cadran.
+<string>Ouvrir un coffre portatif.
+<string>Détruire un Mr. Raccoon.
+<string>Modifier une arme.
+<string>Agrandir l'inventaire.
+<string>Contre-attaquer avec une arme secondaire.
+<string>Barricader une fenêtre avec des planches.
+<string>Tuer {0} ennemis avec une arme de poing.
+<string>Tuer {0} ennemis avec un fusil à pompe.
+<string>Tuer {0} ennemis avec un pistolet-mitrailleur.
+<string>Tuer {0} ennemis avec un MAG.
+<string>Tuer {0} ennemis avec le lance-grenades.
+<string>Tuer {0} ennemis avec le fusil électrique.
+<string>Tuer {0} ennemis avec le lance-flammes chimique.
+<string>Tuer {0} ennemis avec une arme secondaire.
+<string>Vaincre un ennemi au couteau.
+<string>Détruire les bras et les jambes d'un zombie.
+<string>Tirer sur une grenade mise dans la bouche d'un ennemi.
+<string>Tirer sur le chapeau de {0} zombies.
+<string>Abattre un chien zombie ou un Licker en l'air.
+<string>Neutraliser l'ouïe d'un Licker.
+<string>Tuer deux ennemis d'une seule balle ou d'un seul tir de fusil à pompe.
+<string>Immobiliser un Ivy en ne tirant que sur ses bulbes.
+<string>Infliger une décharge à pleine puissance en chargeant le fusil<lf>électrique au maximum.
+<string>Tuer {0} ennemis d'un coup avec une arme secondaire.
+<string>Tirer sur le chapeau du Tyran.
+<string>Forcer le Tyran à mettre un genou à terre.
+<string>Ouvrir la porte électronique de la cellule en {0} manipulations.<lf>[Campagne de Leon]
+<string>Ouvrir la porte électronique de la salle de collection privée en<lf>{0} manipulations. [Campagne de Claire]
+<string>Ouvrir la porte électronique de la cellule en {0} manipulations.<lf>[Campagne de Leon, scénario bis]
+<string>Ouvrir la porte électronique de la salle de collection privée en<lf>{0} manipulations. [Campagne de Claire, scénario bis]
+<string>Remplir la cartouche en {0} manipulations dans le labo de test<lf>des médicaments. [Campagne de Leon ou Claire]
+<string>Remplir la cartouche en {0} manipulations dans le labo de test<lf>des médicaments. [Campagne de Leon ou Claire, scénario bis]
+<string>Poignarder l'œil géant de G (1re forme).
+<string>Vaincre G (2e forme) en n'utilisant la grue qu'une seule fois.
+<string>Empêcher G (3e forme) de lancer des objets.
+<string>Tirer sur G (4e forme) pour le faire tomber d'un mur.
+<string>Vaincre G (4e forme) au moins {0} minutes avant la détonation.
+<string>Stopper la charge du Tyran S.
+<string>Vaincre le Tyran S au moins {0} minutes avant la détonation.
+<string>Compléter la partie d'Ada en n'utilisant que le détecteur CEM.
+<string>Quitter la chambre en moins de {0} secondes durant la partie de Sherry.
+<string>Ouvrir tous les coffres et cadenas du jeu.
+<string>Détruire tous les Mr. Raccoon.
+<string>Lire tous les fichiers.
+<string>Développer toutes les pellicules.
+<string>Trouver deux objets cachés grâce aux indices en photo.
+<string>Agrandir l'inventaire au maximum.
+<string>Obtenir tous les éléments de personnalisation dans la campagne de Leon.
+<string>Obtenir tous les éléments de personnalisation dans la campagne de Claire.
+<string>Obtenir toutes les armes dans la campagne de Leon.
+<string>Obtenir toutes les armes dans la campagne de Claire.
+<string>Compléter la campagne de Leon en mode "Hardcore".
+<string>Compléter la campagne de Claire en mode "Hardcore".
+<string>Compléter la campagne de Leon en "Normal" ou "Hardcore" avec le rang A.
+<string>Compléter la campagne de Claire en "Normal" ou "Hardcore" avec le rang A.
+<string>Compléter la campagne de Leon en "Normal" ou "Hardcore" avec le rang S.
+<string>Compléter la campagne de Claire en "Normal" ou "Hardcore" avec le rang S.
+<string>Compléter la campagne de Leon en "Hardcore" avec le rang S.
+<string>Compléter la campagne de Claire en "Hardcore" avec le rang S.
+<string>Compléter le jeu en moins de {0} heures.
+<string>Compléter le jeu sans ouvrir le coffre à objets.
+<string>Compléter le jeu sans utiliser d'objet de soin.
+<string>Ne pas effectuer plus de {0} pas dans une partie.
+<string>Compléter le mode additionnel "Le 4e survivant".
+<string>Compléter le mode additionnel "Le Tofu survivant".
+<string>Compléter le mode additionnel "Le Tofu survivant" avec Uiro-Mochi.
+<string>Compléter le mode additionnel "Le Tofu survivant" avec Annin Tofu.
+<string>Compléter le mode additionnel "Le Tofu survivant" avec Konjac.
+<string>Compléter le mode additionnel "Le Tofu survivant" avec Flan.
+<string>Compléter les 4 campagnes : Leon/Leon (bis)/Claire/Claire (bis).
+<string>Compléter le jeu en "Normal" ou "Hardcore" avec le rang A.
+<string>Compléter le jeu en "Normal" ou "Hardcore" avec le rang S.
+<string>Compléter le jeu en "Hardcore" avec le rang S.
+<string>Détruire {0} Mr. Raccoon.
+<string>Lire un message laissé par Jill.
+<string>Another Survivor

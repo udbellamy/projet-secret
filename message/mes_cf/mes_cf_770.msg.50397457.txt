@@ -1,0 +1,16 @@
+<string><TIME 3.57, 4.66><TIME 13.34, 14.58><TIME 15.13, 18.61><TIME 18.72, 21.79><TIME 22.49, 26.05><TIME 26.09, 28.55><TIME 30.79, 32.25><TIME 33.72, 35.07><TIME 35.62, 37.85><TIME 39.17, 42.51><TIME 43.65, 46.65><TIME 49.3, 50.48>Qui c'est ?<PAGE><lf>Claire !<PAGE><lf>Leon ! Toi aussi tu es là ?<PAGE><lf>Ouais. Mais tout est sur le point de s'écrouler.<PAGE><lf>Écoute-moi. Il faut que tu partes. Vite !<PAGE><lf>Oui. J'ai un moyen de sortir.<PAGE><lf>On va y arriver !<PAGE><lf>Où es-tu là ?<PAGE><lf>Claire ? Tu es encore là ?<PAGE><lf>Leon ? Leon, je t'entends mal !<PAGE><lf>M'attends pas ! Fiche le camp d'ici !<PAGE><lf>Merde !
+<string><COLOR FF0000>#Rejected#</COLOR> CF770_0010_pl0000
+<string>Qui c'est ?
+<string>Claire !
+<string>
+<string>Leon ! Toi aussi tu es là ?
+<string>Ouais. Mais tout est sur le point de s'écrouler.
+<string>Écoute-moi. Il faut que tu partes. Vite !
+<string>Oui. J'ai un moyen de sortir.
+<string>On va y arriver !
+<string>Où es-tu là ?
+<string>Claire ? Tu es encore là ?
+<string>Leon ? Leon, je t'entends mal !
+<string>M'attends pas ! Fiche le camp d'ici !
+<string><COLOR FF0000>#Rejected#</COLOR> CF770_0160_pl1000
+<string>Merde !

@@ -1,0 +1,11 @@
+<string>Mot de Claire
+<string>Leon,<lf><lf>Je dois faire un petit détour pour aider cette<lf>fille que j'ai trouvée. J'ai peur de ce qui<lf>pourrait lui arriver si je ne la sauve pas.
+<string>Pars devant. Tu es presque sorti de la ville<lf>maintenant. Ne t'en fais pour moi : je vais<lf>m'en sortir. C'est promis.<lf><lf><RIGHT>Claire
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

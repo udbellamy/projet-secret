@@ -1,0 +1,263 @@
+<string><MCVO>Pour votre sécurité, veuillez attendre<lf>l'ouverture complète des portes.
+<string>
+<string>
+<string><MCVO>Bienvenue au NEST.<PAGE><lf>Agréable visite à tous.
+<string>Bienvenue au NEST.
+<string>Agréable visite à tous.
+<string>OK... Je me demande où est le virus G.
+<string>
+<string>
+<string>
+<string><PAGE><lf>Je vais te soigner.<PAGE><lf>Tiens bon, Sherry. Ça va aller.
+<string>
+<string>
+<string>Je vais te soigner.
+<string>Tiens bon, Sherry. Ça va aller.
+<string>
+<string>
+<string><MCVO>Cette zone est réservée au personnel habilité.<PAGE><lf>Les visiteurs ne sont pas autorisés à entrer.
+<string>Cette zone est réservée au personnel habilité.
+<string>Les visiteurs ne sont pas autorisés à entrer.
+<string>
+<string>
+<string><MCVO>Notre menu basé sur nos recherches biologiques<lf>répond à tous vos besoins nutritionnels.<PAGE><lf>Goûtez notre sélection d'aliments bons pour la santé.
+<string>Notre menu basé sur nos recherches biologiques<lf>répond à tous vos besoins nutritionnels.
+<string>Goûtez notre sélection d'aliments bons pour la santé.
+<string>Ça pourrait me servir.
+<string>Ça devrait être utile.
+<string><MCVO>Dr. Li, le Chef Cartwright vous demande<lf>de toute urgence dans la zone est.
+<string>Le virus G est dans la zone ouest... compris.
+<string>Donc l'agent antiviral est dans la zone ouest.
+<string><MCVO>L'accès à la passerelle est réservé aux cadres supérieurs.
+<string><MCVO>L'accès à l'ordinateur est réservé aux cadres supérieurs.
+<string>Bon sang... Qu'est-ce qui s'est passé ici ?
+<string>Oh mon Dieu... C'est affreux !
+<string>
+<string>
+<string><MCVO>Cartouche vide.<PAGE><lf>Veuillez la remplir avec une solution.
+<string>Cartouche vide.
+<string>Veuillez la remplir avec une solution.
+<string>
+<string>
+<string><MCVO>Erreur : Cartouche vide.<PAGE><lf>Veuillez la remplir avec une solution.
+<string>Erreur : Cartouche vide.
+<string>Veuillez la remplir avec une solution.
+<string><MCVO>Erreur : Température de la solution en dehors des limites acceptables.
+<string><COLOR FF0000>#Rejected#</COLOR> CONV369_0010_vo0080
+<string><COLOR FF0000>#Rejected#</COLOR> CONV369_0020_vo0080
+<string><COLOR FF0000>#Rejected#</COLOR> CONV369_0040_vo0080
+<string>
+<string>
+<string><MCVO>Mode manuel activé.<PAGE><lf>Ajustez le volume de solution en fonction de la cartouche.
+<string>Mode manuel activé.
+<string>Ajustez le volume de solution en fonction de la cartouche.
+<string><MCVO>Cartouche remplie.
+<string><COLOR FF0000>#Rejected#</COLOR> CONV372_0020_vo0080
+<string>
+<string>
+<string><PAGE><lf>Qui a laissé le congélo ouvert ?
+<string>
+<string>Qui a laissé le congélo ouvert ?
+<string>
+<string>
+<string><PAGE><lf>Si j'avais su, j'aurais pris ma parka.
+<string>
+<string>Si j'avais su, j'aurais pris ma parka.
+<string>
+<string>
+<string><MCVO>Bienvenue, Dr. Li.<PAGE><lf>Vous avez [5] nouveaux messages.
+<string>Bienvenue, Dr. Li.
+<string>Vous avez [5] nouveaux messages.
+<string><MCVO>Bienvenue, Dr. Li.
+<string><MCVO>Vous avez [4] nouveaux messages.
+<string><MCVO>Bienvenue, Dr. Li.
+<string><MCVO>Vous avez [3] nouveaux messages.
+<string><MCVO>Bienvenue, Dr. Li.
+<string><MCVO>Vous avez [2] nouveaux messages.
+<string><MCVO>Bienvenue, Dr. Li.
+<string><MCVO>Vous avez [1] nouveau message.
+<string><COLOR FF0000>#Rejected#</COLOR> CONV375_0010_vo0080
+<string><MCVO>Refroidissement terminé.
+<string><COLOR FF0000>#Rejected#</COLOR> CONV376_0020_vo0080
+<string><COLOR FF0000>#Rejected#</COLOR> CONV600_0010_vo0080
+<string>Ça a marché.
+<string>Ça, c'est ce que j'appelle désherber.
+<string>
+<string>
+<string><MCVO>Alerte : Vous avez répandu une solution<lf>dangereuse sans autorisation.<PAGE><lf>Vos actions ont été enregistrées et vous pourrez<lf>faire l'objet de mesures disciplinaires.
+<string>Alerte : Vous avez répandu une solution<lf>dangereuse sans autorisation.
+<string>Vos actions ont été enregistrées et vous pourrez<lf>faire l'objet de mesures disciplinaires.
+<string>Merde ! Encore lui ?
+<string><COLOR FF0000>#Rejected#</COLOR> CONV494_0010_vo0080
+<string><COLOR FF0000>#Rejected#</COLOR> CONV494_0020_vo0080
+<string>
+<string>
+<string><MCVO>Bienvenue, Chef Cartwright.<PAGE><lf>Vous avez [2] nouveaux messages.
+<string>Bienvenue, Chef Cartwright.
+<string>Vous avez [2] nouveaux messages.
+<string><COLOR FF0000>#Rejected#</COLOR> CONV378_0010_vo0080
+<string>J'espère que l'échantillon est là...
+<string>Faut que je me dépêche de trouver cet agent antiviral...
+<string>C'était des échantillons du virus ?
+<string>Birkin ? Ça doit être le père de...
+<string>Il est temps d'aller retrouver Ada.
+<string>
+<string>
+<string>Enfin... L'agent antiviral...<PAGE><lf>Faut que je retourne voir Sherry.
+<string>Enfin... L'agent antiviral...
+<string>Faut que je retourne voir Sherry.
+<string>
+<string>
+<string>
+<string><MCVO><MCVO>Attention : Retrait non autorisé d'un virus de [niveau 4] détecté.<PAGE><lf><MCVO>Début du confinement de la structure.<PAGE><lf><MCVO>La séquence d'autodestruction sera lancée<lf>une fois le confinement terminé.
+<string><MCVO>Attention : Retrait non autorisé d'un virus de [niveau 4] détecté.
+<string><MCVO>Début du confinement de la structure.
+<string><MCVO>La séquence d'autodestruction sera lancée<lf>une fois le confinement terminé.
+<string>
+<string>
+<string><MCVO>Infraction de [classe A] détectée.<PAGE><lf>Laboratoire en quarantaine jusqu'à neutralisation de la cible.
+<string>Infraction de [classe A] détectée.
+<string>Laboratoire en quarantaine jusqu'à neutralisation de la cible.
+<string><COLOR FF0000>#Rejected#</COLOR> CONV498_0010_pl0000
+<string><COLOR FF0000>#Rejected#</COLOR> CONV534_0010_pl1000
+<string><COLOR FF0000>#Rejected#</COLOR> CONV499_0010_pl0000
+<string><COLOR FF0000>#Rejected#</COLOR> CONV535_0010_pl1000
+<string>
+<string>
+<string><MCVO>La cible est neutralisée.<PAGE><lf>Fin de la quarantaine.
+<string>La cible est neutralisée.
+<string>Fin de la quarantaine.
+<string><COLOR FF0000>#Rejected#</COLOR> CONV381_0030_vo0080
+<string>Ascenseur de service opérationnel.
+<string>J'espère que Sherry va bien.
+<string>
+<string>
+<string><MCVO>Attention : Séquence d'autodestruction activée.<PAGE><lf>Utilisez l'ascenseur central pour évacuer<lf>immédiatement vers le quai du niveau inférieur.
+<string>Attention : Séquence d'autodestruction activée.
+<string>Utilisez l'ascenseur central pour évacuer<lf>immédiatement vers le quai du niveau inférieur.
+<string><MCVO>Entrée interdite : Procédure de confinement en cours.
+<string><MCVO>Entrée interdite : Procédure de confinement en cours.
+<string>
+<string>
+<string>
+<string>Sherry, tu peux marcher plus vite ?<PAGE><lf>Oui...<PAGE><lf>Je veux pas te presser, mais on doit y aller.
+<string>Sherry, tu peux marcher plus vite ?
+<string>Oui...
+<string>Je veux pas te presser, mais on doit y aller.
+<string>Désolée de te presser, mais il faut se dépêcher.
+<string>Fichons vite le camp d'ici.
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Euh... Claire ?<PAGE><lf>Oui ?<PAGE><lf>Merci pour tout ce que tu fais pour moi... pour ton aide.<PAGE><lf>Je suis contente de t'avoir rencontrée.<PAGE><lf>Moi aussi je suis contente, Sherry...<PAGE><lf>Mais tu me remercieras quand on sera sorties d'ici.
+<string>Euh... Claire ?
+<string>Oui ?
+<string>Merci pour tout ce que tu fais pour moi... pour ton aide.
+<string>Je suis contente de t'avoir rencontrée.
+<string>Moi aussi je suis contente, Sherry...
+<string>Mais tu me remercieras quand on sera sorties d'ici.
+<string>Oh... C'est pas le moment !
+<string><COLOR FF0000>#Rejected#</COLOR> CONV523_0010_vo0080
+<string><COLOR FF0000>#Rejected#</COLOR> CONV523_0020_vo0080
+<string><COLOR FF0000>#Rejected#</COLOR> CONV523_0030_vo0080
+<string><COLOR FF0000>#Rejected#</COLOR> CONV523_0040_vo0080
+<string><COLOR FF0000>#Rejected#</COLOR> CONV515_0010_vo0080
+<string><COLOR FF0000>#Rejected#</COLOR> CONV515_0020_vo0080
+<string><COLOR FF0000>#Rejected#</COLOR> CONV515_0030_vo0080
+<string>Putain mais c'est quoi ce truc ?
+<string><COLOR FF0000>#Rejected#</COLOR> CONV502_0010_pl0000
+<string>Oh non... Ça craint !
+<string><COLOR FF0000>#Rejected#</COLOR> CONV504_0010_pl0000
+<string><COLOR FF0000>#Rejected#</COLOR> CONV505_0010_pl0000
+<string>D'où ça sort ce truc ?
+<string><COLOR FF0000>#Rejected#</COLOR> CONV571_0010_pl0000
+<string>
+<string>
+<string>
+<string>
+<string>Évidemment, cette foutue porte est fermée...<PAGE><lf>Attends !<PAGE><lf>Sherry ? Qu'est-ce que tu...<PAGE><lf>Je crois que je peux l'ouvrir de l'intérieur !
+<string>Évidemment, cette foutue porte est fermée...
+<string>Attends !
+<string>Sherry ? Qu'est-ce que tu...
+<string>Je crois que je peux l'ouvrir de l'intérieur !
+<string>Oh bordel, c'est franchement pas le moment !
+<string><COLOR FF0000>#Rejected#</COLOR> CONV556_0020_pl3000
+<string>J'ai réussi !
+<string>Vite, Claire !
+<string>Allez, Claire ! Il faut qu'on se dépêche !
+<string>
+<string>
+<string>Bien joué, Sherry !<PAGE><lf>On fait une bonne équipe.
+<string>Bien joué, Sherry !
+<string>On fait une bonne équipe.
+<string><COLOR FF0000>#Rejected#</COLOR> CONV543_0010_pl3000
+<string><COLOR FF0000>#Rejected#</COLOR> CONV543_0020_pl1000
+<string><COLOR FF0000>#Rejected#</COLOR> CONV543_0030_pl3000
+<string>
+<string>Ça va ?
+<string>Ouais... Je crois.
+<string>
+<string>
+<string>
+<string>Sherry ! Tu tiens le coup ?<PAGE><lf>Je suis derrière toi !<PAGE><lf>Continue comme ça ! Je crois qu'on y est presque !
+<string>Sherry ! Tu tiens le coup ?
+<string>Je suis derrière toi !
+<string>Continue comme ça ! Je crois qu'on y est presque !
+<string>
+<string>
+<string>Claire ! On peut peut-être utiliser ça !<PAGE><lf>Ça vaut le coup d'essayer !
+<string>Claire ! On peut peut-être utiliser ça !
+<string>Ça vaut le coup d'essayer !
+<string><COLOR FF0000>#Rejected#</COLOR> CONV546_0010_vo0080
+<string><COLOR FF0000>#Rejected#</COLOR> CONV546_0020_vo0080
+<string><COLOR FF0000>#Rejected#</COLOR> CONV546_0030_vo0080
+<string><COLOR FF0000>#Rejected#</COLOR> CONV547_0010_pl1000
+<string><COLOR FF0000>#Rejected#</COLOR> CONV548_0010_pl1000
+<string>Ça commence à bien faire, merde !
+<string>Est-ce que tu vas mourir à la fin ?
+<string><COLOR FF0000>#Rejected#</COLOR> CONV608_0010_pl1000
+<string><COLOR FF0000>#Rejected#</COLOR> CONV609_0010_pl1000
+<string><COLOR FF0000>#Rejected#</COLOR> CONV610_0010_pl1000
+<string><COLOR FF0000>#Rejected#</COLOR> CONV611_0010_pl1000
+<string><MCVO>Vous êtes arrivé au niveau inférieur.
+<string><COLOR FF0000>#Rejected#</COLOR> CONV518_0010_vo0080
+<string><COLOR FF0000>#Rejected#</COLOR> CONV519_0010_vo0080
+<string><COLOR FF0000>#Rejected#</COLOR> CONV520_0010_vo0080
+<string><COLOR FF0000>#Rejected#</COLOR> CONV521_0010_vo0080
+<string><COLOR FF0000>#Rejected#</COLOR> CONV522_0010_vo0080
+<string><COLOR FF0000>#Rejected#</COLOR> CONV522_0020_vo0080
+<string><COLOR FF0000>#Rejected#</COLOR> CONV522_0030_vo0080
+<string><COLOR FF0000>#Rejected#</COLOR> CONV522_0040_vo0080
+<string><COLOR FF0000>#Rejected#</COLOR> CONV522_0050_vo0080
+<string><COLOR FF0000>#Rejected#</COLOR> CONV522_0060_vo0080
+<string><COLOR FF0000>#Rejected#</COLOR> CONV522_0070_vo0080
+<string><COLOR FF0000>#Rejected#</COLOR> CONV522_0080_vo0080
+<string><COLOR FF0000>#Rejected#</COLOR> CONV522_0090_vo0080
+<string><COLOR FF0000>#Rejected#</COLOR> CONV522_0100_vo0080
+<string><MCVO>Dix minutes avant détonation.
+<string><MCVO>Neuf minutes avant détonation.
+<string><MCVO>Huit minutes avant détonation.
+<string><MCVO>Sept minutes avant détonation.
+<string><MCVO>Six minutes avant détonation.
+<string><MCVO>Cinq minutes avant détonation.
+<string><MCVO>Quatre minutes avant détonation.
+<string><MCVO>Trois minutes avant détonation.
+<string><MCVO>Deux minutes avant détonation.
+<string><MCVO>Une minute avant détonation.
+<string>Un problème avec la mort ?
+<string>
+<string>
+<string>Tu aimes le plomb ?<PAGE><lf>Tu vas être servi !
+<string>Tu aimes le plomb ?
+<string>Tu vas être servi !
+<string>Finissons-en, espèce d'enfoiré !
+<string>Allez ! T'en veux encore ?!
+<string>Bordel ! Est-ce que tu vas crever ?
+<string>Ça commence à être lourd...
+<string>J'espère que t'aimes les balles parce que j'en ai encore un paquet !
+<string>Putain mais merde ! Comment il peut être encore en vie !
+<string>Comme dirait Chris, "pas de pitié" !
+<string><COLOR FF0000>#Rejected#</COLOR> CONV553_0010_pl1000

@@ -1,0 +1,11 @@
+<string>Destruction d'équipement
+<string>Objet à détruire :<lf>Clé du véhicule de patrouille 7439<lf><lf>Détails :<lf>Clé pliée, inutilisable, mais pouvant encore<lf>ouvrir <COL FILE_EMP>les portières et le coffre</COLOR> de la voiture<lf>grâce aux boutons.
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

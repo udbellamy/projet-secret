@@ -1,0 +1,197 @@
+<string>Commandes
+<string>Caméra
+<string>Audio
+<string>Langue
+<string>Affichage
+<string>RE NET
+<string>Par défaut
+<string>Régler les paramètres liés aux modes de jeu.
+<string>Régler les paramètres liés aux commandes.
+<string>Ajuster les paramètres de caméra.
+<string>Configurer l'écran de jeu.
+<string>Régler les paramètres audio.
+<string>Changer les paramètres de langue.
+<string>Modifier les paramètres liés à Resident Evil.Net.
+<string>Rétablir les paramètres par défaut.
+<string>Cette option ne peut être modifiée que depuis le menu principal.
+<string>Cette option n'est disponible qu'en mode "Facile".
+<string>Cette option n'est disponible que lorsque l'affichage HDR est supporté.
+<string>Cette option n'est disponible que lorsque le mode HDR est désactivé.
+<string>Effet de grain
+<string>Activer ou désactiver l'effet de grain appliqué à l'image.
+<string>Très rapide
+<string>Rapide
+<string>Lente
+<string>Oui
+<string>Non
+<string>Non
+<string>Fort
+<string>Faible
+<string>Configurations de touches
+<string>Sélectionner un type de contrôle.
+<string>Configuration
+<string>Configurer les commandes.
+<string>Configuration
+<string>Configurer les commandes.
+<string>Configuration
+<string>Configurer les commandes.
+<string>Rechargement automatique
+<string>Activer ou désactiver le rechargement automatique une fois votre chargeur vide.
+<string>Visée
+<string>Régler les paramètres de visée.
+<string>Ralentissement réticule
+<string>Aide à la visée
+<string>Régler le ralentissement du réticule lorsqu'il est sur une cible.
+<string>Activer ou désactiver l'aide à la visée.
+<string>Vibration de la manette
+<string>Fonction de vibration
+<string>Activer ou désactiver la vibration de la manette.
+<string>Activer ou désactiver la vibration de la manette sans fil.
+<string>Type
+<string>Type A
+<string>Type B
+<string>Type C
+<string>Type D
+<string>Type E
+<string>Type F
+<string>Type G
+<string>Type H
+<string>Type I
+<string>Course
+<string>Appuyer une fois
+<string>Maintenir
+<string><ICON R_D>
+<string><ICON R_R>
+<string><ICON R_L>
+<string><ICON R_U>
+<string><ICON LT_T>
+<string><ICON LT_B>
+<string><ICON RT_T>
+<string><ICON RT_B>
+<string><ICON LS>
+<string><ICON LS_P>
+<string><ICON RS>
+<string><ICON RS_P>
+<string><ICON C_L>
+<string><ICON POV>
+<string><ICON LT_T><ICON PLUS><ICON POV>
+<string><ICON LT_B><ICON PLUS><ICON POV>
+<string><ICON LS_D><ICON PLUS><ICON R_D>
+<string><ICON LS_D><ICON PLUS><ICON R_R>
+<string><ICON LS_D><ICON PLUS><ICON LS_P>
+<string><ICON LS_P><ICON PLUS><ICON POV>
+<string><ICON C_R>
+<string>Interagir
+<string>Courir
+<string>Demi-tour rapide
+<string>Courir/Demi-tour rapide
+<string>Recharger
+<string>Tirer
+<string>Ouvrir l'inventaire
+<string>Viser
+<string>Sortir l'arme secondaire
+<string>Attaquer
+<string>Changer de munitions
+<string>Se déplacer
+<string>Déplacer la caméra
+<string>Recentrer la caméra
+<string>Voir la carte
+<string>Changer d'arme
+<string>Changer d'arme secondaire
+<string>Menu Pause
+<string>Inversion des axes
+<string>Ajuster les paramètres d'inversion de la caméra.
+<string>Vitesse de la caméra
+<string>Ajuster la vitesse de mouvement de la caméra.
+<string>Vue normale
+<string>En visant
+<string>Inverser ou non les axes X et Y en mode normal.
+<string>Inverser ou non les axes X et Y en mode visée.
+<string>Ajuster la vitesse de la caméra en mode normal.
+<string>Ajuster la vitesse de la caméra en mode visée.
+<string>Vue normale
+<string>Axe Y inversé
+<string>Axe X inversé
+<string>Axes X et Y inversés
+<string>Tremblements de caméra
+<string>Activer ou désactiver les tremblements de caméra.
+<string>Champ de vision (FOV)
+<string>Ajuster l'amplitude du champ de vision.
+<string>Mode HDR
+<string>Activer ou désactiver le mode HDR.
+<string>Luminosité maximale
+<string>Régler la luminescence des zones claires.
+<string>Luminosité minimale
+<string>Régler la luminescence des zones sombres.
+<string>Luminosité max/min
+<string>Régler la luminescence des zones claires et sombres.
+<string>Luminosité
+<string>Régler la luminosité de l'écran.
+<string>Luminosité maximale (HDR)
+<string>Régler le niveau de détail dans les zones claires en mode HDR.
+<string>Luminosité (HDR)
+<string>Régler la luminosité de l'écran en mode HDR.
+<string>Priorité
+<string>Sélectionner l'aspect à privilégier.
+<string>Graphismes
+<string>Performances
+<string>Zone d'affichage
+<string>Régler la taille de la zone d'affichage.
+<string>Couleur
+<string>Sélectionner la couleur du réticule.
+<string>Réticule
+<string>Changer la couleur du réticule.
+<string>Viseur laser
+<string>Changer la couleur du viseur laser.
+<string>Rouge
+<string>Blanc
+<string>Bleu
+<string>Vert
+<string>Tutoriels
+<string>Activer ou désactiver les messages de tutoriel.
+<string>HUD
+<string>Activer ou désactiver les éléments du HUD.
+<string>Changement de couleur
+<string>Changer la couleur affichée à l'écran.
+<string>Volume de la musique
+<string>Volume des voix
+<string>Volume des effets
+<string>Plage dynamique
+<string>Sortie audio
+<string>Ajuster le volume de la musique.
+<string>Régler le volume des voix.
+<string>Régler le volume des effets sonores.
+<string>Régler l'amplitude du volume selon votre environnement d'écoute.
+<string>Sélectionner le type de sortie audio actuellement utilisé.
+<string>Réduite
+<string>Étendue
+<string>TV (Moniteur)
+<string>7.1 (5.1) Son surround
+<string>Casque
+<string>Dolby Atmos
+<string>Binaural temps réel
+<string>Activer ou désactiver le son virtual surround.
+<string>Haut-parleur de la manette
+<string>Activer ou désactiver le haut-parleur de la manette.
+<string>Voix
+<string>Textes
+<string>Sélectionner la langue des voix.
+<string>Sélectionner la langue des textes affichés à l'écran.
+<string>Sous-titres
+<string>Activer ou désactiver les sous-titres.
+<string>Luminosité maximale
+<string>Luminosité minimale
+<string>Luminosité
+<string>Luminosité maximale (HDR)
+<string>Luminosité (HDR)
+<string>Déplacez le curseur jusqu'à ce que l'image soit à peine visible.
+<string>Déplacez le curseur jusqu'à ce que ce l'image de gauche disparaisse.<lf>Si l'image ne disparaît pas, vérifiez les réglages de luminosité max/min.
+<string>Faites en sorte que les zones bleues et rouges soient de la même taille.
+<string>Veuillez effectuer ces réglages en étant bien en face de l'écran.
+<string>Plus sombre
+<string>Plus lumineux
+<string>Clairement visible
+<string>Invisible
+<string>À peine visible
+<string>Envoi des données de jeu
+<string>Activer ou désactiver l'envoi des données de jeu à RE NET.

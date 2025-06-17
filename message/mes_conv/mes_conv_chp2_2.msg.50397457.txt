@@ -1,0 +1,30 @@
+<string><COLOR FF0000>#Rejected#</COLOR> CONV298_0010_pl0000
+<string>Hé ! Mais qu'est-ce que je dois faire ?
+<string>Oh, quelle horreur...
+<string>Marvin ! Oh non...<lf>Merde !
+<string>J'accomplirai ma mission, Lieutenant... Coûte que coûte.
+<string>J'espère ne pas avoir à écrire un rapport là-dessus...
+<string>Oh la vache !
+<string>Je peux pas rester ici...
+<string>Ce truc est increvable !
+<string><COLOR FF0000>#Rejected#</COLOR> CONV309_0020_pl0000
+<string>Hmm... Qu'est-ce qu'ils cherchent ?
+<string>Ça, ça craint.
+<string>Oh c'est pas vrai !
+<string>Et si on ouvrait la grille ?
+<string>Ouvre cette foutue grille !
+<string>Là-bas !
+<string>C'est verrouillé...
+<string>C'est fermé...
+<string>OK... D'abord la carte d'accès,<lf>et ensuite je vais faire payer cet enfoiré.
+<string>Ce type a dû venir de là...
+<string>Oh mon Dieu, non... Marvin...
+<string>Merde !
+<string>Je suis désolée.
+<string>Ça a marché.
+<string>Reste où tu es !
+<string>Bon... Restons pas là.
+<string>Pourquoi est-ce qu'il est encore debout ?
+<string>Ce salaud est le chef de la police !?
+<string>Super... la carte d'accès.
+<string>Ça ne ressemble pas du tout à Chris...

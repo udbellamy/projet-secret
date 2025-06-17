@@ -1,0 +1,11 @@
+<string>Journal de recherches
+<string>Observations sur la croissance de l'embryon<lf>(sujet 449)<lf><lf>Après avoir implanté l'embryon G dans le sujet,<lf>nous avons pratiqué une incision de 50 cm entre<lf>la poitrine et l'abdomen, et commencé l'observation.<lf>Avec l'aide de l'équipe médicale, le niveau de<lf>conscience du sujet a pu être maintenu entre<lf>15 (lucide) et GCS 10. Toutefois, ce niveau s'est<lf>détérioré et nous n'avons pas jugé nécessaire de<lf>poursuivre l'observation. Le sujet a été éliminé.
+<string>Observations sur le taux de reproduction<lf>(sujet 501)<lf><lf>Le virus G a été inoculé au sujet 501. Après<lf>s'être transformé en G, 501 a été mis en<lf>présence d'un groupe de 30 sujets de test.<lf>Après 2 heures et 36 minutes, un embryon<lf>avait été implanté dans tous les sujets sauf<lf>un. Tous les sujets ont été éliminés. (L'un<lf>d'eux a craqué au cours de l'expérience et<lf>s'est ôté la vie.)
+<string>Test de résistance au virus T<lf>(sujets 628 et 639)<lf><lf>Nous avons inoculé le virus G au sujet 628, qui<lf>avait montré une légère résistance au virus T.<lf>Le virus a ensuite été transmis au sujet 639,<lf>avec lequel 628 entretenait une relation<lf>intime. Malgré des signes de résistance, 628<lf>était porteur d'un embryon après 24 minutes.<lf>La résistance au virus T n'empêche pas la<lf>détérioration mentale provoquée par le virus G.
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

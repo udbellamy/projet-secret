@@ -1,0 +1,43 @@
+<string>©CAPCOM CO., LTD. 1998, 2019 ALL RIGHTS RESERVED.
+<string>Campagne
+<string>Bonus
+<string>Modes additionnels
+<string>PlayStation™Store
+<string>Microsoft Store
+<string>Magasin en ligne
+<string>RE NET
+<string>RESIDENT EVIL 3
+<string>Vivre le cauchemar de l'aventure principale.
+<string>Voir le contenu bonus disponible.
+<string>Jouer à différents modes de jeux spéciaux.
+<string>Accéder au PlayStation™Store.
+<string>Accéder au Microsoft Store.
+<string>Accéder au magasin en ligne.
+<string>Jouer la campagne de Leon.
+<string>Jouer la campagne de Claire.
+<string>Continuer
+<string>Nouvelle partie
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MainMenu_NewGame1
+<string>Nouvelle partie (bis)
+<string>Continuer la partie depuis votre dernière sauvegarde.
+<string>Charger une partie sauvegardée.
+<string>Commencer une nouvelle partie depuis le début.
+<string>Jouer au scénario bis depuis le début.
+<string><CENTER>Pour les joueurs n'ayant pas l'habitude des jeux d'action.</CENTER><lf><lf>・Aide à la visée<lf>・Récupération automatique d'une certaine quantité de vie<lf>・Ennemis un peu moins résistants
+<string><CENTER>Le mode de jeu standard.</CENTER>
+<string><CENTER>Pour les fans hardcore de la série.</CENTER><lf><lf>・Rubans encreurs requis pour sauvegarder<lf>・Pas de sauvegarde automatique<lf>・Ennemis plus résistants
+<string>Leon S. Kennedy
+<string>Claire Redfield
+<string>Sans nouvelles du commissariat où il vient d'être affecté,<lf>Leon S. Kennedy se rend à Raccoon City pour en savoir<lf>plus. Il est loin d'imaginer le cauchemar qui l'attend...
+<string>Un différent cauchemar attend Claire Redfield qui ne<lf>sait pas encore que sa vie, jusque là ordinaire, est<lf>sur le point de changer radicalement...
+<string>CAMPAGNE
+<string>MODES ADDITIONNELS
+<string>BONUS
+<string>CHOIX DU SCÉNARIO
+<string>CHOIX DU SCÉNARIO BIS
+<string>TENUES
+<string>DÉFIS
+<string>MODÈLES
+<string>CONCEPT ARTS
+<string>RÉSULTATS
+<string>OPTIONS

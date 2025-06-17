@@ -1,0 +1,33 @@
+<string><TIME 0.74, 1.74><TIME 1.77, 2.55><TIME 2.58, 4.89><TIME 4.93, 7.69><TIME 7.71, 9.13><TIME 9.23, 12.6><TIME 16.16, 18.09><TIME 18.52, 22.25><TIME 22.47, 23.48><TIME 25.10, 26.5><TIME 26.86, 30.61><TIME 31.22, 36.19><TIME 37.48, 41.2><TIME 43.8, 48.38><TIME 50.33, 52.22><TIME 52.73, 57.05><TIME 61.48, 68.04><TIME 70.41, 78.28><TIME 82.3, 84.03><TIME 86.01, 87.96><TIME 90.33, 93.4><TIME 95.61, 98.78><TIME 100.77, 101.8><TIME 118.61, 123.64><TIME 132.81, 136.02><TIME 136.17, 137.33><TIME 143.68, 147.62><TIME 148.39, 152.17><TIME 159.16, 165.48><TIME 167.23, 171.11>Bouge pas !<PAGE><lf>Je veux pas vous faire de mal.<PAGE><lf>J'ai dit, bouge pas !<PAGE><lf>Je veux juste passer.<lf>Je vais vous demander de baisser cette arme.<PAGE><lf>Et puis quoi encore ?<PAGE><lf>Tu vas te retourner, et repartir gentiment d'où tu viens.<PAGE><lf>Je crois que votre fille a besoin d'aide.<PAGE><lf>Ne me dis pas ce dont ma fille a besoin.<PAGE><lf>Posez ça !<PAGE><lf>Non ! Arrêtez !<PAGE><lf>Écartez-vous. Il faut la supprimer avant qu'elle ne se transforme.<PAGE><lf>"La supprimer" ? C'est de ma fille qu'il s'agit !<PAGE><lf>Ada... Laisse-les tranquilles.<PAGE><lf>Emma ? Ma puce, je t'ai dit de rester au lit...<PAGE><lf>Pa... pa... ?<PAGE><lf>Oui, c'est papa.<lf>Je suis là. D'accord ?<PAGE><lf>Ces saloperies dehors...<lf>Regardez ce qu'ils nous ont fait.<PAGE><lf>Tu es un flic. Tu sais sûrement quelque chose !<lf>Alors, comment c'est arrivé ? Hein ?!<PAGE><lf>C'était notre petit ange...<PAGE><lf>Ma... man ?<PAGE><lf>Maman fait dodo, ma puce. D'accord ?<PAGE><lf>Et je vais bientôt te mettre au lit aussi. D'accord ?<PAGE><lf>Emma...<PAGE><lf>Partez... Laissez-nous un peu seuls.<PAGE><lf>Écoute, me cacher la vérité, c'est une chose...<PAGE><lf>Mais pourquoi à lui ?<PAGE><lf>Je veux savoir ce qui se passe ici.<lf>Et j'arrêterai les coupables.<PAGE><lf>Aider des gens comme eux...<lf>Voilà pourquoi je me suis engagé.<PAGE><lf>Ma mission est de mettre un terme aux opérations<lf>d'Umbrella. Pas sûre qu'on s'en sorte.<PAGE><lf>Je suis prêt à tout pour sauver cette ville. Compte sur moi.
+<string>Bouge pas !
+<string>Je veux pas vous faire de mal.
+<string>J'ai dit, bouge pas !
+<string>Je veux juste passer.<lf>Je vais vous demander de baisser cette arme.
+<string>Et puis quoi encore ?
+<string>Tu vas te retourner, et repartir gentiment d'où tu viens.
+<string>Je crois que votre fille a besoin d'aide.
+<string>Ne me dis pas ce dont ma fille a besoin.
+<string>Posez ça !
+<string>Non ! Arrêtez !
+<string>Attendez !
+<string>Écartez-vous. Il faut la supprimer avant qu'elle ne se transforme.
+<string>"La supprimer" ? C'est de ma fille qu'il s'agit !
+<string>Ada... Laisse-les tranquilles.
+<string>Emma ? Ma puce, je t'ai dit de rester au lit...
+<string>Pa... pa... ?
+<string>Oui, c'est papa.<lf>Je suis là. D'accord ?
+<string>Ces saloperies dehors...<lf>Regardez ce qu'ils nous ont fait.
+<string>Tu es un flic. Tu sais sûrement quelque chose !<lf>Alors, comment c'est arrivé ? Hein ?!
+<string>
+<string>C'était notre petit ange...
+<string>Ma... man ?
+<string>Maman fait dodo, ma puce. D'accord ?
+<string>Et je vais bientôt te mettre au lit aussi. D'accord ?
+<string>Emma...
+<string>Partez... Laissez-nous un peu seuls.
+<string>Écoute, me cacher la vérité, c'est une chose...
+<string>Mais pourquoi à lui ?
+<string>Je veux savoir ce qui se passe ici.<lf>Et j'arrêterai les coupables.
+<string>Aider des gens comme eux...<lf>Voilà pourquoi je me suis engagé.
+<string>Ma mission est de mettre un terme aux opérations<lf>d'Umbrella. Pas sûre qu'on s'en sorte.
+<string>Je suis prêt à tout pour sauver cette ville. Compte sur moi.

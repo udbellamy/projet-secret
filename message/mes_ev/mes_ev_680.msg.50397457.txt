@@ -1,0 +1,37 @@
+<string><TIME 2.04, 3.58><TIME 6.46, 7.65><TIME 7.75, 9.12><TIME 9.43, 11.01><TIME 13.31, 14.28><TIME 15.22, 16.8><TIME 18.47, 19.86><TIME 19.92, 21.69><TIME 21.76, 24.13><TIME 25.8, 28.44><TIME 32.29, 33.63><TIME 37.1, 38.21><TIME 38.24, 39.91><TIME 45.81, 47.93><TIME 50.49, 54.32><TIME 54.83, 58.19><TIME 59.0, 64.54><TIME 65.17, 67.0><TIME 68.17, 71.48><TIME 72.87, 74.91><TIME 79.68, 80.75><TIME 80.77, 82.44><TIME 82.74, 84.23><TIME 85.79, 86.87><TIME 88.96, 92.45><TIME 92.47, 93.56><TIME 93.82, 96.58><TIME 96.93, 100.01><TIME 101.62, 103.06><TIME 104.14, 105.98><TIME 107.16, 110.02><TIME 110.68, 111.97>Allez...<PAGE><lf>Ada ?!<PAGE><lf>Ada, où es-tu ?!<PAGE><lf>Par ici !<PAGE><lf>Ada...<PAGE><lf>Je commençais à m'inquiéter...<PAGE><lf>Je peux pas l'enlever.<PAGE><lf>Je sais pas si je devrais, euh...<PAGE><lf>Fais-le. Je peux pas marcher avec ça.<PAGE><lf>OK... Ça va faire mal.<PAGE><lf>Bouge pas...<PAGE><lf>Ça va, je peux le faire.<PAGE><lf>Détends-toi, OK ?<PAGE><lf>Alors, qu'est-ce qu'on fait maintenant ?<PAGE><lf>Tu devrais partir. Pendant que tu le peux encore.<PAGE><lf>Je vais pas t'abandonner. Pas dans cet état.<PAGE><lf>Tu comprends pas. La situation est pire que ce que je pensais.<PAGE><lf>On se débarrasse pas de moi comme ça.<PAGE><lf>Tu m'as sauvé. C'est à mon tour.<PAGE><lf>Alors comme ça on compte les points ?<PAGE><lf>Tiens-toi à moi.<PAGE><lf>N'abuse pas non plus, hein !<PAGE><lf>OK ! Je voulais juste t'aider.<PAGE><lf>Fais attention.<PAGE><lf>Tu veux m'aider ?<lf>Il faut qu'on aille au NEST.<PAGE><lf>NEST ?<PAGE><lf>Le labo d'Umbrella. Là, sous nos pieds.<PAGE><lf>Annette en a parlé.<lf>Les échantillons du virus s'y trouvent.<PAGE><lf>Tu es partant ?<PAGE><lf>Je crois que je peux caser ça dans mon planning.<PAGE><lf>Allez, on a du pain sur la planche.<PAGE><lf>Oui, chef.
+<string>Allez...
+<string><COLOR FF0000>#Rejected#</COLOR> EV680_0006_pl0000
+<string>Ada ?!
+<string>Ada, où es-tu ?!
+<string>Par ici !
+<string>Ada...
+<string>Je commençais à m'inquiéter...
+<string>Je peux pas l'enlever.
+<string>Je sais pas si je devrais, euh...
+<string>Fais-le. Je peux pas marcher avec ça.
+<string>OK... Ça va faire mal.
+<string>
+<string>Bouge pas...
+<string>Ça va, je peux le faire.
+<string>Détends-toi, OK ?
+<string>
+<string>Alors, qu'est-ce qu'on fait maintenant ?
+<string>Tu devrais partir. Pendant que tu le peux encore.
+<string>Je vais pas t'abandonner. Pas dans cet état.
+<string>Tu comprends pas. La situation est pire que ce que je pensais.
+<string>On se débarrasse pas de moi comme ça.
+<string>Tu m'as sauvé. C'est à mon tour.
+<string>Alors comme ça on compte les points ?
+<string>Tiens-toi à moi.
+<string>N'abuse pas non plus, hein !
+<string>OK ! Je voulais juste t'aider.
+<string>Fais attention.
+<string>Tu veux m'aider ?<lf>Il faut qu'on aille au NEST.
+<string>NEST ?
+<string>Le labo d'Umbrella. Là, sous nos pieds.
+<string>Annette en a parlé.<lf>Les échantillons du virus s'y trouvent.
+<string>Tu es partant ?
+<string>Je crois que je peux caser ça dans mon planning.
+<string>Allez, on a du pain sur la planche.
+<string>Oui, chef.
+<string>

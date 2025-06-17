@@ -1,0 +1,10 @@
+<string>Message de Mr. Raccoon
+<string>Salut tout le monde ! C'est votre copain du zoo<lf>de Raccoon City ! C'est toujours un plaisir de<lf>vous retrouver !<lf><lf>Aujourd'hui, je vais vous parler de quelque<lf>chose qui me tient à cœur. Vous connaissez les<lf><COL FILE_EMP>jouets Mr. Raccoon</COLOR> ? Eh bien, j'ai entendu dire<lf>que certains garnements les utilisaient pour<lf><COL FILE_EMP>s'entraîner au tir</COLOR>, et ça, ça me rend très<lf>triste...
+<string>Les gentils enfants ne feraient jamais une<lf>chose pareille, n'est-ce pas ? Et puis c'est<lf>très dangereux, alors ne faites pas ça !<lf><lf>À bientôt au zoo !<lf><lf><RIGHT>Mr. Raccoon
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

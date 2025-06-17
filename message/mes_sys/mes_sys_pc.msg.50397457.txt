@@ -1,0 +1,244 @@
+<string>Mode HDR activé.<lf>Le mode HDR ne sera utilisé qu'avec le mode d'affichage "Plein écran".
+<string>Le mode HDR a été désactivé car vous n'êtes<lf>plus en mode plein écran.<lf><lf>Pour réactiver le mode HDR, veuillez régler<lf>le mode d'affichage sur "Plein écran".
+<string>Cette option n'est disponible que lorsque le mode HDR est utilisé.<lf>Veuillez vérifier que le mode d'affichage est réglé sur "Plein écran".
+<string>Impossible d'appliquer les changements car certaines actions<lf>(indiquées en rouge) ne sont attribuées à aucune commande.<lf><lf>Quitter cet écran sans appliquer les changements ?
+<string>Impossible d'appliquer les changements car certaines actions<lf>(indiquées en rouge) sont attribuées aux mêmes commandes.<lf><lf>Quitter cet écran sans appliquer les changements ?
+<string>Suite à l'ajout d'options de configuration, certaines actions<lf>sont attribuées aux même commandes.<lf>Il se peut que vous ne puissiez pas jouer normalement.<lf><lf>Veuillez reconfigurer les actions attribuées aux mêmes<lf>commandes via Options → Commandes → Configuration.
+<string>Impossible d'appliquer les changements car certaines actions<lf>(indiquées en rouge) ne sont attribuées à aucune commande.<lf><lf>Quitter cet écran sans appliquer les changements ?<lf>(Vous repasserez à la configuration précédant l'ouverture de<lf>ce menu, avec certaines actions attribuées aux mêmes commandes.)
+<string>Impossible d'appliquer les changements car certaines actions<lf>(indiquées en rouge) sont attribuées aux mêmes commandes.<lf><lf>Quitter cet écran sans appliquer les changements ?<lf>(Vous repasserez à la configuration précédant l'ouverture de<lf>ce menu, avec certaines actions attribuées aux mêmes commandes.)
+<string>Cette touche ne peut être assignée à cette action.
+<string>Cette touche ne peut pas être assignée.
+<string>Souhaitez-vous conserver cette résolution ?<lf>(Retour à la résolution précédente dans 10 secondes.)
+<string>Passer à DirectX 12 peut améliorer les performances.<lf><lf>Vous devez redémarrer le jeu pour changer l'API graphique.<lf>Redémarrer maintenant ?
+<string>Vous devez redémarrer le jeu pour changer l'API graphique.<lf>Redémarrer maintenant ?
+<string>Le jeu ne s'est pas arrêté correctement.<lf>L'API graphique est maintenant réglée sur DirectX 11.<lf><lf>Si vous souhaitez utiliser DirectX 12 à nouveau,<lf>veuillez effectuer ce changement dans le menu Options.
+<string>Le jeu ne s'est pas arrêté correctement.<lf>Les paramètres graphiques ont été réinitialisés.
+<string>Une erreur s'est produite.<lf>L'API graphique est maintenant réglée sur DirectX 11.<lf><lf>Si vous souhaitez utiliser DirectX 12 à nouveau,<lf>veuillez effectuer ce changement dans le menu Options.
+<string>Données sauvegardées.<lf><lf>Le jeu va maintenant redémarrer.
+<string>La mémoire graphique est affichée en <COL PC_HALF_OVER>orange</COL><lf>pour indiquer une utilisation importante.<lf>Des bugs mineurs peuvent survenir.
+<string>La mémoire graphique est affichée en <COL PC_LIMIT_OVER>rouge</COL><lf>pour indiquer une utilisation importante.<lf>Des bugs majeurs peuvent survenir.
+<string>Quitter
+<string>Quitter le jeu.
+<string>Quitter le jeu ?
+<string><ICON DEFAULT> Par défaut
+<string><ICON KEY_DEL> Désassigner
+<string><ICON KEY_ESC> Annuler
+<string><ICON EQUIP_LEFT>
+<string><ICON EQUIP_UP>
+<string><ICON EQUIP_RIGHT>
+<string><ICON EQUIP_DOWN>
+<string>Réglages types
+<string>Recommandé
+<string>Maximum
+<string>Priorité aux graphismes
+<string>Équilibré
+<string>Priorité aux performances
+<string>Régler les options en fonction de la mémoire graphique disponible.
+<string>Choisir les meilleures options possibles,<lf>sans tenir compte de l'impact sur les performances.
+<string>Privilégier la qualité graphique, en augmentant<lf>la charge de travail du système.<lf><lf>Mémoire graphique recommandée : {0} Go ou plus
+<string>Opter pour un bon compromis entre performances<lf>et qualité graphique.<lf><lf>Mémoire graphique recommandée : De {0} à {1} Go
+<string>Maintenir une qualité graphique décente tout en<lf>minimisant la charge de travail du système.<lf><lf>Mémoire graphique recommandée : {0} Go ou moins
+<string>Graphismes
+<string>Changer les paramètres graphiques.
+<string>Mémoire graphique
+<string>Charge de travail
+<string>Qualité de l'image
+<string>Qualité des modèles
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_PC_Option_Graph05
+<string>Qualité des éclairages
+<string>Qualité des effets graphiques
+<string>{0:F2} Go
+<string>Maximum
+<string>Élevée
+<string>Moyenne
+<string>Basse
+<string>Minimum
+<string>Configurer les commandes (manette).
+<string>Assignation des touches
+<string>Configurer les commandes (clavier/souris).
+<string>Sensibilité de la souris
+<string>Ajuster la vitesse de la caméra en mode normal (souris).
+<string>Ajuster la vitesse de la caméra en mode visée (souris).
+<string>Sensibilité de la manette
+<string>Ajuster la vitesse de la caméra en mode normal (manette).
+<string>Ajuster la vitesse de la caméra en mode visée (manette).
+<string>Espace de couleur
+<string>Changer l'espace de couleur en fonction de votre moniteur.
+<string>sRGB
+<string>Rec. 709
+<string>Rec. 2020
+<string>Réglages types
+<string>Régler automatiquement les options graphiques selon les performances du PC.
+<string>Mode d'affichage
+<string>Changer le mode d'affichage.
+<string>Plein écran
+<string>Fenêtre
+<string>Fenêtre sans bordure
+<string>Résolution
+<string>Changer la résolution d'affichage.
+<string>Taux de rafraîchissement
+<string>Changer le taux de rafraîchissement du moniteur.
+<string>Framerate
+<string>Changer le nombre d'images par seconde.
+<string>Variable
+<string>60
+<string>30
+<string>Synchronisation verticale
+<string>Activer ou désactiver la synchronisation du framerate avec le taux de rafraîchissement du moniteur.
+<string>Mode de rendu
+<string>Changer la méthode utilisée pour le rendu du jeu.
+<string>Normal
+<string>Damier
+<string>Entrelacé
+<string>Qualité de l'image
+<string>Changer le facteur de mise à l'échelle de la résolution.
+<string>50 %
+<string>60 %
+<string>70 %
+<string>80 %
+<string>90 %
+<string>100 %
+<string>110 %
+<string>120 %
+<string>130 %
+<string>140 %
+<string>150 %
+<string>160 %
+<string>170 %
+<string>180 %
+<string>190 %
+<string>200 %
+<string>Qualité des textures
+<string>Changer la qualité des textures des objets (quantité de VRAM recommandée).
+<string>Élevée (8 Go)
+<string>Élevée (6 Go)
+<string>Élevée (4 Go)
+<string>Élevée (3 Go)
+<string>Élevée (2 Go)
+<string>Élevée (1 Go)
+<string>Élevée (0,5 Go)
+<string>Élevée (0,25 Go)
+<string>Moyenne (0,5 Go)
+<string>Moyenne (0,25 Go)
+<string>Basse (0 Go)
+<string>Filtrage des textures
+<string>Changer la clarté des textures.
+<string>Élevé (ANISO x16)
+<string>Élevé (ANISO x8)
+<string>Élevé (ANISO x4)
+<string>Élevé (ANISO x2)
+<string>Moyen (trilinéaire)
+<string>Bas (bilinéaire)
+<string>Qualité des meshes
+<string>Changer la qualité des meshes.
+<string>Qualité des meshes (ombres)
+<string>Changer la qualité des meshes utilisés pour les ombres.
+<string>Anti-aliasing
+<string>Changer le procédé de lissage des graphismes.
+<string>Non
+<string>FXAA
+<string>TAA
+<string>FXAA+TAA
+<string>SMAA
+<string>Flou cinétique
+<string>Activer ou désactiver l'effet de flou sur les objets en mouvement.
+<string>Quantité d'effets visuels
+<string>Changer la quantité d'effets visuels pouvant être générés.
+<string>Qualité des ombres
+<string>Changer la qualité des ombres.
+<string>Ombres de contact
+<string>Changer le rendu des ombres détaillées.
+<string>Cinématiques uniquement
+<string>Ombres dynamiques
+<string>Activer ou désactiver les ombres dynamiques pour les objets en mouvement.
+<string>Cache des ombrages
+<string>Activer ou désactiver la mise en cache des ombrages pour les objets en mouvement.
+<string>Occlusion ambiante
+<string>Changer le rendu des ombres projetées par l'éclairage ambiant.
+<string>Non
+<string>SSAO (zones prédéfinies seulement)
+<string>SSAO
+<string>FidelityFX CACAO
+<string>HBAO+
+<string>Bloom
+<string>Activer ou désactiver l'effet d'éblouissement face aux sources de lumière intense.
+<string>Lens flare
+<string>Activer ou désactiver l'effet provoquant la dispersion de la lumière sur l'objectif.
+<string>Qualité de l'éclairage volumétrique
+<string>Changer la qualité de l'éclairage volumétrique.
+<string>Reflets spatiaux
+<string>Activer ou désactiver la fonction améliorant la réflexion sur les surfaces.
+<string>Transluminescence
+<string>Activer ou désactiver l'effet qui améliore la qualité du rendu de la peau.
+<string>Profondeur de champ
+<string>Activer ou désactiver l'effet de mise au point selon la distance des objets.
+<string>Distorsion de la lentille
+<string>Changer l'effet de distorsion de la lentille.
+<string>Oui (+ aberration chromatique)
+<string>Oui
+<string>Non
+<string>Effet de grain
+<string>Activer ou désactiver l'effet de grain appliqué à l'image.
+<string>API graphique
+<string>Changer l'API utilisée pour le traitement graphique.
+<string>DirectX 11
+<string>DirectX 12
+<string>Oui (FreeSync 2)
+<string>Boutons de souris
+<string>Inverser les fonctions des boutons gauche et droit de la souris.
+<string>Standard
+<string>Inversés
+<string>Verrouillage du curseur
+<string>Activer ou désactiver la fonction empêchant le curseur de la souris de sortir de la fenêtre.
+<string>Qualité de l'éclairage des particules
+<string>Changer la qualité de l'éclairage des particules.
+<string>Sélectionnez une action.
+<string>Appuyez sur la touche à assigner à cette action.
+<string>Assignation des touches
+<string>Action
+<string>Touche principale
+<string>Touche secondaire
+<string>Viser
+<string>Attaquer
+<string>Recharger
+<string>Sortir l'arme secondaire
+<string>Changer de munitions
+<string>Changer d'arme ←
+<string>Changer d'arme ↑
+<string>Changer d'arme ↓
+<string>Changer d'arme →
+<string>Aller à gauche
+<string>Avancer
+<string>Reculer
+<string>Aller à droite
+<string>Courir
+<string>Demi-tour rapide
+<string>Recentrer la caméra
+<string>Interagir
+<string>Menu Pause
+<string>Ouvrir la carte
+<string>Ouvrir l'inventaire
+<string>Confirmer (Menu)
+<string>Retour (Menu)
+<string>Changer d'onglet ← (Menu)
+<string>Changer d'onglet → (Menu)
+<string>Changer de catégorie ← (Menu)
+<string>Changer de catégorie → (Menu)
+<string>← (Menu)
+<string>↑ (Menu)
+<string>↓ (Menu)
+<string>→ (Menu)
+<string>Page ↑ (Menu)
+<string>Page ↓ (Menu)
+<string>Trier (Coffre)
+<string>Déplacer un objet (Coffre)
+<string>Zoom + (Menu)
+<string>Zoom - (Menu)
+<string>Réinitialiser (Menu)
+<string>Afficher/masquer les commandes (Modèles)
+<string>Changer de niveau ↑ (Carte)
+<string>Changer de niveau ↓ (Carte)
+<string>Cette option n'est disponible que lorsque DirectX 12 est supporté.
+<string>Politique de confidentialité
+<string>Voir la politique de confidentialité.
+<string>Ouvrir la page web relative à la politique de confidentialité ?<lf><lf>Politique de confidentialité (http://www.capcom.co.jp/privacy/game/)

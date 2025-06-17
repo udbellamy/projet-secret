@@ -1,0 +1,7 @@
+<string><TIME 5.72, 7.56><TIME 17.58, 18.15>Hé ho ! Y'a quelqu'un ?<PAGE><lf>Quelque chose tourne pas rond...
+<string>Hé ho ! Y'a quelqu'un ?
+<string>Quelque chose tourne pas rond...
+<string><TIME 2.32, 3.01><TIME 6.29, 7.89><TIME 15.66, 16.71>Hé oh ?<PAGE><lf>Est-ce qu'il y a quelqu'un ?<PAGE><lf>Hé oh !
+<string>Hé oh ?
+<string>Est-ce qu'il y a quelqu'un ?
+<string>Hé oh !

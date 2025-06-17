@@ -1,0 +1,11 @@
+<string>Boîte de réception : Wayne Li
+<string>Expéditeur : Rick Mendoza<lf>Objet : Qu'est-ce qu'il fout ?<lf><lf>Tu as vu la dernière de cet abruti de Cartwright ?<lf>Faut qu'il calme sa joie, ce connard ! Enfin, c'est<lf>lui le patron... pour l'instant. Sinon, tu n'as pas<lf>vu ma double hélice ? J'ai inscrit mon secret<lf>en dessous. Dis-moi si tu la trouves !
+<string>Expéditeur : Byron Cartwright<lf>Objet : Trop occupé, hein ?<lf><lf>Alors comme ça, vous n'avez pas pu venir à<lf>notre petite réunion ? Pas de souci, oubliez<lf>l'inspection de la serre. Je vais vous donner<lf>quelque chose de bien plus simple à faire :<lf>mettez en place le budget prévisionnel pour<lf>dans deux ans. Et je veux l'avoir ce soir !
+<string>Expéditeur : Rick Mendoza<lf>Objet : T'es vivant ?<lf><lf>On nous attaque. Il y a des morts. On ne peut<lf>plus accéder à la zone est. Impossible<lf>d'activer le pont avec nos bracelets.<lf>Où se cache cette enflure de Cartwright ?!
+<string>Expéditeur : Rick Mendoza<lf>Objet : Réponds, je t'en prie !<lf><lf>La plante 43 est déchaînée ! C'est le chaos<lf>dans la serre ! Il faut envoyer quelqu'un<lf>là-bas avant qu'il ne soit trop tard. Wayne,<lf>comment on peut arrêter ce truc ?<lf>Tu dois nous aider. Je t'en prie, réponds !
+<string>Expéditeur : Rick Mendoza<lf>Objet : (aucun)<lf><lf>Tu te souviens de Susie, la pom-pom girl ?<lf>Quelle chouette fille ! On était tous les deux<lf>amoureux d'elle. Mais bien sûr, elle s'en<lf>fichait des nerds... Il faut toujours que je te<lf>rende les BD et les jeux que je t'ai empruntés.<lf>Mais tu risques de devoir attendre encore<lf>longtemps.
+<string><END>
+<string>
+<string>
+<string>
+<string>

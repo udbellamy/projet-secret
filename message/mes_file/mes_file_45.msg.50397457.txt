@@ -1,0 +1,11 @@
+<string>Lettre d'orientation
+<string><RIGHT>18/09/1998<lf><lf>Officier Leon S. Kennedy,<lf><lf>Le R.P.D. vous félicite pour la fin de votre<lf>formation. Vos notes forcent l'admiration,<lf>et nous sommes extrêmement fiers de vous<lf>compter parmi nous.
+<string>Veuillez vous rendre au commissariat de<lf>Raccoon City pour orientation le vendredi<lf>25 septembre à 8h.<lf><lf>Nous sommes impatients de vous accueillir.<lf><lf><RIGHT>Le chef de la Police de Raccoon City,<lf><RIGHT>Brian Irons
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

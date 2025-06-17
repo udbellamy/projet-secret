@@ -1,0 +1,18 @@
+<string><TIME 1.33, 4.03><TIME 5.76, 7.51><TIME 8.51, 10.49><TIME 11.56, 12.82><TIME 12.85, 14.96><TIME 15.67, 18.82><TIME 20.19, 22.84><TIME 23.05, 24.52><TIME 26.19, 28.41><TIME 28.43, 29.74><TIME 29.95, 32.15><TIME 32.17, 34.74><TIME 35.31, 36.46><TIME 37.78, 38.8><TIME 39.11, 41.64><TIME 44.49, 45.98><TIME 48.35, 49.81>30 minutes plus tôt...<PAGE><lf>Content de te revoir, Claire.<PAGE><lf>On a une affaire à régler, toi et moi.<PAGE><lf>Qu'est-ce que vous voulez ?<PAGE><lf>Tu sais très bien ce que je veux !<PAGE><lf>Apporte-moi le pendentif ou Sherry meurt.<PAGE><lf>Le pendentif ? Pour quoi faire ?<PAGE><lf>Tu veux que la fille meure ?<PAGE><lf>Bien. Où êtes-vous ?<PAGE><lf>L'orphelinat.<PAGE><lf>L'orphelinat ? Où ça ?<PAGE><lf>Dans le quartier. Tu le trouveras.<PAGE><lf>Sherry va bien ?<PAGE><lf>Pour l'instant...<PAGE><lf>Espèce d'ordure, si tu lui fais du mal...<PAGE><lf>J'y crois pas !<PAGE><lf>Eh merde !
+<string>Content de te revoir, Claire.
+<string>On a une affaire à régler, toi et moi.
+<string>Qu'est-ce que vous voulez ?
+<string>Tu sais très bien ce que je veux !
+<string>Apporte-moi le pendentif ou Sherry meurt.
+<string>Le pendentif ? Pour quoi faire ?
+<string>Tu veux que la fille meure ?
+<string>Bien. Où êtes-vous ?
+<string>L'orphelinat.
+<string>L'orphelinat ? Où ça ?
+<string>Dans le quartier. Tu le trouveras.
+<string>Sherry va bien ?
+<string>Pour l'instant...
+<string>Espèce d'ordure, si tu lui fais du mal...
+<string>J'y crois pas !
+<string>Eh merde !
+<string>30 minutes plus tôt...

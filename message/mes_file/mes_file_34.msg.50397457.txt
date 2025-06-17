@@ -1,0 +1,11 @@
+<string>Journal de la salle de repos
+<string>18545 Toby Jackson<lf><CENTER> Arrivée : 03 h 44   Départ : 07 h 31<lf><lf>18546 Sara Takahashi<lf><CENTER>Arrivée : 04 h 51   Départ : 07 h 08<lf><lf>18547 Walt Paige<lf><CENTER>Arrivée : 12 h 03   Départ : 13 h 36
+<string>18548 Anthony White<lf><CENTER>Arrivée : 12 h 05   Départ : 12 h 48<lf><lf>18549 Cyril Archer<lf><CENTER>Arrivée : 18 h 01   Départ : 20 h 21<lf><lf>18550 Desmond Lock<lf><CENTER>Arrivée : 18 h 04   Départ : 19 h 58
+<string>18551 Wayne Li<lf><CENTER>Arrivée : 20 h 16  Départ : -- h --
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

@@ -1,0 +1,32 @@
+<string><COLOR FF0000>#Rejected#</COLOR> CF094_0010_pl0000_41
+<string><COLOR FF0000>#Rejected#</COLOR> CF094_0020_pl0000_41
+<string><COLOR FF0000>#Rejected#</COLOR> CF094_0030_pl0000_41
+<string><COLOR FF0000>#Rejected#</COLOR> CF094_0040_pl5700_41
+<string><COLOR FF0000>#Rejected#</COLOR> CF094_0050_pl0000_41
+<string><COLOR FF0000>#Rejected#</COLOR> CF094_0060_pl5700_41
+<string><COLOR FF0000>#Rejected#</COLOR> CF094_0070_pl5700_41
+<string><TIME 0.77, 1.61><TIME 8.98, 10.14><TIME 14.45, 15.62><TIME 15.66, 16.71><TIME 22.37, 25.17><TIME 25.86, 26.83><TIME 27.99, 29.13><TIME 30.32, 31.43><TIME 32.16, 35.2><TIME 39.31, 40.24><TIME 46.26, 48.09>Vite !<PAGE><lf>Putain de merde !<PAGE><lf>Attention !<PAGE><lf>Je m'en occupe !<PAGE><lf>Tu es en sécurité... pour l'instant...<PAGE><lf>Merci...<PAGE><lf>Marvin Branagh.<PAGE><lf>Leon Kennedy...<PAGE><lf>Il y avait un autre officier...<lf>J'ai pas pu... J'ai pas pu...<PAGE><lf>Hé...<PAGE><lf>Je suis sûr que tu as fait ce que tu as pu, Leon.
+<string>Vite !
+<string>Putain de merde !
+<string>Attention !
+<string>Je m'en occupe !
+<string>Tu es en sécurité... pour l'instant...
+<string>Merci...
+<string>Marvin Branagh.
+<string>Leon Kennedy...
+<string>Il y avait un autre officier...<lf>J'ai pas pu... J'ai pas pu...
+<string>Hé...
+<string>Je suis sûr que tu as fait ce que tu as pu, Leon.
+<string><TIME 8.75, 11.43><TIME 12.97, 15.15><TIME 19.17, 19.8><TIME 19.85, 20.7><TIME 23.39, 24.24><TIME 24.74, 25.44><TIME 25.86, 28.46><TIME 31.47, 32.5><TIME 36.36, 37.29><TIME 38.57, 40.47><TIME 40.96, 43.65><TIME 44.63, 45.41>Lâche-moi ! Lâche-moi !<PAGE><lf>À l'aide ! À l'aide !<PAGE><lf>Attention !<PAGE><lf>Je m'en occupe !<PAGE><lf>Ça va ?<PAGE><lf>Ouais...<PAGE><lf>C'est fini... pour l'instant.<PAGE><lf>Marvin Branagh.<PAGE><lf>Merci.<PAGE><lf>Tu as appris à te défendre, on dirait.<PAGE><lf>Oui, disons que je sais me débrouiller.<PAGE><lf>Viens.
+<string>Lâche-moi ! Lâche-moi !
+<string>À l'aide ! À l'aide !
+<string>Attention !
+<string>Je m'en occupe !
+<string>Ça va ?
+<string>Ouais...
+<string>C'est fini... pour l'instant.
+<string>Marvin Branagh.
+<string>Merci.
+<string>Tu as appris à te défendre, on dirait.
+<string>Oui, disons que je sais me débrouiller.
+<string>Viens.

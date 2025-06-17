@@ -1,0 +1,1682 @@
+<string>Un spray de soin restaurant<lf>la totalité de votre santé.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_000_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_000_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_000_3
+<string>Une plante verte native des<lf>montagnes Arklay. Restaure<lf>légèrement la santé.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_001_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_001_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_001_3
+<string>Une plante rouge native des<lf>montagnes Arklay. Ne peut être<lf>utilisée telle quelle.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_002_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_002_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_002_3
+<string>Une plante bleue native des<lf>montagnes Arklay. Peut servir<lf>à éliminer les toxines de votre<lf>corps.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_003_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_003_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_003_3
+<string>Ce mélange de deux plantes vertes<lf>restaure modérément la santé.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_004_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_004_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_004_3
+<string>Ce mélange de deux plantes<lf>différentes restaure entièrement<lf>votre santé.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_005_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_005_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_005_3
+<string>Ce mélange de deux plantes<lf>différentes élimine toute toxine<lf>de votre corps et restaure<lf>légèrement la santé.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_006_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_006_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_006_3
+<string>Ce mélange de trois plantes<lf>différentes élimine toute toxine<lf>de votre corps et restaure<lf>modérément la santé.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_007_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_007_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_007_3
+<string>Ce mélange de trois plantes vertes<lf>restaure entièrement votre santé.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_008_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_008_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_008_3
+<string>Ce mélange de trois plantes<lf>restaure totalement la santé,<lf>réduit les dégâts subis et protège<lf>temporairement contre le poison.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_009_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_009_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_009_3
+<string>Ce mélange de deux plantes élimine<lf>les toxines, réduit les dégâts<lf>subis et protège temporairement<lf>contre le poison.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_010_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_010_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_010_3
+<string>Une plante verte native des<lf>montagnes Arklay. Restaure<lf>légèrement la santé.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_051_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_051_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_051_3
+<string>Une plante rouge native des<lf>montagnes Arklay. Ne peut être<lf>utilisée telle quelle.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_052_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_052_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_052_3
+<string>Une plante bleue native des<lf>montagnes Arklay. Peut servir<lf>à éliminer les toxines de votre<lf>corps.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_053_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_053_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_053_3
+<string>Balles de 9 mm Parabellum.<lf>Ces balles courantes offrent<lf>une trajectoire stable et un<lf>recul modéré.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_100_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_100_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_100_3
+<string>Cartouches de fusil de calibre 12<lf>avec un diamètre de 18,1 mm.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_101_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_101_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_101_3
+<string>Balles .380 ACP ("9mm Court") pour<lf>pistolet-mitrailleur. Puissantes et<lf>faciles à maîtriser, elles sont<lf>très populaires en Europe.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_102_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_102_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_102_3
+<string>Balles .50 AE pour MAG.<lf>Ce sont les balles les plus<lf>puissantes du marché pour les<lf>pistolets semi-automatiques.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_103_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_103_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_103_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_104_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_104_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_104_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_104_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_105_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_105_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_105_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_105_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_106_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_106_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_106_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_106_3
+<string>Munitions pour lance-grenades.<lf>La capsule se brise à l'impact et<lf>libère de l'acide hautement corrosif.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_107_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_107_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_107_3
+<string>Munitions pour lance-grenades.<lf>Le napalm prend feu à l'impact,<lf>embrasant tout sur son passage.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_108_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_108_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_108_3
+<string>Munitions pour fusil électrique.<lf>Contiennent des aiguilles capables<lf>d'infliger d'importantes décharges<lf>électriques.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_109_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_109_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_109_3
+<string>Carburant pour lance-flammes.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_110_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_110_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_110_3
+<string>Cartouches .45 ACP pour M19<lf>et Quickdraw Army. Leur poids<lf>les rend plus puissantes que<lf>des munitions normales.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_111_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_111_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_111_3
+<string>Munitions améliorées pour SLS 60,<lf>avec encore plus de poudre.<lf>La puissance de ces munitions<lf>nécessite un cadre renforcé.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_112_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_112_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_112_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_151_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_151_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_151_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_151_3
+<string>Un détonateur pour explosifs C-4.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_200_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_200_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_200_3
+<string>Un ruban encreur.<lf>Indispensable pour taper à la machine.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_201_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_201_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_201_3
+<string>Des planches de bois solides<lf>pouvant servir à barricader les<lf>fenêtres. Idéal pour empêcher<lf>les intrus d'entrer.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_202_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_202_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_202_3
+<string>Un appareil électronique de taille<lf>moyenne.
+<string>Un détonateur pour explosifs C-4.<lf>Il faut une pile pour l'utiliser.
+<string>C'est une sorte d'appareil<lf>électronique.
+<string>Un détonateur pour explosifs C-4.<lf>Il manque une pile.
+<string>Une pile 9 volts standard.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_204_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_204_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_204_3
+<string>Poudre de qualité standard.<lf>Combinez-en deux pour créer<lf>des munitions pour pistolet.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_205_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_205_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_205_3
+<string>Grande quantité de poudre.<lf>Permet de créer deux fois plus de<lf>munitions que la poudre noire<lf>standard.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_206_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_206_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_206_3
+<string>Combinez-la avec de la poudre noire<lf>pour créer des cartouches de fusil<lf>ou combinez-en deux pour créer<lf>des munitions pour MAG.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_207_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_207_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_207_3
+<string>Combinez-la avec de la poudre noire<lf>pour créer des grenades d'acide ou<lf>combinez-en deux pour créer des<lf>munitions pour pistolet-mitrailleur.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_208_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_208_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_70_208_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_000_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_000_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_000_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_000_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_001_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_001_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_001_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_001_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_100_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_100_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_100_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_100_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_200_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_200_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_200_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_200_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_300_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_300_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_300_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_300_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_400_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_400_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_400_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_400_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_500_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_500_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_500_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_500_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_900_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_900_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_900_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_900_3
+<string>Élément pour Matilda.<lf>Augmente la capacité du chargeur<lf>à 24 balles et réduit le temps<lf>de rechargement.
+<string>Augmente la capacité du chargeur à 24 balles.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_901_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_901_3
+<string>Élément pour Matilda.<lf>Favorise la diffusion des gaz de<lf>propulsion pour diminuer le recul<lf>et le relèvement du canon.
+<string>Supprime le relèvement du canon et augmente la précision.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_902_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_902_3
+<string>Élément pour Matilda.<lf>Permet de tirer 3 balles à chaque<lf>pression sur la détente.
+<string>Permet de tirer 3 balles à chaque pression sur la détente.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_903_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_903_3
+<string>Élément pour SLS 60.<lf>Diminue considérablement<lf>le temps de rechargement.
+<string>Diminue considérablement le temps de rechargement.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_904_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_904_3
+<string>Élément pour JMB Hp3.<lf>Permet de viser en un clin d'œil.
+<string>Ajoute un viseur laser.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_905_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_905_3
+<string>Élément renforcé pour SLS 60.<lf>Le cadre en acier permet à l'arme<lf>de tirer des munitions améliorées.
+<string>Permet à l'arme de tirer des munitions améliorées.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_906_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_906_3
+<string>Élément pour JMB Hp3.<lf>Augmente la capacité du chargeur<lf>à 26 balles et réduit le temps de<lf>rechargement.
+<string>Augmente la capacité du chargeur à 26 balles.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_907_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_907_3
+<string>Élément pour W-870.<lf>Stabilise l'arme et permet de tirer<lf>et de recharger en un seul geste.
+<string>Permet d'enchaîner plus facilement les tirs.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_908_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_908_3
+<string>Élément pour W-870.<lf>Augmente la capacité à 8 cartouches.<lf>Permet une plus grande vitesse<lf>initiale et une dispersion réduite.
+<string>Augmente la capacité à 8 cartouches et accroît la puissance.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_909_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_909_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_910_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_910_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_910_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_910_3
+<string>Élément pour MQ 11.<lf>Augmente la capacité du chargeur<lf>à 50 balles et réduit le temps<lf>de rechargement.
+<string>Augmente la capacité du chargeur à 50 balles.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_911_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_911_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_912_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_912_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_912_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_912_3
+<string>Élément pour MQ 11.<lf>Atténue le bruit du tir et réduit<lf>fortement le relèvement du canon.
+<string>Réduit le recul et le relèvement du canon.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_913_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_913_3
+<string>Élément pour Lightning Hawk.<lf>Permet une visée ultra-rapide.
+<string>Permet une visée ultra-rapide.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_914_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_914_3
+<string>Élément pour Lightning Hawk.<lf>Réduit le recul et augmente<lf>la vélocité des balles pour plus<lf>de dégâts.
+<string>Réduit le recul et accroît la puissance.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_915_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_915_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_916_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_916_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_916_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_916_3
+<string>Élément pour GM 79.<lf>Réduit grandement le recul et<lf>stabilise la trajectoire des tirs.
+<string>Offre une trajectoire plus stable à chaque tir.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_917_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_917_3
+<string>Élément pour lance-flammes.<lf>Optimise la distribution du<lf>carburant et du gaz pressurisé<lf>pour une utilisation prolongée.
+<string>Permet au carburant de durer plus longtemps.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_918_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_918_3
+<string>Élément pour fusil électrique.<lf>Augmente la capacité de stockage<lf>d'électricité, réduisant le temps<lf>entre chaque tir.
+<string>Réduit le temps entre chaque tir.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_919_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_71_919_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_72_000_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_72_000_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_72_000_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_72_000_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_72_001_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_72_001_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_72_001_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_72_001_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_72_002_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_72_002_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_72_002_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_72_002_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_72_003_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_72_003_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_72_003_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_72_003_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_72_004_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_72_004_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_72_004_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_72_004_3
+<string>Une pellicule non développée.
+<string>Une pellicule non développée.<lf>Elle porte l'inscription<lf>"Planques".
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_72_200_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_72_200_3
+<string>Une pellicule non développée.
+<string>Une pellicule non développée.<lf>Elle porte l'inscription<lf>"Recrue prometteuse".
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_72_201_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_72_201_3
+<string>Une pellicule non développée.
+<string>Une pellicule non développée.<lf>Elle porte l'inscription<lf>"Commémoratif".
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_72_202_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_72_202_3
+<string>Une pellicule non développée.
+<string>Une pellicule non développée.<lf>Elle porte l'inscription<lf>"Casier 3F".
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_72_203_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_72_203_3
+<string>Une pellicule non développée.
+<string>Une pellicule non développée.<lf>Elle porte l'inscription<lf>"Statue de lion".
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_72_204_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_72_204_3
+<string>Une clé très usée.
+<string>La clé ouvrant la réserve<lf>de la station-service.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_000_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_000_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_001_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_001_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_001_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_001_3
+<string>Une sorte d'outil long et fin.
+<string>Une poignée de cric mécanique.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_100_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_100_3
+<string>Une sorte de manivelle métallique.
+<string>Une manivelle dotée d'un embout<lf>carré.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_101_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_101_3
+<string>Un grand médaillon décoratif<lf>orné d'une licorne mythique.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_102_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_102_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_102_3
+<string>Une clé joliment décorée.
+<string>Une clé en forme de pique.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_103_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_103_3
+<string>Une carte d'accès servant à ouvrir<lf>et à fermer la grille du parking<lf>du R.P.D.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_104_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_104_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_104_3
+<string>Une carte en plastique.
+<string>Une carte permettant au personnel<lf>autorisé d'emprunter certaines<lf>armes spéciales.
+<string>Elle porte l'inscription<lf>"Carte de l'armoire à fusils".
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_105_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_106_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_106_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_106_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_106_3
+<string>Un simple volant.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_107_1
+<string>Un volant de valve doté d'un trou<lf>à la forme particulière.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_107_3
+<string>Un badge spécial de la division<lf>des forces spéciales du R.P.D.,<lf>le S.T.A.R.S.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_108_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_108_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_108_3
+<string>Un sceptre orné d'un joyau.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_109_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_109_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_109_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_110_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_110_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_110_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_110_3
+<string>Un joyau qui semble avoir une<lf>grande valeur.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_111_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_111_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_111_3
+<string>Une boîte ornée.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_112_1
+<string>Des joyaux ornent le couvercle de<lf>cette superbe boîte. Elle semble<lf>contenir quelque chose.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_112_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_113_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_113_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_113_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_113_3
+<string>Un composant électronique ayant la<lf>forme d'une pièce de jeu d'échecs.
+<string>Un connecteur électrique en forme<lf>de fou.
+<string>La tête de cette prise sur le<lf>thème des échecs est en forme<lf>de fou.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_114_3
+<string>Un composant électronique ayant la<lf>forme d'une pièce de jeu d'échecs.
+<string>Un connecteur électrique en forme<lf>de tour.
+<string>La tête de cette prise sur le<lf>thème des échecs est en forme<lf>de tour.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_115_3
+<string>Un composant électronique ayant la<lf>forme d'une pièce de jeu d'échecs.
+<string>Un connecteur électrique en forme<lf>de roi.
+<string>La tête de cette prise sur le<lf>thème des échecs est en forme<lf>de roi.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_116_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_117_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_117_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_117_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_117_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_118_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_118_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_118_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_118_3
+<string>Un vieux cube.
+<string>Un vieux cube.<lf>Il y a des motifs en relief sur<lf>la plupart de ses faces.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_119_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_119_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_120_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_120_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_120_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_120_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_121_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_121_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_121_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_121_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_122_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_122_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_122_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_122_3
+<string>Un connecteur USB en forme de<lf>badge.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_123_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_123_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_123_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_124_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_124_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_124_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_124_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_125_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_125_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_125_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_125_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_126_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_126_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_126_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_126_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_127_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_127_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_127_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_127_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_128_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_128_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_128_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_128_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_129_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_129_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_129_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_129_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_130_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_130_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_130_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_130_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_131_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_131_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_131_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_131_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_132_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_132_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_132_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_132_3
+<string>Un petit objet en plastique.
+<string>Une touche de clavier pouvant<lf>servir sur un terminal. Il n'y a<lf>rien d'écrit dessus.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_133_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_133_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_134_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_134_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_134_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_134_3
+<string>Un vieux livre abîmé.
+<string>Un objet en plastique en forme de<lf>livre. Il y a la marque de la main<lf>qui devait le tenir.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_135_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_135_3
+<string>Un bras gauche en plâtre.
+<string>Un bras gauche en plâtre.<lf>On dirait qu'il est censé tenir<lf>quelque chose.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_136_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_136_3
+<string>Un bras gauche en plâtre.<lf>Le livre tient parfaitement<lf>dans la main.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_137_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_137_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_137_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_138_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_138_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_138_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_138_3
+<string>Un grand médaillon décoratif<lf>orné d'un lion féroce.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_139_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_139_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_139_3
+<string>Une clé joliment décorée.
+<string>Une clé en forme de carreau.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_140_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_140_3
+<string>Une clé très abîmée.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_141_1
+<string>Une clé de contact de voiture.<lf>Elle est tordue.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_141_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_142_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_142_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_142_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_142_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_143_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_143_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_143_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_143_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_144_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_144_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_144_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_144_3
+<string>Un grand médaillon décoratif<lf>orné d'une belle jeune fille.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_145_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_145_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_145_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_146_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_146_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_146_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_146_3
+<string>Un petit composant électronique.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_147_1
+<string>Un composant sur mesure pour<lf>un panneau électrique.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_147_3
+<string>Un petit composant électronique.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_148_1
+<string>Un composant sur mesure pour<lf>un panneau électrique.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_148_3
+<string>Un petit bas-relief encadré.
+<string>Un bas-relief représentant un<lf>couple d'amoureux.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_150_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_150_3
+<string>Un vieux rouage rouillé. Il semble<lf>provenir d'une sorte de machine.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_151_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_151_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_151_3
+<string>Un vieux rouage rouillé. Il semble<lf>provenir d'une sorte de machine.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_152_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_152_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_152_3
+<string>La clé ouvrant la porte grillagée<lf>de la cour du commissariat.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_153_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_153_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_153_3
+<string>Un composant électronique ayant la<lf>forme d'une pièce de jeu d'échecs.
+<string>Un connecteur électrique en forme<lf>de cavalier.
+<string>La tête de cette prise sur le<lf>thème des échecs est en forme<lf>de cavalier.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_154_3
+<string>Un composant électronique ayant la<lf>forme d'une pièce de jeu d'échecs.
+<string>Un connecteur électrique en forme<lf>de pion.
+<string>La tête de cette prise sur le<lf>thème des échecs est en forme<lf>de pion.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_155_3
+<string>Un composant électronique ayant la<lf>forme d'une pièce de jeu d'échecs.
+<string>Un connecteur électrique en forme<lf>de reine.
+<string>La tête de cette prise sur le<lf>thème des échecs est en forme<lf>de reine.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_156_3
+<string>Une boîte contenant un composant<lf>électronique.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_157_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_157_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_157_3
+<string>Une boîte contenant un composant<lf>électronique.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_158_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_158_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_158_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_200_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_200_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_200_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_200_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_201_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_201_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_201_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_201_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_202_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_202_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_202_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_202_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_203_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_203_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_203_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_203_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_204_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_204_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_204_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_204_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_205_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_205_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_205_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_205_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_206_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_206_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_206_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_206_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_207_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_207_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_207_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_207_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_208_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_208_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_208_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_208_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_209_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_209_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_209_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_209_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_210_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_210_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_210_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_210_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_211_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_211_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_211_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_211_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_212_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_212_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_212_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_212_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_213_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_213_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_213_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_213_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_214_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_214_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_214_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_214_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_215_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_215_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_215_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_215_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_216_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_216_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_216_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_216_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_217_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_217_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_217_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_217_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_218_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_218_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_218_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_218_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_219_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_219_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_219_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_219_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_220_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_220_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_220_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_220_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_221_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_221_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_221_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_221_3
+<string>La clé ouvrant les portes de<lf>l'orphelinat.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_222_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_222_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_222_3
+<string>Une clé joliment décorée.
+<string>Une clé en forme de trèfle.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_300_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_300_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_301_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_301_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_301_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_301_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_302_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_302_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_302_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_302_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_303_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_303_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_303_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_303_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_304_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_304_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_304_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_304_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_400_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_400_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_400_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_400_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_401_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_401_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_401_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_401_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_402_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_402_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_402_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_402_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_403_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_403_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_403_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_403_3
+<string>Une clé joliment décorée.
+<string>Une clé en forme de cœur.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_404_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_404_3
+<string>Une cassette vidéo récupérée sur<lf>le corps d'un soldat des forces<lf>spéciales.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_405_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_405_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_405_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_406_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_406_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_406_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_406_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_407_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_407_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_407_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_407_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_408_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_408_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_408_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_408_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_409_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_409_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_409_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_409_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_410_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_410_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_410_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_410_3
+<string>Une sorte d'outil de taille moyenne.
+<string>Une poignée de valve en forme de T.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_411_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_411_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_412_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_412_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_412_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_412_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_413_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_413_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_413_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_413_3
+<string>Une cartouche servant à répandre<lf>diverses solutions dans la serre.
+<string>Une cartouche servant à répandre<lf>diverses solutions dans la serre.<lf>Elle est vide pour l'instant.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_414_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_414_3
+<string>Une cartouche servant à répandre<lf>diverses solutions dans la serre.<lf>Elle contient une solution.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_415_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_415_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_415_3
+<string>Une cartouche servant à répandre<lf>diverses solutions dans la serre.<lf>Elle contient un herbicide.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_416_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_416_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_416_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_417_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_417_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_417_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_417_3
+<string>Une grosse prise servant<lf>à activer un équipement<lf>dans le NEST.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_418_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_418_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_418_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_419_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_419_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_419_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_419_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_420_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_420_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_420_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_420_3
+<string>Une puce électronique dotée d'un<lf>accès de niveau administrateur.<lf>Peut être insérée dans un bracelet<lf>d'identification.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_421_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_421_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_421_3
+<string>Un bracelet d'identification<lf>électronique pour les locaux<lf>d'Umbrella. L'accès administrateur<lf>donne accès à l'ascenseur central.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_422_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_422_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_422_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_423_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_423_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_423_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_423_3
+<string>Un outil électronique utilisé pour<lf>l'entretien de l'équipement.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_424_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_424_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_424_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_425_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_425_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_425_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_425_3
+<string>Un trophée en forme de double<lf>hélice d'ADN.
+<string>Un trophée en forme de double<lf>hélice d'ADN. Il y a une inscription<lf>en dessous.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_426_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_426_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_427_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_427_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_427_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_427_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_428_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_428_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_428_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_428_3
+<string>Une clé étiquetée.
+<string>La clé d'une zone des égouts.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_429_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_429_3
+<string>Un bracelet simple.
+<string>Une clé électronique utilisée dans<lf>les bâtiments d'Umbrella. Son<lf>niveau d'autorisation peut être<lf>modifié en changeant la puce.
+<string>Un bracelet faisant office de clé<lf>électronique. Il contient une puce<lf>de Nv 1 (visiteur).
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_430_3
+<string>Une clé électronique utilisée dans<lf>les bâtiments d'Umbrella. Son<lf>niveau d'autorisation peut être<lf>modifié en changeant la puce.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_431_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_431_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_431_3
+<string>Une clé électronique utilisée dans<lf>les bâtiments d'Umbrella. Son<lf>niveau d'autorisation peut être<lf>modifié en changeant la puce.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_432_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_432_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_432_3
+<string>Une petite puce électronique.
+<string>Une puce électronique dotée d'un<lf>accès de Nv 2 (employé).<lf>Peut être insérée dans un bracelet<lf>d'identification.
+<string>Une puce électronique dotée d'un<lf>accès de Nv 2 (employé).
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_433_3
+<string>Une petite puce électronique.
+<string>Une puce électronique dotée d'un<lf>accès de Nv 3 (cadre supérieur).<lf>Peut être insérée dans un bracelet<lf>d'identification.
+<string>Une puce électronique dotée d'un<lf>accès de Nv 3 (cadre supérieur).
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_434_3
+<string>Un bracelet simple.
+<string>Une clé électronique utilisée dans<lf>les bâtiments d'Umbrella. Son<lf>niveau d'autorisation peut être<lf>modifié en changeant la puce.
+<string>Un bracelet faisant office de clé<lf>électronique. Il contient une puce<lf>de Nv 1 (visiteur).
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_435_3
+<string>Une clé électronique utilisée dans<lf>les bâtiments d'Umbrella. Son<lf>niveau d'autorisation peut être<lf>modifié en changeant la puce.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_436_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_436_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_436_3
+<string>Une clé électronique utilisée dans<lf>les bâtiments d'Umbrella. Son<lf>niveau d'autorisation peut être<lf>modifié en changeant la puce.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_437_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_437_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_437_3
+<string>Une cassette vidéo récupérée sur<lf>le corps d'un soldat des forces<lf>spéciales.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_438_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_438_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_438_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_500_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_500_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_500_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_500_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_501_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_501_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_501_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_501_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_502_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_502_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_502_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_502_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_503_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_503_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_503_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_503_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_504_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_504_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_504_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_504_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_505_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_505_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_505_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_505_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_506_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_506_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_506_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_506_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_507_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_507_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_507_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_507_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_600_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_600_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_600_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_600_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_601_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_601_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_601_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_601_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_602_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_602_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_602_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_602_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_603_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_603_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_603_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_603_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_604_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_604_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_604_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_604_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_605_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_605_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_605_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_605_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_700_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_700_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_700_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_700_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_701_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_701_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_701_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_701_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_702_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_702_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_702_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_702_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_703_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_703_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_703_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_703_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_704_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_704_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_704_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_704_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_705_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_705_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_705_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_705_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_706_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_706_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_706_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_706_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_707_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_707_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_707_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_707_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_708_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_708_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_708_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_708_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_709_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_709_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_709_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_709_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_710_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_710_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_710_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_710_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_711_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_711_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_711_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_711_3
+<string>Un attaché-case.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_712_1
+<string>C'est ouvert.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_712_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_713_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_713_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_713_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_713_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_714_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_714_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_714_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_714_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_715_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_715_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_715_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_715_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_716_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_716_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_716_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_716_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_717_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_717_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_717_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_717_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_718_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_718_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_718_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_718_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_719_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_719_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_719_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_719_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_720_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_720_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_720_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_720_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_721_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_721_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_721_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_721_3
+<string>Un composant électrique de forme<lf>cylindrique.
+<string>Un fusible électrique portant<lf>l'inscription "Hall principal".
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_722_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_722_3
+<string>Un composant électrique de forme<lf>cylindrique.
+<string>Un fusible électrique portant<lf>l'inscription "Store du couloir<lf>de la salle de pause".
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_723_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_723_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_724_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_724_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_724_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_724_3
+<string>Une paire de ciseaux pour enfants.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_725_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_725_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_725_3
+<string>Un outil de grande taille.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_726_1
+<string>Un outil servant à couper des<lf>chaînes et autres objets<lf>métalliques.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_726_3
+<string>Une poupée de chiffon sale.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_727_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_727_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_727_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_800_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_800_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_800_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_800_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_801_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_801_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_801_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_801_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_802_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_802_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_802_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_802_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_803_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_803_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_803_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_73_803_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_000_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_000_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_000_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_000_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_100_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_100_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_100_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_100_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_101_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_101_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_101_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_101_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_102_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_102_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_102_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_102_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_103_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_103_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_103_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_103_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_104_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_104_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_104_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_104_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_105_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_105_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_105_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_105_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_106_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_106_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_106_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_106_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_107_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_107_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_107_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_107_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_108_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_108_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_108_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_108_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_109_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_109_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_109_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_109_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_110_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_110_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_110_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_110_3
+<string>Une petite sacoche de ceinture<lf>permettant de transporter plus<lf>d'objets.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_200_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_200_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_200_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_201_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_201_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_201_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_74_201_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_000_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_000_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_000_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_001_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_001_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_001_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_002_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_002_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_002_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_003_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_003_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_003_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_004_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_004_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_004_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_005_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_005_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_005_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_006_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_006_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_006_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_007_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_007_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_007_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_008_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_008_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_008_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_009_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_009_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_009_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_010_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_010_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_010_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_011_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_011_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_011_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_012_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_012_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_012_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_013_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_013_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_013_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_014_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_014_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_014_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_015_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_015_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_015_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_016_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_016_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_016_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_017_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_017_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_017_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_017_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_018_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_018_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_018_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_019_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_019_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_019_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_020_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_020_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_020_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_021_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_021_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_021_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_022_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_022_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_022_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_023_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_023_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_75_02_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_76_000_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_76_000_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_76_000_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_76_000_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_77_000_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_77_000_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_77_000_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_77_000_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_77_001_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_77_001_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_77_001_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_77_001_3
+<string>Un petit coffre portatif.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_77_002_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_77_002_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_77_002_3
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_77_003_0
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_77_003_1
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_77_003_2
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_77_003_3
+<string>Une boîte en métal.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_77_004_1
+<string>Il y a quelque chose à l'intérieur.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_77_004_3
+<string>Une boîte en bois relativement lourde.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_77_005_1
+<string>Il y a quelque chose à l'intérieur.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_77_005_3
+<string>Une boîte en bois relativement lourde.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_77_006_1
+<string>Il y a quelque chose à l'intérieur.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_77_006_3
+<string>Une boîte en métal.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_77_007_1
+<string>Il y a quelque chose à l'intérieur.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_DETAIL_77_007_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_KNIFE_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_KNIFE_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_KNIFE_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_KNIFE_3
+<string>Un pistolet en polymère. De nombreux<lf>défauts l'ont rendu peu adapté pour les<lf>civils ou les forces de l'ordre.<lf>Capacité : 12 coups (9 mm)
+<string>Un pistolet en polymère. De nombreux<lf>défauts l'ont rendu peu adapté pour les<lf>civils ou les forces de l'ordre.<lf>Capacité : 24 coups (9 mm)
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0000_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0000_3
+<string>Une arme de gros calibre. Le modèle de<lf>base n'a pas évolué depuis 70 ans, mais<lf>il en existe de nombreuses variantes.<lf>Capacité : 7 coups (.45 ACP)
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0100_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0100_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0100_3
+<string>Le premier modèle à utiliser un chargeur<lf>sur deux rangs. Sa puissance fut admirée<lf>en raison de sa grande capacité.<lf>Capacité : 13 coups (9 mm)
+<string>Le premier modèle à utiliser un chargeur<lf>sur deux rangs. Sa puissance fut admirée<lf>en raison de sa grande capacité.<lf>Capacité : 26 coups (9 mm)
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0200_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0200_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0210_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0210_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0210_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0210_3
+<string>Un revolver de gros calibre en simple<lf>action. Chaque version de cette arme<lf>porte son propre surnom.<lf>Capacité : 6 coups (.45 ACP)
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0300_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0300_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0300_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0400_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0400_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0400_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0400_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0500_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0500_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0500_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0500_3
+<string>Fiable et précise, cette arme<lf>est utilisée par de nombreuses<lf>organisations gouvernementales.<lf>Capacité : 16 coups (9 mm)
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0600_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0600_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0600_3
+<string>Un pistolet semi-automatique.<lf>Ce modèle fait partie d'une série<lf>limitée à 5 000 exemplaires.<lf>Capacité : 9 coups (9 mm)
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0700_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0700_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0700_3
+<string>Une arme de petite taille et à<lf>capacité limitée, mais très facile<lf>à manipuler.<lf>Capacité : 5 coups (9 mm)
+<string>Une petite arme de poing facile d'emploi<lf>et pouvant utiliser des munitions plus<lf>puissantes que le calibre de base.<lf>Capacité : 5 coups (9 mm)
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0800_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0800_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0900_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0900_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0900_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP0900_3
+<string>Fiable et polyvalent, ce fusil à pompe<lf>populaire est apprécié pour son<lf>mécanisme en acier très robuste.<lf>Capacité : 4 coups (calibre 12)
+<string>Fiable et polyvalent, ce fusil à pompe<lf>populaire est apprécié pour son<lf>mécanisme en acier très robuste.<lf>Capacité : 8 coups (calibre 12)
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1000_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1000_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1100_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1100_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1100_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1100_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1200_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1200_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1200_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1200_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1300_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1300_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1300_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1300_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1400_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1400_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1400_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1400_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1500_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1500_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1500_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1500_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1600_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1600_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1600_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1600_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1700_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1700_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1700_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1700_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1800_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1800_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1800_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1800_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1900_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1900_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1900_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP1900_3
+<string>Un pistolet-mitrailleur doté d'une<lf>cadence de tir supérieure aux autres<lf>modèles. Très utile en combat rapproché.<lf>Capacité : 24 coups (.380 ACP)
+<string>Un pistolet-mitrailleur doté d'une<lf>cadence de tir supérieure aux autres<lf>modèles. Très utile en combat rapproché.<lf>Capacité : 50 coups (.380 ACP)
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2000_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2000_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2100_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2100_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2100_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2100_3
+<string>Une mitrailleuse bénéficiant d'une<lf>grande précision grâce à son tir à<lf>culasse fermée.<lf>Capacité : 32 coups (.380 ACP)
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2200_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2200_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2200_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2300_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2300_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2300_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2300_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2400_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2400_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2400_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2400_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2500_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2500_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2500_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2500_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2600_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2600_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2600_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2600_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2700_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2700_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2700_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2700_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2800_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2800_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2800_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2800_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2900_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2900_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2900_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP2900_3
+<string>Un pistolet utilisant un système de<lf>rechargement par emprunt de gaz pour<lf>plus de précision et de puissance.<lf>Capacité : 7 coups (MAG .50 AE)
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3000_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3000_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3000_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3010_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3010_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3010_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3010_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3100_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3100_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3100_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3100_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3200_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3200_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3200_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3200_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3300_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3300_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3300_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3300_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3400_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3400_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3400_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3400_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3500_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3500_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3500_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3500_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3600_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3600_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3600_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3600_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3700_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3700_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3700_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3700_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3800_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3800_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3800_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3800_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3900_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3900_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3900_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP3900_3
+<string>Détecte les champs électromagnétiques et<lf>projette au mur les ombres des câbles<lf>cachés. Peut aussi contrôler certains<lf>appareils électriques à distance.
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4000_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4000_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4000_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4010_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4010_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4010_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4010_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4020_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4020_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4020_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4020_3
+<string>Un lance-grenades à un coup qui peut<lf>tirer des cartouches d'acide ou<lf>incendiaires. Lent à recharger mais<lf>idéal pour infliger de puissants dégâts.
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4100_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4100_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4100_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4110_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4110_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4110_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4110_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4120_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4120_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4120_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4120_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4130_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4130_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4130_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4130_3
+<string>Un lance-flammes à usage militaire<lf>fabriqué par Umbrella. Portatif et<lf>rechargeable, il utilise du gaz sous<lf>pression pour projeter des flammes.
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4200_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4200_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4200_3
+<string>Une arme servant à neutraliser les<lf>animaux de laboratoire grâce à de<lf>puissantes décharges électriques.<lf>Le temps de recharge est long.
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4300_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4300_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4300_3
+<string>Un lance-roquettes de 84 mm à usage<lf>unique. Le pouvoir de perforation<lf>inflige plus de dégâts que l'explosion.
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4400_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4400_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4400_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4410_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4410_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4410_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4410_3
+<string>Un couteau militaire simple et efficace.<lf>Toujours utile en cas de coup dur.
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4500_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4500_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4500_3
+<string>D'une conception très aboutie,<lf>cette arme à la fois puissante et<lf>résistante représente le couteau<lf>de combat à l'état pur.
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4510_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4510_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4510_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4520_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4520_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4520_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4520_3
+<string>Un lance-roquettes multiple de 66 mm.<lf>Ce modèle portatif possède une capacité<lf>de 4 roquettes incendiaires provoquant<lf>de puissantes déflagrations.
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4600_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4600_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4600_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4610_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4610_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4610_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4610_3
+<string>Un minigun motorisé doté de 6 canons<lf>rotatifs tirant des munitions 7,62 mm<lf>OTAN. Sa cadence de tir est très élevée<lf>et les dégâts sont considérables.
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4700_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4700_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4700_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4800_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4800_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4800_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP4800_3
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP5300_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP5300_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP5300_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP5300_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP5400_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP5400_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP5400_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP5400_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP5500_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP5500_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP5500_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP5500_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP5600_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP5600_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP5600_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP5600_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP5700_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP5700_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP5700_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP5700_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP5800_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP5800_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP5800_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP5800_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP5900_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP5900_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP5900_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP5900_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6000_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6000_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6000_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6000_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6100_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6100_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6100_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6100_3
+<string>Un petit engin explosif dispersant<lf>de nombreux éclats de shrapnel<lf>à la détonation.
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6200_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6200_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6200_3
+<string>Une grenade à main incapacitante<lf>émettant un éclair aveuglant et une<lf>détonation assourdissante après<lf>explosion.
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6300_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6300_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6300_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6400_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6400_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6400_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6400_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6410_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6410_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6410_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6420_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6420_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6420_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6430_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6430_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6430_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6440_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6440_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6440_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6450_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6450_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6450_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6460_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6460_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6460_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6470_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6470_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6470_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6480_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6480_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6480_3
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6490_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6490_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6490_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6500_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6500_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6500_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6500_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6600_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6600_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6600_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6600_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6700_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6700_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6700_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6700_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6800_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6800_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6800_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6800_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6900_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6900_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6900_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP6900_3
+<string>Une arme utilisée lors des tests de<lf>sélection pour intégrer le S.T.A.R.S.<lf>Surnommée "Kendo Custom, Phase 2".<lf>Capacité : 15 coups (9 mm)
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7000_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7000_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7000_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7020_1dummy
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7020_2dummy
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7020_3dummy
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7030_1dummy
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7030_2dummy
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7030_3dummy
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7100_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7100_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7100_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7100_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7110_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7110_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7110_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7110_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7120_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7120_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7120_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7120_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7200_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7200_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7200_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7200_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7300_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7300_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7300_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7300_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7310_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7310_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7310_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7310_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7320_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7320_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7320_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7320_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7400_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7400_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7400_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7400_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7500_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7500_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7500_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7500_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7600_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7600_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7600_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7600_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7700_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7700_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7700_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7700_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7800_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7800_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7800_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7800_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7900_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7900_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7900_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7900_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8000_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8000_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8000_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8000_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8100_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8100_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8100_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8100_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8200_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8200_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8200_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8200_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8300_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8300_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8300_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8300_3
+<string>Un lance-roquettes sans recul de 84 mm.<lf>Le pouvoir de perforation inflige plus<lf>de dégâts que l'explosion.
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8400_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8400_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8400_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8500_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8500_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8500_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8500_3
+<string>Un lance-roquettes multiple de 66 mm.<lf>Ce modèle portatif possède une capacité<lf>de 4 roquettes incendiaires provoquant<lf>de puissantes déflagrations.
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8600_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8600_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8600_3
+<string>Un minigun motorisé doté de 6 canons<lf>rotatifs tirant des munitions 7,62 mm<lf>OTAN. Sa cadence de tir est infinie<lf>et les dégâts sont considérables.
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8700_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8700_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8700_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8800_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8800_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8800_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8800_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8900_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8900_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8900_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP8900_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9000_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9000_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9000_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9000_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9100_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9100_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9100_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9100_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9200_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9200_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9200_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9200_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9300_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9300_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9300_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9300_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9400_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9400_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9400_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9400_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9500_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9500_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9500_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9500_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9600_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9600_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9600_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9600_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9700_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9700_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9700_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9700_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9800_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9800_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9800_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9800_3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9900_0
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9900_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9900_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP9900_3

@@ -1,0 +1,115 @@
+<string>Mode "Hardcore"
+<string>Campagne de Leon (bis)
+<string>Campagne de Claire (bis)
+<string>Rang de complétion S
+<string>Mode additionnel - "Le 4e survivant"
+<string>Mode additionnel - "Le Tofu survivant"
+<string>Le Tofu survivant (Konjac débloqué)
+<string>Le Tofu survivant (Uiro-Mochi débloqué)
+<string>Le Tofu survivant (Flan débloquée)
+<string>Le Tofu survivant (Annin Tofu débloqué)
+<string>Raccoon City A
+<string>Raccoon City B
+<string>Raccoon City C
+<string>Raccoon City D
+<string>Commissariat A
+<string>Commissariat B
+<string>Commissariat C
+<string>Armurerie Kendo
+<string>Orphelinat
+<string>Égouts
+<string>Labo A
+<string>Labo B
+<string>Visuel clé initial
+<string>Zombie
+<string>Licker
+<string>Alligator
+<string>Croquis C
+<string>Ivy
+<string>Tyran
+<string>G (1re forme)
+<string>G (2e forme)
+<string>G (3e forme)
+<string>G (4e forme)
+<string>G (5e forme)
+<string>Croquis A
+<string>Croquis B
+<string>Armes et objets
+<string>Story-boards
+<string>Commissariat D
+<string>Logos et emblèmes
+<string>Voir les concept arts débloqués.
+<string>Leon (décontracté)
+<string>Leon (uniforme)
+<string>Leon (uniforme classique)
+<string>Claire (veste)
+<string>Claire (débardeur)
+<string>Claire (veste classique)
+<string>Claire (débardeur classique)
+<string>Ada (imper)
+<string>Ada (robe de soirée)
+<string>Sherry (uniforme)
+<string>Sherry (uniforme - infectée)
+<string>Sherry (veste)
+<string>Sherry (uniforme classique)
+<string>Sherry (veste classique)
+<string>Marvin Branagh
+<string>Brian Irons
+<string>Ben Bertolucci
+<string>Annette Birkin
+<string>William Birkin
+<string>Mr. Raccoon
+<string>Zombie (homme)
+<string>Zombie (femme)
+<string>Robert et Emma Kendo
+<string>Licker
+<string>Chien zombie
+<string>G adulte
+<string>G jeune
+<string>Ivy
+<string>Cafard géant
+<string>Alligator
+<string>Tyran
+<string>Tyran S
+<string>G (1re forme)
+<string>G (2e forme)
+<string>G (3e forme)
+<string>G (4e forme)
+<string>G (5e forme)
+<string>Couteau de combat
+<string>Grenade assourdissante
+<string>Grenade
+<string>Détecteur CEM
+<string>Matilda
+<string>SLS 60
+<string>JMB Hp3
+<string>Broom Hc
+<string>Survivants
+<string>Quickdraw Army
+<string>M19
+<string>Samurai Edge (modèle original)
+<string>W-870
+<string>GM 79
+<string>MQ 11
+<string>LE 5
+<string>Fusil électrique
+<string>Lance-flammes chimique
+<string>Lightning Hawk
+<string>MUP
+<string>ATM-4
+<string>Lance-roquettes antichar
+<string>Minigun
+<string>Katherine Warren
+<string>Couteau de combat
+<string>Hunk
+<string>Tofu
+<string>Uiro-Mochi
+<string>Annin Tofu
+<string>Konjac
+<string>Flan
+<string>Voir les modèles débloqués.
+<string>Arme bonus ∞ : 
+<string>Modèle : 
+<string>Mode de jeu : 
+<string>Tenue : 
+<string>Concept art : 

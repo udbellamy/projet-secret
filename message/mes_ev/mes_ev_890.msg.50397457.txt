@@ -1,0 +1,43 @@
+<string><TIME 4.1, 5.48><TIME 6.81, 8.51>Merde !<PAGE><lf>Il faut que je me tire d'ici !<PAGE>
+<string><TIME 18.08, 20.0><TIME 40.86, 42.01>J'arrive pas à croire qu'elle me manque...<PAGE><lf>Leon !
+<string><TIME 0.00, 2.00><TIME 2.72, 3.99><TIME 4.28, 6.05>Hé !<PAGE><lf>On a réussi...<PAGE><lf>Tu vois, je te l'avais dit.
+<string><TIME 0.33, 1.5><TIME 1.9, 3.71><TIME 4.06, 5.43><TIME 6.77, 7.93><TIME 8.0, 9.3><TIME 10.39, 11.51><TIME 11.9, 13.01><TIME 13.03, 14.36><TIME 14.52, 16.75>On a réussi...<PAGE><lf>Tu vois, je te l'avais dit.<PAGE><lf>C'est qui ?<PAGE><lf>Voici Sherry.<PAGE><lf>Salut.<PAGE><lf>La vache !<PAGE><lf>C'était quoi ?<PAGE><lf>J'en sais rien...<PAGE><lf>Je vais voir. Occupe-toi de Sherry.
+<string>Merde !
+<string>Il faut que je me tire d'ici !
+<string>J'arrive pas à croire qu'elle me manque...
+<string>Leon !
+<string>Hé !
+<string>Je suis si contente !
+<string>Je t'avais dit qu'on s'en sortirait.
+<string>C'est vrai.
+<string>C'est qui ?
+<string>Voici Sherry.
+<string>Salut.
+<string>La vache !
+<string>C'était quoi ?
+<string>J'en sais rien...
+<string>Je vais voir. Occupe-toi de Sherry.
+<string><TIME 11.47, 12.96><TIME 12.97, 15.28><TIME 16.12, 17.7>Claire !<PAGE><lf>Tout va bien, je suis là.<PAGE><lf>On fiche le camp d'ici.
+<string><TIME 21.13, 23.72><TIME 27.4, 29.34><TIME 30.05, 34.59><TIME 34.71, 36.01><TIME 36.19, 39.53><TIME 41.43, 42.3><TIME 42.32, 43.77><TIME 44.82, 46.58><TIME 46.64, 48.12><TIME 48.59, 49.72>Alors dis-moi, qu'est-ce que tu veux faire une fois dehors ?<PAGE><lf>Je veux voir ta maison.<PAGE><lf>Ah, ça tombe bien... J'ai besoin d'une douche.<PAGE><lf>Ouais...<PAGE><lf>Vraiment ? À ce point ? Hmm... Ah ouais...<PAGE><lf>Claire.<PAGE><lf>Leon !<PAGE><lf>Je suis si contente !<PAGE><lf>Je t'avais dit qu'on s'en sortirait.<PAGE><lf>C'est vrai.
+<string><TIME 0.08, 1.84><TIME 1.89, 3.49><TIME 3.83, 4.5><TIME 4.52, 5.74><TIME 6.8, 8.87><TIME 8.9, 10.22><TIME 11.25, 12.59><TIME 13.37, 14.35><TIME 14.37, 15.7><TIME 16.2, 18.54>Je suis si contente !<PAGE><lf>Je t'avais dit qu'on s'en sortirait.<PAGE><lf>C'est vrai.<PAGE><lf>C'est qui ?<PAGE><lf>Je te présente Sherry.<PAGE><lf>Salut.<PAGE><lf>La vache !<PAGE><lf>C'était quoi ?<PAGE><lf>Je sais pas...<PAGE><lf>Reste avec Sherry. Je vais jeter un œil.
+<string><TIME 21.13, 24.02><TIME 27.41, 29.24><TIME 30.05, 34.7><TIME 34.74, 35.98><TIME 36.2, 39.5><TIME 41.46, 42.27><TIME 42.31, 43.62>Alors dis-moi, qu'est-ce que tu veux faire une fois dehors ?<PAGE><lf>Je veux voir ta maison.<PAGE><lf>Ah, ça tombe bien... J'ai besoin d'une douche.<PAGE><lf>Ouais...<PAGE><lf>Vraiment ? À ce point ? Hmm... Ah ouais...<PAGE><lf>Claire.<PAGE><lf>Leon !
+<string>Claire !
+<string>Tout va bien, je suis là.
+<string>On fiche le camp d'ici.
+<string>Alors...
+<string>Alors dis-moi, qu'est-ce que tu veux faire une fois dehors ?
+<string>Je veux voir ta maison.
+<string>Ah, ça tombe bien... J'ai besoin d'une douche.
+<string>Ouais...
+<string>Vraiment ? À ce point ? Hmm... Ah ouais...
+<string>Claire.
+<string>Leon !
+<string>On a réussi...
+<string>Tu vois, je te l'avais dit.
+<string>C'est qui ?
+<string>Je te présente Sherry.
+<string>Salut.
+<string>La vache !
+<string>C'était quoi ?
+<string>Je sais pas...
+<string>Reste avec Sherry. Je vais jeter un œil.

@@ -1,0 +1,11 @@
+<string>Enregistrement des forces spéciales
+<string>— Alpha à Ghost.<lf>La cible se dirige vers la zone ouest. Il doit<lf>aller chercher le virus G et l'agent antiviral.<lf><lf>— Ici Ghost. Compris.<lf>Rendez-vous au point O-3.<lf><lf>— Bien reçu.
+<string>— Ici Alpha. Sommes arrivés à destination.<lf><lf>— Compris.<lf>Attendez la cible.
+<string>— Ici Alpha, je vois la cible.<lf>Il s'apprête à ouvrir le coffre.<lf><lf>— Bien reçu.<lf>Attendez le signal.
+<string>— Virus G en visuel.<lf><lf>— On entre...<lf><lf>— Docteur Birkin, vous allez nous suivre<lf>calmement.
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>

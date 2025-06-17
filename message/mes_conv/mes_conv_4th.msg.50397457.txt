@@ -1,0 +1,83 @@
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Je suis au point K12.<lf>Donne-moi des infos sur mon extraction.<PAGE><lf>On se débarrasse pas comme ça de la Faucheuse, hein ?<PAGE><lf>Mon point d'extraction !<PAGE><lf>Relax, ange de la mort.<PAGE><lf>Je me dirige vers l'entrée principale du commissariat.<lf>Je te retrouve là-bas.<PAGE><lf>Compris.
+<string>Ici Nighthawk.<lf>Alpha, répondez.
+<string>Alpha, vous me recevez ?
+<string>Nighthawk, ici Hunk de l'équipe Alpha.
+<string>Wow, je croyais que vous étiez tous morts.<lf>J'essayais de...
+<string>Je suis au point K12.<lf>Donne-moi des infos sur mon extraction.
+<string>On se débarrasse pas comme ça de la Faucheuse, hein ?
+<string>Mon point d'extraction !
+<string>Relax, ange de la mort.
+<string>Je me dirige vers l'entrée principale du commissariat.<lf>Je te retrouve là-bas.
+<string>Compris.
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Qu'est-ce que tu fous, Hunk ?<lf>Tu es en retard pour l'extraction.<PAGE><lf>L'entrée est bloquée.<lf>Je vais devoir trouver une autre issue.<PAGE><lf>Au fait, les gros bonnets ont ordonné<lf>le nettoyage complet de Raccoon City.<PAGE><lf>Alors magne-toi si tu veux pas avoir le cul qui brille.<PAGE><lf>Compris.
+<string>Qu'est-ce que tu fous, Hunk ?<lf>Tu es en retard pour l'extraction.
+<string>L'entrée est bloquée.<lf>Je vais devoir trouver une autre issue.
+<string>Au fait, les gros bonnets ont ordonné<lf>le nettoyage complet de Raccoon City.
+<string>Alors magne-toi si tu veux pas avoir le cul qui brille.
+<string>Compris.
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Hunk ! On n'a plus le temps !<PAGE><lf>Pars, Nighthawk. Va-t'en.<PAGE><lf>Hors de question que je te laisse...<PAGE><lf>C'est la guerre. Ici, chacun est responsable de sa survie.<PAGE><lf>Eh merde...
+<string>Hunk ! On n'a plus le temps !
+<string>Pars, Nighthawk. Va-t'en.
+<string>Hors de question que je te laisse...
+<string>C'est la guerre. Ici, chacun est responsable de sa survie.
+<string>Eh merde...
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string><PAGE><lf>On se débarrasse pas comme ça de la Faucheuse, hein ?<PAGE><lf><PAGE><lf>Relax, ange de la mort.<PAGE><lf>Je me dirige vers l'entrée principale du commissariat.<lf>Je te retrouve là-bas.<PAGE><lf>
+<string>
+<string>On se débarrasse pas comme ça de la Faucheuse, hein ?
+<string>
+<string>Relax, ange de la mort.
+<string>Je me dirige vers l'entrée principale du commissariat.<lf>Je te retrouve là-bas.
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Qu'est-ce que tu fous, Hunk ?<lf>Tu es en retard pour l'extraction.<PAGE><lf><PAGE><lf>Au fait, les gros bonnets ont ordonné<lf>le nettoyage complet de Raccoon City.<PAGE><lf>Alors magne-toi si tu veux pas avoir le cul qui brille.<PAGE><lf>
+<string>Qu'est-ce que tu fous, Hunk ?<lf>Tu es en retard pour l'extraction.
+<string>
+<string>Au fait, les gros bonnets ont ordonné<lf>le nettoyage complet de Raccoon City.
+<string>Alors magne-toi si tu veux pas avoir le cul qui brille.
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Hunk ! On n'a plus le temps !<PAGE><lf><PAGE><lf>Hors de question que je te laisse...<PAGE><lf><PAGE><lf>Eh merde...
+<string>Hunk ! On n'a plus le temps !
+<string>
+<string>Hors de question que je te laisse...
+<string>
+<string>Eh merde...

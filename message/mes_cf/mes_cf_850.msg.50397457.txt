@@ -1,0 +1,8 @@
+<string><TIME 1.11, 2.22><TIME 2.29, 3.91><TIME 4.41, 6.5><TIME 6.93, 9.38><TIME 9.61, 10.54><TIME 10.87, 11.92><TIME 12.16, 13.16>Qu'est-ce que tu fais ?<PAGE><lf>Je dois démarrer ce train.<PAGE><lf>Attends-moi juste ici, d'accord ?<PAGE><lf>OK. Promis, je bouge pas.<PAGE><lf>Bien.<PAGE><lf>Sois prudente !<PAGE><lf>T'inquiète.
+<string>Qu'est-ce que tu fais ?
+<string>Je dois démarrer ce train.
+<string>Attends-moi juste ici, d'accord ?
+<string>OK. Promis, je bouge pas.
+<string>Bien.
+<string>Sois prudente !
+<string>T'inquiète.

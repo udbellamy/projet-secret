@@ -1,0 +1,11 @@
+<string>Carnet avec une page manquante
+<string>
+<string>
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

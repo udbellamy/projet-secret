@@ -1,0 +1,61 @@
+<string><TIME 2.05, 6.55><TIME 8.07, 12.27><TIME 13.25, 17.42><TIME 18.61, 20.45><TIME 22.07, 24.8><TIME 26.30, 30.23><TIME 29.96, 35.1><TIME 51.45, 52.99><TIME 62.44, 63.57><TIME 64.35, 65.4><TIME 65.82, 67.0><TIME 69.74, 71.58><TIME 77.87, 78.83><TIME 85.66, 86.13><TIME 86.94, 88.76><TIME 91.78, 92.34><TIME 94.87, 95.87>Avis à tous les citoyens :<lf>Suite aux incidents qui touchent la ville,<PAGE><lf>nous vous invitons à venir vous réfugier dans<lf>le commissariat de police de Raccoon City.<PAGE><lf>Des vivres et du matériel médical seront<lf>distribués à tous ceux qui en ont besoin.<PAGE><lf>Oh mon Dieu... c'est surréaliste...<PAGE><lf>Le commissariat n'est plus très loin.<lf>Ils auront des infos.<PAGE><lf>D'accord, mais imagine qu'on soit les seuls...<lf>qu'il n'y ait pas de survivant...<PAGE><lf>Non. Il y a des survivants.<lf>C'est une grande ville... C'est obligé.<PAGE><lf>Je crois qu'on va devoir marcher.<PAGE><lf>"Courir" plutôt.<PAGE><lf>Tu marques un point.<PAGE><lf>Oh ! La vache !<PAGE><lf>Leon ! Il faut que tu recules !<PAGE><lf>Oh non...<PAGE><lf>Oh, merde...<PAGE><lf>Claire, sors d'ici !<lf>Allez, vite !<PAGE><lf>Je peux pas !<PAGE><lf>Accroche-toi !
+<string>Avis à tous les citoyens :<lf>Suite aux incidents qui touchent la ville,
+<string>nous vous invitons à venir vous réfugier dans<lf>le commissariat de police de Raccoon City.
+<string>Des vivres et du matériel médical seront<lf>distribués à tous ceux qui en ont besoin.
+<string>Oh mon Dieu... c'est surréaliste...
+<string>Le commissariat n'est plus très loin.<lf>Ils auront des infos.
+<string>D'accord, mais imagine qu'on soit les seuls...<lf>qu'il n'y ait pas de survivant...
+<string>Non. Il y a des survivants.<lf>C'est une grande ville... C'est obligé.
+<string>Je crois qu'on va devoir marcher.
+<string>"Courir" plutôt.
+<string>Tu marques un point.
+<string>Oh ! La vache !
+<string>
+<string>Leon ! Il faut que tu recules !
+<string>Oh non...
+<string>Oh, merde...
+<string>Claire, sors d'ici !<lf>Allez, vite !
+<string>Je peux pas !
+<string>Accroche-toi !
+<string><TIME 26.0, 27.34><TIME 39.95, 40.39><TIME 41.0, 41.99><TIME 45.79, 46.65><TIME 47.0, 49.23><TIME 53.5, 55.16><TIME 55.85, 58.35><TIME 59.3, 60.26>Oh, non...<PAGE><lf>Claire !<PAGE><lf>Claire, ça va ?<PAGE><lf>Oui !<PAGE><lf>Moi ça va !<lf>Et de ton côté ?<PAGE><lf>Je peux pas rester ici !<lf>C'est trop dangereux !<PAGE><lf>Pars tout seul !<lf>On se retrouve au commissariat !<PAGE><lf>Entendu !
+<string>
+<string>
+<string>Oh, non...
+<string>
+<string>Claire !
+<string>Claire, ça va ?
+<string>Oui !
+<string>Moi ça va !<lf>Et de ton côté ?
+<string>Je peux pas rester ici !<lf>C'est trop dangereux !
+<string>Pars tout seul !<lf>On se retrouve au commissariat !
+<string>Entendu !
+<string><TIME 27.17, 27.53><TIME 39.95, 41.99><TIME 44.5, 45.39><TIME 45.63, 47.1><TIME 50.18, 52.13><TIME 53.22, 55.39>Avis à tous les citoyens :<lf>Suite aux incidents qui touchent la ville,<PAGE><lf>nous vous invitons à venir vous réfugier dans<lf>le commissariat de police de Raccoon City.<PAGE><lf>Des vivres et du matériel médical seront<lf>distribués à tous ceux qui en ont besoin.<PAGE><lf>Oh mon Dieu... c'est surréaliste...<PAGE><lf>Le commissariat n'est plus très loin.<lf>Ils auront des infos.<PAGE><lf>D'accord, mais imagine qu'on soit les seuls...<lf>qu'il n'y ait pas de survivant...<PAGE><lf>Non. Il y a des survivants.<lf>C'est une grande ville... C'est obligé.<PAGE><lf>Je crois qu'on va devoir marcher.<PAGE><lf>"Courir" plutôt.<PAGE><lf>Tu marques un point.<PAGE><lf>Oh ! La vache !<PAGE><lf><PAGE><lf>Leon ! Il faut que tu recules !<PAGE><lf>Oh non...<PAGE><lf>Oh, merde...<PAGE><lf>Claire, sors d'ici !<lf>Allez, vite !<PAGE><lf>Je peux pas !<PAGE><lf>Accroche-toi !
+<string>Avis à tous les citoyens :<lf>Suite aux incidents qui touchent la ville,
+<string>nous vous invitons à venir vous réfugier dans<lf>le commissariat de police de Raccoon City.
+<string>Des vivres et du matériel médical seront<lf>distribués à tous ceux qui en ont besoin.
+<string>Oh mon Dieu... c'est surréaliste...
+<string>Le commissariat n'est plus très loin.<lf>Ils auront des infos.
+<string>D'accord, mais imagine qu'on soit les seuls...<lf>qu'il n'y ait pas de survivant...
+<string>Non. Il y a des survivants.<lf>C'est une grande ville... C'est obligé.
+<string>Je crois qu'on va devoir marcher.
+<string>"Courir" plutôt.
+<string>Tu marques un point.
+<string>Oh ! La vache !
+<string>
+<string>Leon ! Il faut que tu recules !
+<string>Oh non...
+<string>Oh, merde...
+<string>Claire, sors d'ici !<lf>Allez, vite !
+<string>Je peux pas !
+<string>Accroche-toi !
+<string><TIME 24.2, 25.64><TIME 44.32, 45.71><TIME 45.85, 47.39><TIME 48.08, 51.64><TIME 53.04, 55.87><TIME 56.31, 58.0><TIME 60.58, 64.55>Oh, merde...<PAGE><lf>Claire !<PAGE><lf>Claire, ça va ?<PAGE><lf>Oui ! Ça va !<lf>Et de ton côté ?<PAGE><lf>Je peux pas rester ici !<lf>C'est trop dangereux !<PAGE><lf>Oh, merde...<PAGE><lf>Pars tout seul !<lf>On se retrouve au commissariat !
+<string>
+<string>
+<string>Oh, merde...
+<string>
+<string>Claire !
+<string>Claire, ça va ?
+<string>Oui ! Ça va !<lf>Et de ton côté ?
+<string>Je peux pas rester ici !<lf>C'est trop dangereux !
+<string>Oh, merde...
+<string>Pars tout seul !<lf>On se retrouve au commissariat !

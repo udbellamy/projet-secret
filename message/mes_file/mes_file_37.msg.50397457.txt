@@ -1,0 +1,11 @@
+<string>Note anonyme
+<string>Ils se sont tous transformés... en des sortes<lf>de plantes...<lf>Ils reviennent sans cesse, encore et encore.<lf><lf>Brûlez-les.<lf>Brûlez-les jusqu'à ce que leur corps soit carbonisé.<lf><lf>C'est la seule solution.
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

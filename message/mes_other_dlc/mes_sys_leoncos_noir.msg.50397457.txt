@@ -1,0 +1,4 @@
+<string>Film noir
+<string>Leon (Film noir)
+<string>La tenue spéciale "Film noir" est maintenant disponible.<lf>Vous pouvez changer la tenue de Leon depuis le menu "Tenues".<lf><lf>En portant cette tenue, vous pourrez également appliquer<lf>un filtre spécial à l'image.
+<string>Vous portez maintenant la tenue "Film noir".<lf>Voulez-vous appliquer un filtre spécial à l'image ?<lf><lf>Note : Pour retirer le filtre, il vous suffit de<lf>repasser à une autre tenue.

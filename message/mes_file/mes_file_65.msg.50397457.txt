@@ -1,0 +1,10 @@
+<string>Note - Terminal des casiers
+<string>Il semble que certaines touches manquent sur<lf>le terminal des casiers. Je conseille au<lf>responsable de trouver des <COL FILE_EMP>touches de rechange</COLOR><lf>et d'arranger ça FISSA.<lf><lf>(Tu sais de qui je parle, enfoiré.<lf>Qui d'autre aurait pu déglinguer ça ?)
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

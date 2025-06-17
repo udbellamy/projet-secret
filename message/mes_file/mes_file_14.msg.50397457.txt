@@ -1,0 +1,11 @@
+<string>Griffonnages de quelqu'un
+<string>Que ces enfoirés en costard aillent au diable !<lf>Ils se sont débarrassés de moi ! Après tout ce<lf>que j'ai fait pour eux ! Puisque c'est comme ça,<lf>je vais m'amuser un peu avant la fin du monde.<lf><lf>J'ai enfermé tous ces sales poulets en cage<lf>et posé un pain de C-4. J'ai plus qu'à le faire<lf><COL FILE_EMP>sauter</COLOR> et adios, les tocards !
+<string>Mais c'est pas marrant si c'est trop rapide,<lf>alors je donnerai peut-être à ce taré de quoi<lf>couiner.<lf><lf>Ouais, je lui donnerai peut-être un jouet, et<lf>je lui dirai "Tue ce mec et j'épargnerai les<lf>autres". Je me demande ce qu'il fera.
+<string>Tu parles de "justice" et de "fierté", mais<lf>combien de fois tu t'es opposé à moi, ton<lf>supérieur ?<lf><lf>Ouais, t'es un flic parfait... Si parfait que<lf>tu devais mourir.<lf><lf>C'est marrant. Il me faut de la musique.
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

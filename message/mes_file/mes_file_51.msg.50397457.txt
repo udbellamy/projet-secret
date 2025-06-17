@@ -1,0 +1,11 @@
+<string>Note interne
+<string>22 septembre 1998<lf><lf>Avis de transfert de matériel<lf><lf>Coffre à 3 chiffres résistant à la chaleur<lf>- Déplacé du bureau du S.T.A.R.S. (2F)<lf>vers le <COL FILE_EMP>bureau ouest (1F)</COLOR>.
+<string>Combinaison : <COL FILE_EMP>gauche 9, droite 15, gauche 7</COLOR>.<lf>Veuillez modifier la combinaison dès réception.<lf><lf><RIGHT>Service de maintenance des bureaux du R.P.D.
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

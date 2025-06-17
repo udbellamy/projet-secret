@@ -1,0 +1,7 @@
+<string><TIME 0.42, 1.5><TIME 2.39, 3.88><TIME 4.79, 7.34><TIME 8.34, 10.19><TIME 11.18, 12.45><TIME 13.36, 14.92>Bravo !<PAGE><lf>Vous allez me brûler, c'est ça ?<PAGE><lf>Hors de question que vous touchiez au virus G.<PAGE><lf>Je suis pas la seule à le vouloir.<PAGE><lf>Vous le savez.<PAGE><lf>Alors d'autres mourront !
+<string>Bravo !
+<string>Vous allez me brûler, c'est ça ?
+<string>Hors de question que vous touchiez au virus G.
+<string>Je suis pas la seule à le vouloir.
+<string>Vous le savez.
+<string>Alors d'autres mourront !

@@ -1,0 +1,11 @@
+<string><TIME 1.14, 2.32><TIME 12.65, 13.22><TIME 15.43, 16.21><TIME 16.46, 17.35><TIME 20.55, 21.46><TIME 32.39, 33.62>Sherry, vite !<PAGE><lf><PAGE><lf>Papa... ?<PAGE><lf>Qu'est-ce que tu as dit ?<PAGE><lf>Oh mon Dieu...<PAGE><lf>Papa, non !
+<string>Sherry, vite !
+<string>
+<string>
+<string>Papa... ?
+<string>Qu'est-ce que tu as dit ?
+<string>Oh mon Dieu...
+<string><COLOR FF0000>#Rejected#</COLOR> CF520_0036_pl1000
+<string>Papa, non !
+<string>
+<string>

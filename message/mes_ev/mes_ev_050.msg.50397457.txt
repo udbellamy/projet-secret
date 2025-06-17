@@ -1,0 +1,70 @@
+<string><COLOR FF0000>#Rejected#</COLOR> EV_050_0010_pl1000_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV_050_0020_pl0000_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV_050_0030_pl0000_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV_050_0040_pl1000_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV_050_0050_pl0000_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV_050_0060_pl1000_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV_050_0070_pl0000_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV_050_0080_pl0000_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV_050_0090_pl1000_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV_050_0100_pl1000_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV_050_0110_pl1000_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV_050_0120_pl0000_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV_050_0130_pl0000_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV_050_0140_pl1000_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV_050_0150_pl1000_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV_050_0160_pl0000_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV_050_0170_pl1000_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV_050_0180_pl0000_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV_050_0190_pl1000_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV_050_0200_pl0000_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV_050_0210_pl1000_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV_050_0220_pl0000_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV_050_0230_pl0000_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV_050_0240_pl1000_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV_050_0250_pl0000_81
+<string><TIME 2.16, 2.91><TIME 3.13, 4.19><TIME 13.78, 14.36><TIME 14.76, 16.7><TIME 17.5, 19.25><TIME 20.57, 21.39>Tirez pas !<PAGE><lf>Baisse-toi !<PAGE><lf>Ça va ?<PAGE><lf>Ouais, je crois... Merci.<PAGE><lf>Remercie-moi plus tard, si on s'en sort.<PAGE><lf>Oh mon Dieu...
+<string>Tirez pas !
+<string>Baisse-toi !
+<string>Ça va ?
+<string>Ouais, je crois... Merci.
+<string>Remercie-moi plus tard, si on s'en sort.
+<string>Oh mon Dieu...
+<string><TIME 11.25, 12.06><TIME 14.5, 15.85><TIME 18.14, 19.0><TIME 35.29, 36.30><TIME 36.50, 40.25><TIME 40.9, 41.97><TIME 42.78, 45.29><TIME 45.85, 47.82><TIME 50.44, 51.42><TIME 51.91, 55.27><TIME 56.48, 58.8><TIME 58.9, 60.8>Suis-moi !<PAGE><lf>Monte !<PAGE><lf>Accroche-toi !<PAGE><lf>Qu'est-ce qui se passe ici ?<PAGE><lf>J'en sais rien...<lf>Espérons qu'ils en sachent plus au commissariat.<PAGE><lf>Quoi, tu es flic ?<PAGE><lf>Ouais, Leon Kennedy.<lf>Et toi ?<PAGE><lf>Claire... Claire Redfield.<PAGE><lf>Tu es du coin ?<PAGE><lf>Non, je cherche mon frère.<lf>Lui aussi est flic.<PAGE><lf>Bah, une chance qu'on se soit rencontrés.<PAGE><lf>J'ai aucune idée de ce qui nous attend...
+<string>
+<string>Suis-moi !
+<string>Monte !
+<string>Accroche-toi !
+<string>Qu'est-ce qui se passe ici ?
+<string>J'en sais rien...<lf>Espérons qu'ils en sachent plus au commissariat.
+<string>Quoi, tu es flic ?
+<string>Ouais, Leon Kennedy.<lf>Et toi ?
+<string>Claire... Claire Redfield.
+<string>Tu es du coin ?
+<string>Non, je cherche mon frère.<lf>Lui aussi est flic.
+<string>Bah, une chance qu'on se soit rencontrés.
+<string>J'ai aucune idée de ce qui nous attend...
+<string>
+<string><TIME 1.86, 3.44><TIME 3.48, 4.71><TIME 12.08, 13.51><TIME 15.09, 16.11><TIME 16.14, 19.09><TIME 19.12, 21.63><TIME 22.39, 23.49>Tirez pas !<PAGE><lf>Baisse-toi !<PAGE><lf>Faut se tirer d'ici !<PAGE><lf>Ça va ?<PAGE><lf>Ouais... Je crois...<lf>Merci.<PAGE><lf>Remercie-moi plus tard, si on s'en sort.<PAGE><lf>Oh mon Dieu...<lf>
+<string>Tirez pas !
+<string>Baisse-toi !
+<string>Faut se tirer d'ici !
+<string>Ça va ?
+<string>Ouais... Je crois...<lf>Merci.
+<string>Remercie-moi plus tard, si on s'en sort.
+<string>Oh mon Dieu...
+<string>Suis-moi !<PAGE><lf>Accroche-toi.<PAGE><lf>Qu'est-ce qui se passe ici ?<PAGE><lf>J'en sais rien...<lf>Espérons qu'ils en sachent plus au commissariat.<PAGE><lf>Quoi, tu es flic ?<PAGE><lf>Ouais, Leon Kennedy.<lf>Et toi ?<PAGE><lf>Claire... Claire Redfield.<PAGE><lf>Tu es du coin ?<PAGE><lf>Non, je cherche mon frère.<lf>Lui aussi est flic.<PAGE><lf>Bah, une chance qu'on se soit rencontrés.<PAGE><lf>
+<string>
+<string>Suis-moi !
+<string>Monte !
+<string>Accroche-toi.
+<string>Qu'est-ce qui se passe ici ?
+<string>J'en sais rien...<lf>Espérons qu'ils en sachent plus au commissariat.
+<string>Quoi, tu es flic ?
+<string>Ouais, Leon Kennedy.<lf>Et toi ?
+<string>Claire... Claire Redfield.
+<string>Tu es du coin ?
+<string>Non, je cherche mon frère.<lf>Lui aussi est flic.
+<string>Bah, une chance qu'on se soit rencontrés.
+<string>J'ai aucune idée de ce qui nous attend...
+<string>

@@ -1,0 +1,13 @@
+<string><TIME 37.61, 39.22><TIME 44.72, 45.76><TIME 47.83, 48.6>Y'a personne ?<PAGE><lf>C'est bizarre...<PAGE><lf>Hein ?
+<string>Y'a personne ?
+<string>C'est bizarre...
+<string>Hein ?
+<string><COLOR FF0000>#Rejected#</COLOR> CF001_0040_pl0000
+<string><TIME 7.57, 8.94><TIME 11.64, 13.11><TIME 15.24, 18.21><TIME 21.64, 23.01><TIME 25.3, 27.61><TIME 32.33, 33.15><TIME 39.89, 40.54>Ouais, je suis presque arrivée.<PAGE><lf>Tu me connais, ça va aller.<PAGE><lf>Ça marche.<lf>Je reviens dès que j'ai trouvé Chris.<PAGE><lf>Compris. Faut que je file.<PAGE><lf>Pourquoi est-ce que tout le monde s'inquiète pour moi ?<PAGE><lf>C'était quoi ça ?<PAGE><lf>Hé oh !
+<string>Ouais, je suis presque arrivée.
+<string>Tu me connais, ça va aller.
+<string>Ça marche.<lf>Je reviens dès que j'ai trouvé Chris.
+<string>Compris. Faut que je file.
+<string>Pourquoi est-ce que tout le monde s'inquiète pour moi ?
+<string>C'était quoi ça ?
+<string>Hé oh !

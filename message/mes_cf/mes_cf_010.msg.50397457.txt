@@ -1,0 +1,2 @@
+<string><COLOR FF0000>#Rejected#</COLOR> CF010_0010_pl0000_14
+<string><COLOR FF0000>#Rejected#</COLOR> CF010_0020_pl0000_14

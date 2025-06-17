@@ -1,0 +1,11 @@
+<string>Usages de la poudre noire
+<string><COL FILE_EMP>Munitions pour pistolet</COLOR><lf>Poudre noire x2<lf><lf><COL FILE_EMP>Cartouches pour fusil</COLOR><lf>Poudre noire + Poudre supérieure (jaune)<lf><lf><COL FILE_EMP>Munitions MAG</COLOR><lf>Poudre supérieure (jaune) x2
+<string>Il ne reste pas beaucoup de munitions dans le<lf>commissariat, alors utilisez la poudre que vous<lf>trouvez à bon escient.<lf><lf>Chaque arme nécessite des munitions<lf>spécifiques. Réfléchissez bien en <COL FILE_EMP>combinant</COLOR> les<lf>éléments pour obtenir ce dont vous avez besoin.
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

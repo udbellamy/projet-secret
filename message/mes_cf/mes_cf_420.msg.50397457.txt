@@ -1,0 +1,9 @@
+<string><TIME 2.84, 3.7><TIME 4.58, 6.66><TIME 7.86, 9.29><TIME 11.04, 12.01><TIME 13.3, 14.2><TIME 25.29, 27.29><TIME 29.0, 31.51><PAGE><lf>Tu es sûre que c'est par là ?<PAGE><lf>Malheureusement.<PAGE><lf><PAGE><lf>Attends.<PAGE><lf>C'est pas vrai !<PAGE><lf>Leon ! Reste pas là !<lf>
+<string>
+<string>Tu es sûre que c'est par là ?
+<string>Malheureusement.
+<string>
+<string>Attends.
+<string>
+<string>C'est pas vrai !
+<string>Leon ! Reste pas là !

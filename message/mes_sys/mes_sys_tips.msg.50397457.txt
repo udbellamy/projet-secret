@@ -1,0 +1,583 @@
+<string>Raccoon City. Cette ville industrielle au cœur de l'Amérique<lf>est celle que Leon S. Kennedy a été chargé de protéger.<lf><lf>Alors qu'il se rend au travail, le jeune officier remarque<lf>la faible lueur d'une station-service...<lf><lf>Il décide de faire un dernier plein et se retrouve<lf>nez à nez avec une réalité terrifiante.
+<string>Une tragédie se déroule à Raccoon City, ville paisible qui<lf>abrite le siège du géant pharmaceutique Umbrella Corporation.<lf><lf>Après s'être rencontrés par hasard, Leon et Claire se dirigent<lf>vers le commissariat de Raccoon City quand un accident pour<lf>le moins explosif les sépare.<lf><lf>"On se retrouve au commissariat !" promet Claire, de l'autre<lf>côté des carcasses en feu, avant de s'éclipser, laissant Leon<lf>rejoindre seul le R.P.D.
+<string>Se frayant un chemin dans des rues infestées de zombies, Leon<lf>parvient à rejoindre le R.P.D., commissariat de police de Raccoon.<lf>Malheureusement, il n'est pas en sécurité pour autant.<lf><lf>À la recherche d'éventuels survivants, il commence à explorer<lf>les lieux.
+<string>Déterminé à s'en sortir vivant, Leon traverse rapidement<lf>le sous-sol du commissariat, mais un terrible monstre lui<lf>barre la route.<lf><lf>La créature, qui n'a plus rien d'humain, attaque Leon avec<lf>une force gigantesque, mais le jeune policier parvient à<lf>mettre rapidement fin au combat.<lf><lf>Il atteint maintenant le parking par lequel il compte quitter<lf>cet endroit infernal, mais un nouvel obstacle se dresse sur<lf>sa route.
+<string>"Agent spécial Ada Wong, du FBI."<lf>C'est du moins l'identité sous laquelle elle se présenta.<lf><lf>Pleine de soupçons à l'égard de Leon, Ada gardait ses<lf>distances, ne révélant jamais ses véritables intentions.<lf>Mais il est clair qu'elle avait un but bien précis en tête<lf>en posant ses talons aiguilles dans cet endroit sinistre.<lf><lf>En fait, elle cherchait un renseignement très précis et<lf>quand Leon le récupéra pour elle, elle réapparut comme<lf>par enchantement à ses côtés.
+<string>La chose qui transforme les habitants de Raccoon City<lf>en zombies dégénérés s'avère être une arme biologique,<lf>un virus développé par le géant pharmaceutique Umbrella.<lf><lf>Ayant appris la vérité de la bouche d'Ada, Leon cède à la<lf>colère et décide d'aider la jeune femme dans son enquête.<lf><lf>Ada cherche une femme du nom d'Annette Birkin,<lf>la chercheuse d'Umbrella responsable de cette catastrophe.<lf>Ensemble, ils s'enfoncent dans les égouts sur les traces<lf>d'Annette.
+<string>Leon et Ada trouvent Annette, mais la perdent aussitôt.<lf><lf>Leon reçoit une balle en voulant protéger Ada.<lf>Cette dernière abandonne le policier blessé et tente de<lf>retrouver la piste de la scientifique.
+<string>Ada retrouve Annette et lui déclare vouloir s'emparer du<lf>virus à tout prix. Mais la scientifique n'en a que faire et<lf>met Ada hors de combat d'une façon cruelle.<lf><lf>Leon, qui avait perdu connaissance suite à son hémorragie,<lf>revient à lui et se lance à la poursuite d'Ada.
+<string>Le NEST, le laboratoire secret d'Umbrella, est à l'origine<lf>du cauchemar de Raccoon City.<lf><lf>Ayant réussi à atteindre le NEST, Leon doit maintenant trouver<lf>la plus redoutable arme biologique de l'histoire : le virus G.<lf><lf>Leon pense que s'il arrive à mettre la main dessus, il pourra<lf>faire en sorte que justice soit faite.
+<string>Les mensonges et la mort d'Ada...<lf><lf>Leon n'a malheureusement pas le temps de la pleurer.<lf>Une alerte retentit dans tout le NEST, indiquant qu'il<lf>ne reste plus que quelques minutes.<lf><lf>Leon va devoir s'enfuir pour la dernière fois.
+<string>Raccoon City. C'est dans cette ville industrielle au cœur<lf>de l'Amérique que se rend Claire Redfield.<lf><lf>Fendant l'air sur sa moto, Claire n'a qu'un but : retrouver<lf>son frère aîné, Chris, qui a disparu sans laisser de traces<lf>quelques semaines auparavant. Sous la pluie battante,<lf>Claire est envahie par un sentiment de terreur.<lf><lf>Un sentiment qui va bientôt prendre vie sous ses yeux.
+<string>Une tragédie se déroule à Raccoon City, ville paisible qui<lf>abrite le siège du géant pharmaceutique Umbrella Corporation.<lf><lf>Après s'être rencontrés par hasard, Leon et Claire se dirigent<lf>vers le commissariat de Raccoon City quand un accident pour<lf>le moins explosif les sépare.<lf><lf>"On se retrouve au commissariat !" crie Claire à travers<lf>les flammes, avant de se diriger seule vers le R.P.D.
+<string>Se frayant un chemin dans les rues infestées de zombies,<lf>Claire arrive enfin au commissariat de Raccoon City,<lf>mais elle n'est pas en sécurité pour autant.<lf><lf>À la recherche de survivants, elle se met à explorer les lieux.
+<string>Bien décidée à s'en sortir vivante, Claire traverse rapidement<lf>le sous-sol du commissariat, jusqu'à croiser une fillette<lf>terrifiée. Claire tend la main à l'enfant, mais est attaquée<lf>par une énorme créature.<lf><lf>Refusant de céder à la peur, Claire parvient à vaincre<lf>le terrible monstre et prend la fillette sous son aile, lui<lf>promettant de retrouver sa mère.<lf><lf>Ensemble, elles gagnent le parking, mais au moment de sortir,<lf>elles sont confrontées à un adversaire inattendu.
+<string>Sherry se réveille dans une pièce imprégnée de l'odeur<lf>du vieux bois.<lf><lf>Elle ne comprend pas ce qui se passe.<lf>Où est-elle ?<lf>Qui était cet homme ?<lf>Où est sa mère ?<lf>Qu'est-il arrivé à la femme qui l'a aidée ?<lf><lf>La seule chose dont elle est sûre, c'est qu'elle doit quitter<lf>cet endroit.
+<string>L'homme qui a kidnappé Sherry a prévenu Claire qu'elle devrait<lf>renoncer au pendentif qu'elle tient pour sauver la fillette.<lf><lf>Claire ignore la valeur du bijou qui brille au creux de sa main,<lf>mais elle n'a pas le choix.<lf><lf>La seule chose dont elle est certaine, c'est qu'elle ne<lf>pardonnera jamais à cet homme. Elle lui fera payer. Consumée<lf>par la rage, elle se précipite vers l'orphelinat dont il lui a parlé.
+<string>Les retrouvailles de Claire et Sherry sont interrompues par<lf>deux monstres terrifiants. "Papa..." lâche Sherry d'une voix<lf>ténue devant ces abominations.<lf><lf>En une fraction de seconde, elles sont à nouveau séparées.<lf>Claire perd connaissance et se réveille plus tard pour<lf>découvrir une femme en blouse blanche.<lf><lf>Il s'agit d'Annette Birkin, la mère que Sherry cherchait.
+<string>Sherry est porteuse d'un embryon du virus G, l'arme<lf>biologique la plus dangereuse jamais créée.<lf><lf>Furieuse qu'Annette ait pu laisser une telle chose arriver<lf>à sa fille, Claire gagne le laboratoire secret du NEST.<lf><lf>Elle doit trouver un moyen de sauver son amie.
+<string>"Sauve ma fille..."<lf>Ce sont les derniers mots d'Annette.<lf><lf>Claire emmène Sherry afin d'exaucer<lf>le dernier vœu de sa mère.
+<string>Sauvegarder est gratuit et peut vous sauver la vie.
+<string>La carte (<ICON OPEN_MAP>) est pratique non seulement pour vous<lf>repérer, mais elle indique aussi les objets que vous n'avez<lf>pas encore ramassés et les énigmes non résolues.
+<string>Ouvrez l'inventaire (<ICON STATUS>) et sélectionnez "<ICON SEARCH> Examiner"<lf>pour voir un objet en détail. Il se peut que vous découvriez<lf>de nouvelles informations ou même un autre objet.
+<string>Vous pouvez fabriquer des munitions de pistolet avec deux<lf>flacons de poudre noire. D'autres types de munitions peuvent<lf>également être créés en combinant des poudres différentes.<lf>N'hésitez pas à faire des expériences !
+<string>Ajustez le réticule sur votre cible et attendez<lf>qu'il rétrécisse avant d'appuyer sur la gâchette.<lf>Vous aurez plus de chances de faire mouche.
+<string>Lorsque vous avez une arme secondaire à la main,<lf>vous pouvez en changer rapidement via les raccourcis.
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_Common_007
+<string>Les objets marqués d'une icône <ICON USELESSITEM> dans l'inventaire (<ICON STATUS>)<lf>n'ont plus d'utilité et peuvent être jetés via la commande "<ICON TRASH>Jeter".
+<string>Vous ne pouvez pas utiliser une machine à écrire lorsque<lf>des ennemis sont à proximité.
+<string>Utilisez <ICON QUICK_TURN> pour vous retourner rapidement.
+<string>Les armes peuvent être assignées à différents raccourcis<lf>via la commande "<ICON SHORTCUT>Raccourci" de l'inventaire (<ICON STATUS>).
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_Common_012
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_Common_013
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_Common_014
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_Common_015
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_Common_016
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_Common_017
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_Common_018
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_Common_019
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_Common_020
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_Common_021
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_Common_022
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_Common_023
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_Common_024
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_Common_025
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_Common_026
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_Common_027
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_Common_028
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_Common_029
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_Common_030
+<string>G (1re forme)<lf>G vous voit d'un mauvais œil. Lorsque l'énorme globe oculaire<lf>sur son épaule droite se met à vous regarder, attendez-vous<lf>à une attaque capable de vous envoyer en orbite.
+<string>G (1re forme)<lf>Frappez l'énorme œil visqueux de G à plusieurs reprises<lf>pour prendre le dessus. Œil pour œil...
+<string>G (1re forme)<lf>Quand G essaie de vous saisir, utilisez votre arme secondaire<lf>pour échapper à son emprise.
+<string>G (1re forme)<lf>Il est facile de se faire surprendre au milieu de la vapeur.<lf>Faites attention à ne pas perdre G de vue.
+<string>G (1re forme)<lf>Aveuglez ce monstre avec un flash de lumière pour l'étourdir.
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_death01_006
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_death01_007
+<string>G (2e forme)<lf>Ne restez pas au milieu des flammes et échappez-vous dès que<lf>vous en avez l'opportunité.
+<string>G (2e forme)<lf>Prenez garde à ne pas vous faire embrocher par sa griffe<lf>géante. Vous subiriez autant de dégâts qu'en cas de brûlure !
+<string>G (2e forme)<lf>Essayez de ne pas vous faire piéger dans un endroit confiné<lf>avec une arme biologique mutante. Déplacez le combat là<lf>où vous pouvez vous mouvoir.
+<string>G (2e forme)<lf>Prenez garde à ne pas tomber dans votre propre piège<lf>en utilisant la grue.
+<string>G (2e forme)<lf>Un gros conteneur en acier peut infliger d'importants dégâts.
+<string>G (2e forme)<lf>L'arme secondaire est votre seul espoir si G vous attrape<lf>avec son bras droit.
+<string>G (2e forme)<lf>Lorsque G est à genoux, c'est le moment de le frapper<lf>avec le conteneur.
+<string>G (3e forme)<lf>Les yeux sur le corps de G ne sont pas là à titre décoratif.<lf>Crevez-les tous et il sera vulnérable.
+<string>G (3e forme)<lf>Si G vous attrape, c'est la mort assurée.<lf>À moins que vous ayez une arme secondaire...
+<string>G (3e forme)<lf>G a aussi des yeux dans le dos. Profitez de la brève<lf>ouverture qui suit ses attaques pour les détruire.
+<string>G (3e forme)<lf>Si vous avez du mal à toucher les points faibles de G,<lf>utilisez une grenade assourdissante pour l'immobiliser<lf>et blessez-le avec une arme puissante.
+<string>G (3e forme)<lf>Vous pouvez déstabiliser G avec des cartouches d'acide.<lf>Attaquez-le ensuite avec les armes les plus puissantes<lf>que vous avez.
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_death03_006
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_death03_007
+<string>G (4e forme)<lf>Ne restez pas au corps à corps. Gardez vos distances<lf>et utilisez votre minigun.
+<string>G (4e forme)<lf>Méfiez-vous des attaques par le haut. Mettez-vous à l'abri<lf>ou faites tomber G avant qu'il n'attaque.
+<string>G (4e forme)<lf>Le temps est compté pour vous échapper. Débarrassez-vous<lf>rapidement de G en concentrant vos tirs sur ses yeux.
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_death04_004
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_death04_005
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_death04_006
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_death04_007
+<string>Tyran S<lf>Seul un rugissement vous alertera avant que le Tyran S lance<lf>une violente attaque. Utilisez tout ce dont vous disposez<lf>pour l'arrêter avant qu'il ne soit trop tard.
+<string>Tyran S<lf>Vous pouvez le stopper avec une grenade assourdissante.<lf>Ce n'est pas le moment d'économiser vos munitions !
+<string>Tyran S<lf>Son cœur exposé est particulièrement vulnérable.<lf>Visez ce point faible.
+<string>Tyran S<lf>Une roquette anti-char est sûre de régler la situation en un tir.
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_death05_005
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_death05_006
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_death05_007
+<string>G (5e forme)<lf>Difficile d'éviter l'affrontement dans un train.<lf>La seule solution est de tirer, encore et encore.
+<string>G (5e forme)<lf>Maintenant que l'œil géant est bien apparent, vous pouvez faire<lf>feu à volonté. Veillez seulement à rester à bonne distance.
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_death06_003
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_death06_004
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_death06_005
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_death06_006
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_death06_007
+<string>Zombies<lf>Blessez un zombie aux jambes pour qu'il se déplace encore plus<lf>lentement. Il va marcher beaucoup moins bien maintenant !
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_death07_002
+<string>Zombies<lf>Ayez toujours une arme secondaire sur vous au cas où un zombie<lf>un peu trop affectueux veuille vous faire un câlin quand vous<lf>ne vous y attendez pas.
+<string>Zombies<lf>Faites très attention lorsqu'il y a plusieurs zombies autour<lf>de vous. Vous pourriez bien finir en sandwich.
+<string>Zombies<lf>Il est parfois difficile à dire si un zombie représente encore<lf>une menace ou non. Pour en être sûr, utilisez votre couteau.<lf>Alors, il est mort ou il mord ?
+<string>Zombies<lf>Un intense flash de lumière peut vous permettre de clouer<lf>un zombie sur place. Un, deux, trois, soleil !
+<string>Zombies<lf>Les zombies des forces spéciales ont leur corps protégé<lf>par leur équipement, mais ce n'est pas le cas de leur tête.<lf>Mettez-leur un peu de plomb dans la cervelle !
+<string>Zombies<lf>Le feu et les zombies ne font pas bon ménage.
+<string>Zombies<lf>Quoi de mieux qu'un tir de fusil à bout portant pour refaire<lf>le portrait d'un zombie ? Des têtes vont tomber !
+<string>Zombies<lf>Les grenades acides peuvent faire des dégâts considérables<lf>à distance. Qui veut du zombie fondu ?
+<string>Lickers<lf>Les Lickers sont des créatures terrifiantes. Il n'y a pas<lf>de honte à fuir si vous n'avez pas la puissance de feu<lf>nécessaire pour les abattre.
+<string>Lickers<lf>Les Lickers sont aveugles, alors contournez-les sans<lf>faire de bruit et vous devriez pouvoir les éviter.
+<string>Lickers<lf>Rien de tel pour perturber l'écholocalisation d'un Licker<lf>qu'une bonne vieille grenade assourdissante.
+<string>Lickers<lf>Lorsqu'un Licker est au plafond ou sur un mur, faites-le<lf>tomber pour lui infliger des tirs supplémentaires avant<lf>qu'il ne se redresse.
+<string>Lickers<lf>Les cartouches d'acide sont très efficaces pour faire fondre<lf>les tissus exposés des Lickers.
+<string>Chiens zombies<lf>Les chiens mutants infectés par le virus T sont ultra rapides.<lf>Si vos tirs ne font pas mouche, adoptez le plan B : fuyez.
+<string>Chiens zombies<lf>Si un chien vous plaque au sol, demandez-lui gentiment de<lf>rouler et de faire le mort à l'aide d'une arme secondaire.
+<string>Chiens zombies<lf>Vous pouvez ordonner à une meute entière de chiens<lf>de ne pas bouger à l'aide d'une grenade assourdissante.
+<string>Ivy<lf>Les armes secondaires sont votre seul espoir quand<lf>cette créature vous tient dans ses lianes.
+<string>Ivy<lf>Vous pouvez immobiliser un Ivy en détruisant tous les bulbes<lf>orange sur son corps.
+<string>Ivy<lf>Vous pouvez immobiliser un Ivy en attaquant d'autres parties<lf>que ses bulbes, mais tant que vous ne les détruisez pas,<lf>il se relèvera.
+<string>Ivy<lf>Au bout d'un certains temps, les bulbes d'un Ivy se régénèrent<lf>et la créature revient à la vie. Vous pouvez retarder son retour<lf>en détruisant les bulbes qui se régénèrent.
+<string>Ivy<lf>Vous pouvez entièrement brûler un Ivy si vous l'exposez<lf>aux flammes en continu.
+<string>G adultes<lf>Leur fluide digestif est une puissante toxine.<lf>S'il vous atteint, ingérez vite une plante bleue.
+<string>G adultes<lf>Éliminez les jeunes issus des G adultes avant qu'ils<lf>ne s'approchent trop. Méfiez-vous surtout des spécimens<lf>violets qui peuvent vous empoisonner.
+<string>G adultes<lf>L'énorme épaule gauche charnue est vulnérable.<lf>Concentrez vos attaques dessus pour la détruire.
+<string>G adultes<lf>Quand la chose ressemblant à un œil apparaît, lancez-lui<lf>une grenade assourdissante pour limiter ses mouvements<lf>d'un flash de lumière.
+<string>Tyran<lf>La plupart des armes sont inefficaces contre le Tyran.
+<string>Tyran<lf>Plusieurs tirs à la tête pourront le neutraliser,<lf>mais pas pour longtemps.
+<string>Tyran<lf>S'il entend du bruit, le Tyran accourra.
+<string>Tyran<lf>Pour ne pas finir en chair à pâtée, contre-attaquez<lf>avec une arme secondaire.
+<string>Tyran<lf>Lorsque le Tyran perd votre trace, restez dans l'ombre<lf>pour lui échapper complètement.
+<string>Tyran<lf>Vous pouvez échapper au Tyran en utilisant des grenades<lf>assourdissantes.
+<string>Ne laissez pas le chef Irons attraper Sherry.<lf>Continuez de vous enfuir, coûte que coûte.
+<string>Ne croisez pas le rayon de la lampe torche ou vous serez repéré.
+<string>Sherry peut marcher accroupie (<ICON HOLD_MAIN>).<lf>Une technique utile pour jouer à cache-cache.
+<string>Observez attentivement le chef Irons et vous trouverez<lf>peut-être un moyen de vous échapper.
+<string>Le chef possède la clé ouvrant toutes les portes de l'orphelinat.<lf>Emparez-vous-en dès que vous en avez l'occasion.
+<string>Le chef est fou de rage et complètement imprévisible.<lf>Ne vous approchez pas de lui.
+<string>Si vous courez en ligne droite, vous finirez dans la gueule<lf>de l'alligator. Faites des zigzags pour lui échapper.
+<string>Restez au même endroit, et vous finirez en pâtée pour alligator.
+<string>Tirez sur la conduite de gaz pour provoquer une explosion.
+<string>Vous pouvez casser la porte de l'incinérateur en faisant<lf>exploser les trois moteurs encastrés dans le mur.
+<string>Si vous êtes à court de munitions, alors il n'y a plus<lf>qu'une chose à faire : fuir !
+<string>*Astuces Opérations secrètes 01*
+<string>*Astuces Opérations secrètes 02*
+<string>*Astuces Opérations secrètes 03*
+<string>*Astuces Opérations secrètes 04*
+<string>*Astuces Opérations secrètes 05*
+<string>*Astuces Opérations secrètes 06*
+<string>*Astuces Opérations secrètes 07*
+<string>*Astuces Opérations secrètes 08*
+<string>*Astuces Opérations secrètes 09*
+<string>*Astuces Opérations secrètes 10*
+<string>*Astuces Opérations secrètes 11*
+<string>*Astuces Opérations secrètes 12*
+<string>*Astuces Opérations secrètes 13*
+<string>*Astuces Opérations secrètes 14*
+<string>*Astuces Opérations secrètes 15*
+<string>*Astuces Opérations secrètes 16*
+<string>*Astuces Opérations secrètes 17*
+<string>*Astuces Opérations secrètes 18*
+<string>*Astuces Opérations secrètes 19*
+<string>*Astuces Opérations secrètes 20*
+<string>*Astuces Opérations secrètes 21*
+<string>*Astuces Opérations secrètes 22*
+<string>*Astuces Opérations secrètes 23*
+<string>*Astuces Opérations secrètes 24*
+<string>*Astuces Opérations secrètes 25*
+<string>*Astuces Opérations secrètes 26*
+<string>*Astuces Opérations secrètes 27*
+<string>*Astuces Opérations secrètes 28*
+<string>*Astuces Opérations secrètes 29*
+<string>*Astuces Opérations secrètes 30*
+<string>*Astuces Opérations secrètes 31*
+<string>*Astuces Opérations secrètes 32*
+<string>*Astuces Opérations secrètes 33*
+<string>*Astuces Opérations secrètes 34*
+<string>*Astuces Opérations secrètes 35*
+<string>*Astuces Opérations secrètes 36*
+<string>*Astuces Opérations secrètes 37*
+<string>*Astuces Opérations secrètes 38*
+<string>*Astuces Opérations secrètes 39*
+<string>*Astuces Opérations secrètes 40*
+<string>Septembre 1998.<lf><lf>Les forces spéciales d'Umbrella, l'U.S.S., prennent d'assaut<lf>le laboratoire secret NEST.<lf>"On devrait peut-être faire notre testament ?"<lf>Les soldats de l'unité regardent tous le même homme en ricanant.<lf>"Peu importe la difficulté de la mission, on va s'en sortir."<lf>"Et même si toute l'unité y passe, lui, il revient toujours."<lf>"La Faucheuse de l'U.S.S..." À l'époque, tout le monde avait ri<lf>de ce surnom sinistre comme d'une mauvaise blague.<lf><lf>Mais aujourd'hui, cet homme est le seul encore en vie.<lf>Il est habitué à la puanteur de la mort, à l'odeur des cadavres<lf>de ses coéquipiers. Personne ne sait qui il est vraiment.<lf>On ne connaît que son nom de code : Hunk.
+<string>Cet énigmatique agent des renseignements est réputé pour<lf>sa capacité d'adaptation. Il est aussi fluide que l'eau dont<lf>il est constitué. Peu coûteux et fournissant d'excellents<lf>résultats, il a servi activement dans le monde entier ces<lf>dernières années.<lf><lf>Nom de code : Tofu.<lf>Son charme est sans limite.
+<string>Cet agent des renseignements a d'abord joué le rôle<lf>de négociateur, aidant à faire passer le goût amer des<lf>médicaments. Aujourd'hui encore, il utilise ses talents<lf>pour obtenir l'équilibre délicat entre sucré et salé.<lf><lf>Nom de code : Annin Tofu<lf>Son savoir est sans limite.
+<string>Cet agent des renseignements est doté d'une consistance<lf>molle, mais agréable, et d'un goût simple. Son seul point<lf>faible est qu'il réagit à son environnement, ce qui limite<lf>sa durée de vie. Il durcit au contact de l'air, mais sa<lf>tendreté peut être retrouvée en l'exposant brièvement à<lf>la vapeur.<lf><lf>Pour exploiter au mieux ses capacités, envoyez cette<lf>demi-portion dans des missions courtes.<lf><lf>Nom de code : Uiro-Mochi<lf>Personne ne peut stopper son évolution.
+<string>La plus forte parmi les agents de renseignements, capable<lf>de rester ferme en toute circonstance. Composée d'œufs,<lf>de lait et de crème de premier choix pour un rendu lisse,<lf>son parfum doux provoque un engouement parfois à la limite<lf>du raisonnable. On dit que les morts reviendraient à la vie<lf>pour elle.<lf><lf>Nom de code : Flan<lf>Ce doux visage cache un danger redoutable.
+<string>Envoyé pour faire le ménage, cet agent des renseignements<lf>est surnommé "le Nettoyeur". Certains de ses composants<lf>ne peuvent être digérés par les sucs gastriques humains.<lf>Il peut donc absorber le liquide dans l'intestin, éliminant<lf>ainsi l'eau et les déchets du corps.<lf><lf>Beaucoup le croient faible en raison de son apport en<lf>calories limité, mais il peut utiliser le pouvoir des fibres<lf>pour éliminer n'importe quelle cible.<lf><lf>Nom de code : Konjac<lf>Ne sous-estimez pas son pouvoir.
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_000
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_001
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_002
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_003
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_004
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_005
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_006
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_007
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_008
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_009
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_010
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_011
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_012
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_013
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_014
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_015
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_016
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_017
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_018
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_019
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_020
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_021
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_022
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_023
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_024
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_025
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_026
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_027
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_028
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_029
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_030
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_031
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_032
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_033
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_034
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_035
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_036
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_037
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_038
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_039
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_040
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_041
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_042
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_043
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_044
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_045
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_046
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_047
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_048
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_049
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_050
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_051
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_052
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_053
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_054
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_055
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_056
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_057
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_058
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_059
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_060
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_061
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_062
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_063
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_064
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_065
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_066
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_067
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_068
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_069
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_070
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_071
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_072
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_073
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_074
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_075
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_076
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_077
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_078
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_079
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_080
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_081
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_082
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_083
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_084
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_085
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_086
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_087
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_088
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_089
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_090
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_091
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_092
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_093
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_094
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_095
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_096
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_097
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_098
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_099
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_100
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_101
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_102
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_103
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_104
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_105
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_106
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_107
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_108
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_109
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_110
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_111
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_112
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_113
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_114
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_115
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_116
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_117
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_118
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_119
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_120
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_121
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_122
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_123
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_124
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_125
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_126
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_127
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_128
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_129
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_130
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_131
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_132
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_133
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_134
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_135
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_136
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_137
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_138
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_139
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_140
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_141
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_142
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_143
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_144
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_145
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_146
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_147
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_148
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_149
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_150
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_151
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_152
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_153
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_154
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_155
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_156
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_157
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_158
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_159
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_160
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_161
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_162
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_163
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_164
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_165
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_166
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_167
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_168
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_169
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_170
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_171
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_172
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_173
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_174
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_175
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_176
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_177
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_178
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_179
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_180
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_181
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_182
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_183
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_184
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_185
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_186
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_187
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_188
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_189
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_190
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_191
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_192
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_193
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_194
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_195
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_196
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_197
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_198
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_199
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TipsTiTle_200
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_000
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_001
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_002
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_003
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_004
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_005
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_006
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_007
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_008
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_009
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_010
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_011
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_012
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_013
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_014
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_015
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_016
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_017
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_018
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_019
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_020
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_021
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_022
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_023
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_024
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_025
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_026
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_027
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_028
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_029
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_030
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_031
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_032
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_033
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_034
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_035
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_036
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_037
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_038
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_039
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_040
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_041
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_042
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_043
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_044
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_045
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_046
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_047
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_048
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_049
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_050
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_051
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_052
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_053
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_054
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_055
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_056
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_057
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_058
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_059
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_060
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_061
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_062
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_063
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_064
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_065
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_066
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_067
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_068
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_069
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_070
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_071
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_072
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_073
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_074
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_075
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_076
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_077
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_078
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_079
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_080
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_081
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_082
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_083
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_084
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_085
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_086
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_087
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_088
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_089
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_090
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_091
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_092
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_093
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_094
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_095
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_096
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_097
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_098
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_099
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_100
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_101
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_102
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_103
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_104
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_105
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_106
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_107
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_108
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_109
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_110
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_111
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_112
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_113
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_114
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_115
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_116
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_117
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_118
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_119
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_120
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_121
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_122
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_123
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_124
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_125
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_126
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_127
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_128
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_129
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_130
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_131
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_132
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_133
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_134
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_135
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_136
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_137
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_138
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_139
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_140
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_141
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_142
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_143
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_144
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_145
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_146
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_147
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_148
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_149
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_150
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_151
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_152
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_153
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_154
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_155
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_156
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_157
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_158
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_159
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_160
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_161
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_162
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_163
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_164
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_165
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_166
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_167
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_168
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_169
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_170
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_171
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_172
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_173
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_174
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_175
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_176
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_177
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_178
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_179
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_180
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_181
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_182
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_183
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_184
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_185
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_186
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_187
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_188
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_189
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_190
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_191
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_192
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_193
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_194
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_195
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_196
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_197
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_198
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_199
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tips_200

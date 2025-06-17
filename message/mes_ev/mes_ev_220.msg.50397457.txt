@@ -1,0 +1,16 @@
+<string><TIME 6.95, 8.11><lf><TIME 15.28, 16.73><lf><TIME 19.22, 24.17><lf><TIME 26.3, 29.91><lf><TIME 32.0, 34.92><lf><TIME 35.71, 37.56><lf><TIME 39.5, 41.14><lf><TIME 42.16, 43.25><lf><TIME 44.64, 47.77><lf><TIME 48.34, 49.09><lf><TIME 52.82, 54.13><lf><TIME 70.57, 72.37><lf>Ça bouge pas.<PAGE><lf>Qui est là ?<PAGE><lf>Hé ! T'en fais pas. Je te veux pas de mal.<PAGE><lf>Tu veux que je t'aide ? Viens, attrape ma main.<PAGE><lf>Tu... as besoin... d'aide.<PAGE><lf>Désolée, j'ai pas compris.<PAGE><lf>Tu as besoin d'aide.<PAGE><lf>Pourquoi ?<PAGE><lf>Il est juste derrière toi.<PAGE><lf>Quoi ?<PAGE><lf>Oh mon Dieu...<PAGE><lf>Oh non c'est pas vrai...
+<string>Ça bouge pas.
+<string>Qui est là ?
+<string>Hé ! T'en fais pas. Je te veux pas de mal.
+<string>Tu veux que je t'aide ? Viens, attrape ma main.
+<string>Tu... as besoin... d'aide.
+<string>Désolée, j'ai pas compris.
+<string>Tu as besoin d'aide.
+<string>Pourquoi ?
+<string>Il est juste derrière toi.
+<string>Quoi ?
+<string>Oh mon Dieu...
+<string>
+<string>
+<string>
+<string>Oh non c'est pas vrai...

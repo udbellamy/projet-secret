@@ -1,0 +1,15 @@
+<string><TIME 2.9, 11.24><TIME 11.71, 12.48><TIME 12.5, 13.22><TIME 14.87, 17.92><TIME 18.47, 21.81><TIME 23.26, 26.73><TIME 26.94, 28.76><TIME 30.49, 32.52><TIME 34.12, 35.33><TIME 36.22, 38.28><TIME 38.56, 40.75><TIME 41.33, 44.33><TIME 45.66, 47.29><TIME 49.52, 51.4>Bon... Alors... Ça fait quelque chose.<lf>OK ! Ça fonctionne.<PAGE><lf>Claire !<PAGE><lf>Quoi ?<PAGE><lf>Leon ? Toi aussi tu es là ?<PAGE><lf>Ouais, mais tout est sur le point de s'écrouler !<PAGE><lf>Écoute ! Il faut que tu sortes de là, vite !<PAGE><lf>Je sais. J'ai un moyen de sortir.<PAGE><lf>Je crois... Je crois qu'on peut y arriver.<PAGE><lf>Où es-tu là ?<PAGE><lf>Claire, tu es toujours là ?<PAGE><lf>Leon ? Désolée, je t'entends mal.<PAGE><lf>T'en fais pas pour moi ! Fiche le camp d'ici !<PAGE><lf>Leon ? Leon !<PAGE><lf>Merde !
+<string>Bon... Alors... Ça fait quelque chose.<lf>OK ! Ça fonctionne.
+<string>Claire !
+<string>Quoi ?
+<string>Leon ? Toi aussi tu es là ?
+<string>Ouais, mais tout est sur le point de s'écrouler !
+<string>Écoute ! Il faut que tu sortes de là, vite !
+<string>Je sais. J'ai un moyen de sortir.
+<string>Je crois... Je crois qu'on peut y arriver.
+<string>Où es-tu là ?
+<string>Claire, tu es toujours là ?
+<string>Leon ? Désolée, je t'entends mal.
+<string>T'en fais pas pour moi ! Fiche le camp d'ici !
+<string>Leon ? Leon !
+<string>Merde !

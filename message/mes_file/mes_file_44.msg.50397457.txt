@@ -1,0 +1,11 @@
+<string>Reçu de livraison
+<string>L'article ci-dessous a été livré sur le lieu<lf>indiqué sur votre facture.<lf><lf>Coffre résistant à la chaleur x1<lf><lf>La combinaison est écrite sur le <COL FILE_EMP>côté du coffre</COLOR><lf>à la craie. N'oubliez pas de l'effacer avant<lf>d'utiliser le coffre.
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

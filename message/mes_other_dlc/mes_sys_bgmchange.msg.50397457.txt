@@ -1,0 +1,5 @@
+<string>Version musique/effets
+<string>Remplacer une partie de la bande-son par celle de la version originale.
+<string>Originale
+<string>Remake
+<string>Vous pouvez maintenant modifier la musique du jeu et les effets sonores.<lf><lf>Réglez l'option "Version musique/effets" sur "Originale" pour qu'une<lf>partie de la bande-son soit remplacée par celle de la version originale.

@@ -1,0 +1,6 @@
+<string>Samurai Edge (Albert)
+<string>Samurai Edge (Albert)
+<string>Un pistolet élaboré par Albert Wesker<lf>lui-même. Il a été personnalisé pour<lf>des performances optimales.<lf>Capacité : 15 coups (9 mm)
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7030_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7030_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7030_3

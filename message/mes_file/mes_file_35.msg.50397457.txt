@@ -1,0 +1,11 @@
+<string>[IMPORTANT] Alerte à tout le NEST
+<string>En raison d'un incident dans la zone nord, tout<lf>le personnel du NEST doit s'auto-administrer<lf>l'agent antiviral "DEVIL" immédiatement.<lf><lf>Le DEVIL est le seul moyen d'empêcher la<lf>mutation. Si vous avez été contaminé par le<lf>virus G, demandez immédiatement de l'aide afin<lf>de cibler et détruire les cellules G dans votre<lf>organisme.
+<string><CENTER>Cet e-mail est généré automatiquement<lf><CENTER>en cas d'urgence.<lf><CENTER>Veuillez ne pas répondre à ce message.
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

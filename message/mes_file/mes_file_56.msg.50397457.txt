@@ -1,0 +1,3 @@
+<string>Recrue prometteuse
+<string>
+<string><END>

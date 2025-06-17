@@ -1,0 +1,50 @@
+<string><TIME 0.17, 1.61><lf><TIME 2.86, 4.06><lf><TIME 4.63, 8.7><lf><TIME 9.31, 12.09><lf><TIME 13.0, 14.29><lf><TIME 15.55, 17.57><lf><TIME 20.39, 22.21><lf><TIME 23.37, 25.42><lf><TIME 26.3, 29.0><lf><TIME 29.2, 34.0><lf><TIME 35.61, 38.35><lf><TIME 38.5, 40.68><lf><TIME 40.85, 42.52><lf><TIME 42.58, 47.17><lf><TIME 47.91, 50.93><lf><TIME 52.04, 55.93><lf><TIME 56.37, 57.16><lf><TIME 57.23, 58.72><lf><TIME 60.89, 62.89><lf><TIME 63.57, 70.5><lf><TIME 70.78, 75.77><lf><TIME 76.5, 78.3><lf>On sait ce qui a causé tout ça ?<PAGE><lf>Aucune idée.<PAGE><lf>Mais franchement, tout ce que tu dois savoir c'est que<lf>cet endroit te bouffera tout cru si tu fais pas attention.<PAGE><lf>Je devais commencer la semaine dernière<lf>mais on m'a dit de ne pas venir.<PAGE><lf>J'aurais aimé être là plus tôt.<PAGE><lf>Tu es là maintenant.<lf>C'est tout ce qui compte.<PAGE><lf>Lieutenant, je suis prêt.<PAGE><lf>J'espère que tu trouveras un moyen de sortir d'ici.<PAGE><lf>L'officier que tu as vu tout à l'heure, Elliot...<PAGE><lf>Il pensait que ce passage secret ferait l'affaire.<PAGE><lf>Tant mieux. On pourra vous amener à l'hôpital.<PAGE><lf>Non, non, il y a plus important que moi.<PAGE><lf>Lieutenant, je peux pas vous laisser là...<PAGE><lf>Ceci est un ordre, jeune homme.<lf>Tu dois d'abord sauver ta peau.<PAGE><lf>J'aimerais venir avec toi, mais ça te ralentirait...<PAGE><lf>Tiens... Allez, prends-le.<PAGE><lf>Si je fais ça...<PAGE><lf>C'est bon, arrête !<PAGE><lf>Fais pas la même erreur que moi.<PAGE><lf>Si tu croises d'autres de ces choses...<lf>uniforme ou pas, tu dois pas hésiter.<PAGE><lf>Tu les tues... ou tu cours. Compris ?<PAGE><lf>Compris.
+<string>On sait ce qui a causé tout ça ?
+<string>Aucune idée.
+<string>Mais franchement, tout ce que tu dois savoir c'est que<lf>cet endroit te bouffera tout cru si tu fais pas attention.
+<string>Je devais commencer la semaine dernière<lf>mais on m'a dit de ne pas venir.
+<string>J'aurais aimé être là plus tôt.
+<string>Tu es là maintenant.<lf>C'est tout ce qui compte.
+<string>Lieutenant, je suis prêt.
+<string>J'espère que tu trouveras un moyen de sortir d'ici.
+<string>L'officier que tu as vu tout à l'heure, Elliot...
+<string>Il pensait que ce passage secret ferait l'affaire.
+<string>Tant mieux. On pourra vous amener à l'hôpital.
+<string>Non, non, il y a plus important que moi.
+<string>Lieutenant, je peux pas vous laisser là...
+<string>Ceci est un ordre, jeune homme.<lf>Tu dois d'abord sauver ta peau.
+<string>J'aimerais venir avec toi, mais ça te ralentirait...
+<string>Tiens... Allez, prends-le.
+<string>Si je fais ça...
+<string>C'est bon, arrête !
+<string>Fais pas la même erreur que moi.
+<string>Si tu croises d'autres de ces choses...<lf>uniforme ou pas, tu dois pas hésiter.
+<string>Tu les tues... ou tu cours. Compris ?
+<string>Compris.
+<string><TIME 1.03, 2.53><TIME 5.65, 6.94><TIME 7.69, 10.8><TIME 11.13, 12.7><TIME 14.43, 16.92><TIME 18.81, 21.97><TIME 23.21, 24.22><TIME 25.38, 28.46><TIME 29.85, 31.91><TIME 32.38, 33.5><TIME 34.71, 36.0><TIME 37.08, 38.92><TIME 39.05, 40.28><TIME 41.03, 44.36><TIME 45.53, 46.03><TIME 48.2, 51.0><TIME 51.05, 54.08><TIME 54.97, 57.4><TIME 57.47, 60.97><TIME 62.82, 64.1><TIME 67.17, 70.58><TIME 71.69, 73.35><TIME 73.43, 74.16><TIME 77.07, 77.78><TIME 79.89, 85.32><TIME 86.24, 89.92>Est-ce qu'on sait ce qui a causé tout ça ?<PAGE><lf>Il y a pas mal de théories...<PAGE><lf>Mais tout ce dont je suis sûr, c'est que<lf>cet endroit est infesté de zombies.<PAGE><lf>Ouais, j'ai vu ça...<PAGE><lf>Hé, garde ça allumé... On sait jamais.<PAGE><lf>Je vais pas traîner ici.<lf>Juste le temps de retrouver Chris.<PAGE><lf>Tu es vraiment la sœur de Chris ?<PAGE><lf>Oui. Pourquoi ?<lf>Vous avez quelque chose ?<PAGE><lf>Il est en vacances.<lf>En Europe, je crois...<PAGE><lf>Depuis quelques semaines.<PAGE><lf>En vacances ?<PAGE><lf>C'est... une bonne nouvelle.<PAGE><lf>En parlant de bonne nouvelle...<PAGE><lf>Apparemment, il y aurait un moyen<lf>de sortir par ce passage secret, là...<PAGE><lf>Super.<PAGE><lf>Hé... On devrait vous emmener à l'hôpital.<PAGE><lf>Non, non... T'en fais pas pour moi.<lf>Je peux me débrouiller.<PAGE><lf>Hein ? Allez, dites pas de bêtises,<lf>il vous faut de l'aide...<PAGE><lf>Écoute Claire. Il faut que tu sauves ta peau...<PAGE><lf>Que tu puisses revoir ton frère.<PAGE><lf>Tiens... Tu vas avoir besoin de ça.<PAGE><lf>Non, pas question que je prenne ça. Il vous...<PAGE><lf>Chut...<PAGE><lf>Sois prudente.<PAGE><lf>Si tu croises d'autres de ces choses...<lf>peu importe qui ils étaient, tu dois pas hésiter.<PAGE><lf>Tue-les si tu peux, sinon cours.
+<string>Est-ce qu'on sait ce qui a causé tout ça ?
+<string>Il y a pas mal de théories...
+<string>Mais tout ce dont je suis sûr, c'est que<lf>cet endroit est infesté de zombies.
+<string>Ouais, j'ai vu ça...
+<string>Hé, garde ça allumé... On sait jamais.
+<string>Je vais pas traîner ici.<lf>Juste le temps de retrouver Chris.
+<string>Tu es vraiment la sœur de Chris ?
+<string>Oui. Pourquoi ?<lf>Vous avez quelque chose ?
+<string>Il est en vacances.<lf>En Europe, je crois...
+<string>Depuis quelques semaines.
+<string>En vacances ?
+<string>C'est... une bonne nouvelle.
+<string>En parlant de bonne nouvelle...
+<string>Apparemment, il y aurait un moyen<lf>de sortir par ce passage secret, là...
+<string>Super.
+<string>Hé... On devrait vous emmener à l'hôpital.
+<string>Non, non... T'en fais pas pour moi.<lf>Je peux me débrouiller.
+<string>Hein ? Allez, dites pas de bêtises,<lf>il vous faut de l'aide...
+<string>Écoute Claire. Il faut que tu sauves ta peau...
+<string>Que tu puisses revoir ton frère.
+<string>Tiens... Tu vas avoir besoin de ça.
+<string>Non, pas question que je prenne ça. Il vous...
+<string>Chut...
+<string>Sois prudente.
+<string>Si tu croises d'autres de ces choses...<lf>peu importe qui ils étaient, tu dois pas hésiter.
+<string>Tue-les si tu peux, sinon cours.

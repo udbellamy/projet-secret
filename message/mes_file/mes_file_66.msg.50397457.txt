@@ -1,0 +1,11 @@
+<string>Projet de réparation
+<string>Lieu : horloge ouest du commissariat<lf><lf>En raison de la grande valeur culturelle de<lf>la cloche, j'appelle un spécialiste pour les<lf>réparations. On verra les détails quand il<lf>sera sur place, mais en attendant, je vais<lf>sécuriser la cloche pour éviter un accident.
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

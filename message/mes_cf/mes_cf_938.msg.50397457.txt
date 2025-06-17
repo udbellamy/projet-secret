@@ -1,0 +1,6 @@
+<string><TIME 9.29, 10.99><TIME 11.59, 13.49>Pourquoi tu es revenu ?<PAGE><lf>Je voulais rencontrer la Faucheuse.
+<string>Pourquoi tu es revenu ?
+<string>Je voulais rencontrer la Faucheuse.
+<string><TIME 9.29, 10.75><TIME 10.85, 12.93><PAGE><lf>Je voulais rencontrer la Faucheuse.
+<string>
+<string>Je voulais rencontrer la Faucheuse.

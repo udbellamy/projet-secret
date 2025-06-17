@@ -1,0 +1,11 @@
+<string>Panneau électrique des cellules
+<string>Le panneau électrique est HS. Est-ce que le<lf>responsable pourrait régler ça et VITE ?<lf><lf>Tout le monde doit le savoir, mais vu l'âge du<lf>panneau électrique des cellules, on va avoir<lf>besoin de <COL FILE_EMP>pièces</COLOR> que plus personne ne fabrique.<lf>Il doit y en avoir dans la <COL FILE_EMP>salle du générateur</COLOR>.
+<string>Addendum :<lf>On me signale qu'il n'y a qu'une seule<lf>de ces pièces dans la salle du générateur.<lf>Le type venu réparer la cloche dans la <COL FILE_EMP>tour<lf>de l'horloge</COLOR> doit en avoir une autre.<lf>Il faut que quelqu'un lui pique... euh,<lf>lui demande gentiment.
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

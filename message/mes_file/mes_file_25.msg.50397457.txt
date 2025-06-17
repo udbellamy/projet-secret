@@ -1,0 +1,11 @@
+<string>Rapport d'opération
+<string>28 septembre, 02h30<lf>On n'est plus que quatre ici. Pas d'armes, pas<lf>de munitions... et les affrontements nous ont<lf>épuisés mentalement et physiquement. On ne<lf>s'en sortira pas... L'officier Philips a suggéré<lf>une fuite par les égouts. Apparemment, il y a<lf>un tunnel secret qui date de l'époque où cet<lf>endroit était un musée.
+<string>J'avais rejeté son idée, mais maintenant, elle<lf>ne me paraît plus si mauvaise. Rien ne prouve<lf>que ce tunnel existe ou que les égouts ne sont<lf>pas infestés de zombies, mais je ne veux pas<lf>attendre la mort ici. C'est risqué, mais je vais<lf>essayer de trouver des infos sur ce tunnel.<lf><RIGHT>Elliot Edward
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

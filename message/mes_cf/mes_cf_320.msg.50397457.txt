@@ -1,0 +1,14 @@
+<string><TIME 4.0, 4.83><TIME 10.8, 14.31><TIME 14.57, 19.67><TIME 20.39, 24.12><TIME 24.4, 26.0><TIME 26.07, 27.95><TIME 28.07, 29.07><TIME 29.21, 31.89><TIME 31.97, 34.7><TIME 35.31, 35.68><TIME 35.8, 37.0><TIME 37.07, 38.4><TIME 41.07, 42.26>Hein ?<PAGE><lf>Oui, oui... mais cela n'explique pas<lf>les rumeurs qui courent sur l'orphelinat.<PAGE><lf>Et le fait qu'Umbrella fasse partie des bienfaiteurs<lf>ne peut pas être qu'une simple coïncidence.<PAGE><lf>Je croyais que cet entretien portait sur la nouvelle<lf>bourse d'études mise en place par Umbrella.<PAGE><lf>Oh, Annette. Tout le monde s'en fiche de ça.<PAGE><lf>Les gens veulent en savoir plus sur le virus G...<PAGE><lf>Où avez-vous entendu parler de ça ?<PAGE><lf>et sur ce putain de gouffre dans la ville qui, d'après la rumeur,<PAGE><lf>mène tout droit vers votre labo souterrain.<PAGE><lf>Labo ?<PAGE><lf>Alors, vous allez m'en dire plus, ou est-ce que vous...<PAGE><lf>Cet entretien est terminé.<PAGE><lf>Connasse.
+<string>Hein ?
+<string>Oui, oui... mais cela n'explique pas<lf>les rumeurs qui courent sur l'orphelinat.
+<string>Et le fait qu'Umbrella fasse partie des bienfaiteurs<lf>ne peut pas être qu'une simple coïncidence.
+<string>Je croyais que cet entretien portait sur la nouvelle<lf>bourse d'études mise en place par Umbrella.
+<string>Oh, Annette. Tout le monde s'en fiche de ça.
+<string>Les gens veulent en savoir plus sur le virus G...
+<string>Où avez-vous entendu parler de ça ?
+<string>et sur ce putain de gouffre dans la ville qui, d'après la rumeur,
+<string>mène tout droit vers votre labo souterrain.
+<string>Labo ?
+<string>Alors, vous allez m'en dire plus, ou est-ce que vous...
+<string>Cet entretien est terminé.
+<string>Connasse.

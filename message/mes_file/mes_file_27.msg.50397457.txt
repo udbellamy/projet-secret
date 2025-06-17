@@ -1,0 +1,11 @@
+<string>Accès à la zone U
+<string>J'ai perdu le truc qui expliquait comment<lf>ouvrir la porte de la zone U pendant le<lf>dernier transfert. Je sais qu'il faut brancher<lf>une prise dans chaque terminal, mais si<lf>quelqu'un se rappelle de l'ordre, soyez<lf>sympa et affichez l'info sur ce tableau.
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

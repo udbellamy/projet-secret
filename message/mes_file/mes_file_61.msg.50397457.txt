@@ -1,0 +1,11 @@
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_File_61_00
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_File_61_01
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_File_61_02
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_File_61_03
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

@@ -1,0 +1,11 @@
+<string>Journal de _____
+<string>si vou lisé ca<lf>apelé la police<lf><lf>les croc miténe son la<lf>ils mange tou le monde<lf>il y a plin de croc miténe
+<string>au secour<lf>ils arive<lf>aide moi maman
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

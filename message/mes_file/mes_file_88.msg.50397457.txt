@@ -1,0 +1,11 @@
+<string>E-mails au QG d'Umbrella
+<string>Directeur Owens,<lf>Des alarmes se sont déclenchées dans tout le<lf>NEST. Je ne sais pas ce qui se passe, mais<lf>j'entends des tirs et je n'arrive pas à joindre<lf>mon chef de section. On est pris au piège.<lf>Envoyez de l'aide au plus vite.
+<string>Directeur Owens,<lf>La situation ici est désespérée. Le NEST a<lf>été contaminé par le virus. C'est incroyable.<lf>Le système de sécurité ne s'est pas activé.<lf>Il a été installé par des sous-traitants ? Je<lf>suppose que oui. Mais pourquoi ? Mayer<lf>et Kim sont morts. Je n'arrête pas de tousser.<lf>Pourquoi vous ne répondez pas ?
+<string>Directeur Owens,<lf>Vous... C'était vous depuis le
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

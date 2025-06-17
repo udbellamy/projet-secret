@@ -1,0 +1,14 @@
+<string><TIME 4.78, 8.01><TIME 9.64, 13.0><TIME 13.45, 15.52><TIME 15.57, 18.41><TIME 19.09, 22.51><TIME 24.97, 26.93><TIME 28.39, 29.97><TIME 30.79, 36.01><TIME 36.32, 42.15><TIME 42.92, 44.79><TIME 47.26, 48.61><TIME 52.47, 58.5><TIME 61.25, 62.49>Merde, ça a l'air sérieux.<PAGE><lf>Et ça fait un mal de chien.<PAGE><lf>Par rapport à tout à l'heure...<lf>Je sais pas si je dois vous croire...<PAGE><lf>Promets-moi de détruire l'échantillon du virus G.<PAGE><lf>Non. C'est une preuve. Ça ira au FBI.<PAGE><lf>Tu crois cette garce ?<PAGE><lf>Qu'est-ce que vous voulez dire ?<PAGE><lf>Elle n'est pas du FBI, c'est une mercenaire.<PAGE><lf>Elle va le vendre. Le virus G va aller au plus offrant.<PAGE><lf>C'est des conneries.<PAGE><lf>J'espère me tromper...<PAGE><lf>Mais si le virus G... tombe dans de mauvaises mains...<PAGE><lf>
+<string>Merde, ça a l'air sérieux.
+<string>Et ça fait un mal de chien.
+<string>Par rapport à tout à l'heure...<lf>Je sais pas si je dois vous croire...
+<string>Promets-moi de détruire l'échantillon du virus G.
+<string>Non. C'est une preuve. Ça ira au FBI.
+<string>Tu crois cette garce ?
+<string>Qu'est-ce que vous voulez dire ?
+<string>Elle n'est pas du FBI, c'est une mercenaire.
+<string>Elle va le vendre. Le virus G va aller au plus offrant.
+<string>C'est des conneries.
+<string>J'espère me tromper...
+<string>Mais si le virus G... tombe dans de mauvaises mains...
+<string>

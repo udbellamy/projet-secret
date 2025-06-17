@@ -1,0 +1,11 @@
+<string>Note de Leon
+<string>Claire,<lf><lf>J'espère que tu trouveras ceci. Cet endroit<lf>grouille de monstres, et ton frère n'est pas<lf>ici.
+<string>Tu dois t'en aller aussi vite que possible.<lf>J'espère qu'il ne t'est rien arrivé.<lf><lf><RIGHT>Leon
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

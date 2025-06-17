@@ -1,0 +1,4 @@
+<string><TIME 16.17, 17.23><TIME 24.18, 25.83><TIME 28.87, 30.34>Ada...<PAGE><lf>Ada ?<PAGE><lf>Merde.
+<string>Ada...
+<string>Ada ?
+<string>Merde.

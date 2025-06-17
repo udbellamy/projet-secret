@@ -1,0 +1,4 @@
+<string><TIME 17.77, 18.48><TIME 18.72, 20.39><TIME 21.80, 24.00>Allô ?<PAGE><lf>Content de te revoir, Claire.<PAGE><lf>On a une affaire à régler, toi et moi.
+<string>Allô ?
+<string>Content de te revoir, Claire.
+<string>On a une affaire à régler, toi et moi.

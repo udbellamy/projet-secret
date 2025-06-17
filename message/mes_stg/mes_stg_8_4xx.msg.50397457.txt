@@ -1,0 +1,13 @@
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_8_4_001
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_8_4_002
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_8_4_003
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_8_4_004
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_8_4_005
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_8_4_006
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_8_4_007
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_8_4_008
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_8_4_009
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_8_4_010
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_8_4_011
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_8_4_012
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_8_4_013

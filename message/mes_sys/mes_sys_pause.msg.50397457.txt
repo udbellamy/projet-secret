@@ -1,0 +1,10 @@
+<string>Continuer
+<string>Quitter
+<string>Tenues
+<string>Quitter le menu Pause et reprendre la partie.
+<string>Retourner à l'écran titre.
+<string>Changer de tenue.
+<string>PAUSE
+<string><ICON DEFAULT> Passer
+<string><ICON DECIDE> Passer
+<string><ICON CANCEL> Retour

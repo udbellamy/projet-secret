@@ -1,0 +1,65 @@
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_MainPurpose_XXX
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_0
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_1
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_2
+<string>
+<string>Explorer les environs
+<string>Inspecter le magasin
+<string>S'échapper du magasin
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_030_p
+<string>Rejoindre le commissariat
+<string>Explorer le commissariat
+<string>Inspecter l'aile est
+<string>Retourner dans le hall principal
+<string>Trouver l'accès au souterrain
+<string>Trouver les trois médaillons
+<string>Activer la statue de déesse
+<string>Obtenu : <ITEM2 sm73_102>
+<string>Obtenu : <ITEM2 sm73_139>
+<string>Obtenu : <ITEM2 sm73_145>
+<string>Fouiller le commissariat
+<string>Trouver une issue
+<string>Obtenir la carte de parking 
+<string>Trouver les pièces du panneau électrique
+<string>Obtenir la carte de parking
+<string>Obtenu : <ITEM2 sm73_147>
+<string>Obtenu : <ITEM2 sm73_148>
+<string>S'échapper du parking
+<string>Parler à Ada
+<string>Trouver Annette
+<string>Trouver Ada
+<string>Sauver Ada
+<string>Trouver les prises
+<string>Utiliser les prises pour ouvrir la porte
+<string>Obtenu : <ITEM2 sm73_115>
+<string>Obtenu : <ITEM2 sm73_156>
+<string>Obtenu : <ITEM2 sm73_116>
+<string>Sauver Ada
+<string>Échapper au chef Irons
+<string>Sauver Sherry de l'orphelinat
+<string>Trouver Sherry
+<string>Sauver Sherry
+<string>Trouver les prises
+<string>Utiliser les prises pour ouvrir la porte
+<string>Obtenu : <ITEM2 sm73_115>
+<string>Obtenu : <ITEM2 sm73_156>
+<string>Obtenu : <ITEM2 sm73_116>
+<string>Sauver Sherry
+<string>Aller dans le labo
+<string>Fouiller le labo
+<string>Aller dans la zone ouest
+<string>Nouvelle version : <ITEM2 sm73_431>
+<string>Améliorer le bracelet d'identification
+<string>Détruire la plante 43
+<string>Obtenu : <ITEM2 sm73_414>
+<string>Obtenu : <ITEM2 sm73_415>
+<string>Obtenu : <ITEM2 sm73_416>
+<string>Améliorer le bracelet d'identification
+<string>Obtenir le virus G dans la zone ouest
+<string>Retourner auprès d'Ada
+<string>Obtenir l'agent antiviral dans la zone ouest
+<string>Retourner auprès de Sherry
+<string>S'échapper du labo
+<string>Rejoindre le dernier wagon
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_520_p
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_270_a0

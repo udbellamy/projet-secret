@@ -1,0 +1,67 @@
+<string>Utiliser
+<string>Examiner
+<string>Raccourci
+<string>Équiper
+<string>Déséquiper
+<string>Équiper
+<string>Déséquiper
+<string>Attacher
+<string>Retirer des éléments
+<string>Échanger
+<string><ICON DECIDE>　Examiner
+<string>Combiner
+<string>Combiner
+<string>Jeter
+<string>Déposer
+<string>Prendre
+<string>Échanger
+<string>Rien de particulier.
+<string>ÉLÉMENTS
+<string>OK
+<string>ATTENTION
+<string>DANGER
+<string>POISON
+<string>Aucune donnée
+<string>Utiliser l'objet.
+<string>Combiner des objets.
+<string>Examiner l'objet.
+<string>Déposer un objet.
+<string>Équiper une arme.
+<string>Déséquiper une arme.
+<string>Équiper une arme secondaire.
+<string>Déséquiper une arme secondaire.
+<string>Retirer des éléments de personnalisation.
+<string>Mettre en raccourci.
+<string>Jeter l'objet.
+<string>Sélectionnez un emplacement.
+<string>Sélectionnez un autre objet.
+<string>Sélectionnez un nouvel emplacement pour cet objet.
+<string>Échanger les objets.
+<string>Sélectionnez un objet à utiliser.
+<string>Sélectionnez un objet à déposer.
+<string>Déposer cet objet dans le coffre.
+<string>Sélectionnez un objet à prendre.
+<string>Prendre cet objet du coffre.
+<string>Remplacer par le nouvel objet.
+<string>Les objets jetés ne peuvent pas être récupérés.<lf><lf>Jeter cet objet ?
+<string>Munitions
+<string>Ressource
+<string>Élément
+<string>Objet de soin
+<string>Objet clé
+<string>Arme secondaire
+<string>Arme principale
+<string>Arme de poing
+<string>Pistolet de gros calibre
+<string>Fusil à pompe
+<string>Pistolet-mitrailleur
+<string>MAG
+<string>Lance-grenades
+<string>Lance-flammes
+<string>Arme incapacitante
+<string>Arme antichar
+<string>Gatling
+<string>Appareil de piratage
+<string>E
+<string>Votre inventaire est plein.
+<string>Trier

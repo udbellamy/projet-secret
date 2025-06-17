@@ -1,0 +1,12 @@
+<string><TIME 14.83, 19.41><TIME 34.69, 38.0><TIME 40.29, 43.5><TIME 48.61, 50.0><TIME 51.36, 55.24><TIME 56.5, 59.0><TIME 60.72, 63.24><TIME 65.21, 67.0><TIME 68.14, 69.65><TIME 70.59, 72.0><TIME 76.5, 81.87>Oh, merde...<lf>Oh... Oh mon Dieu...<PAGE><lf>Hé ! Hé, petite !<PAGE><lf>Tu peux venir... C'est terminé.<PAGE><lf>Tu es sûre ?<PAGE><lf>Oui, c'est promis. Tout va bien.<PAGE><lf>Est-ce que tu pourrais abaisser cette échelle pour moi ?<PAGE><lf>Tu m'aideras à retrouver ma maman ?<PAGE><lf>Ta mère est ici ?<PAGE><lf>Je crois, oui.<PAGE><lf>J'espère.<PAGE><lf>Oui... bien sûr. Je vais t'aider.
+<string>Oh, merde...<lf>Oh... Oh mon Dieu...
+<string>Hé ! Hé, petite !
+<string>Tu peux venir... C'est terminé.
+<string>Tu es sûre ?
+<string>Oui, c'est promis. Tout va bien.
+<string>Est-ce que tu pourrais abaisser cette échelle pour moi ?
+<string>Tu m'aideras à retrouver ma maman ?
+<string>Ta mère est ici ?
+<string>Je crois, oui.
+<string>J'espère.
+<string>Oui... bien sûr. Je vais t'aider.

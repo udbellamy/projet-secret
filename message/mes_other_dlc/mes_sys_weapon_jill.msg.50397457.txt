@@ -1,0 +1,6 @@
+<string>Samurai Edge (Jill)
+<string>Samurai Edge (Jill)
+<string>Un pistolet équipé d'un arrêtoir de<lf>culasse plus petit permettant de<lf>dégainer plus facilement.<lf>Capacité : 15 coups (9 mm)
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7020_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7020_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7020_3

@@ -1,0 +1,11 @@
+<string>Aux survivants éventuels
+<string>Considérez ceci comme un cadeau destiné<lf>à ceux qui ont la malchance d'être en vie.<lf><lf>Restez à l'affût de ces atrocités qui ont<lf>l'air d'avoir été écorchées vives... les<lf>"Lickers". Ils sont complètement <COL FILE_EMP>aveugles</COLOR>,<lf>mais ils compensent grâce à leur ouïe très<lf>développée.
+<string>Tant que vous ne courez pas partout comme<lf>un abruti en tirant sur tout ce qui bouge, vous<lf>devriez vous en sortir... avec un peu de chance.<lf><lf>Quoi qu'il en soit, avancez aussi lentement que<lf>ma grand-mère quand vous passez à côté d'eux.
+<string>Bon, c'est pas que j'ai envie d'y aller, mais le<lf>devoir m'appelle. Et puis j'ai un copain à venger.<lf><lf><RIGHT>David
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

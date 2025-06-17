@@ -1,0 +1,11 @@
+<string>Synthèse d'herbicide
+<string>Synthèse d'<COL FILE_EMP>herbicide</COLOR> pour plante 43<lf>1. Placer une cartouche vide dans le distributeur<lf>   de solution<lf>2. Injecter le volume nécessaire d'UMB N°21 (P-ε) <lf>3. <COL FILE_EMP>Refroidir</COLOR> immédiatement
+<string>La croissance de la plante 43 est phénoménale.<lf>Si jamais un incident venait à se produire,<lf>elle pourrait échapper à notre contrôle. Si<lf>c'était le cas, fabriquez l'herbicide à l'aide<lf>des instructions ci-dessus pour minimiser les<lf>dégâts.
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

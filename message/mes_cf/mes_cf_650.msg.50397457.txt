@@ -1,0 +1,24 @@
+<string><TIME 10.0, 11.63><TIME 17.0, 18.21><TIME 22.5, 24.23>J'aime pas ce bruit...<PAGE><lf>Où est-elle ?<PAGE><lf>Ada !
+<string>J'aime pas ce bruit...
+<string>Où est-elle ?
+<string>Ada !
+<string><TIME 8.15, 9.36><TIME 9.37, 13.7><TIME 13.73, 15.4><TIME 15.48, 16.54><TIME 16.56, 19.35><TIME 20.69, 22.2><TIME 23.85, 25.27><TIME 25.3, 27.48><TIME 27.49, 29.63><TIME 29.76, 31.43><TIME 31.47, 33.24><TIME 33.24, 35.52><TIME 35.53, 39.07><TIME 45.48, 49.24>Qu'est-ce que c'est... ?<PAGE><lf>Sherry... Je te l'ai dit, je ne peux pas sortir<lf>d'ici avant d'avoir fini mon travail.<PAGE><lf>Tu dis tout le temps ça.<PAGE><lf>Sherry ?<PAGE><lf>Pourquoi tu es pas restée à la maison ?<lf>Tu étais en sécurité là-bas !<PAGE><lf>Hé ! Sherry !<PAGE><lf>J'avais peur !<PAGE><lf>Ces monstres étaient partout et...<PAGE><lf>T'aurais dû appeler la police !<PAGE><lf>C'est pourtant ce qu'on t'a appris.<PAGE><lf>Je l'ai fait, mais personne n'est venu.<PAGE><lf>Et tu répondais pas au téléphone alors...<PAGE><lf>Sherry, je n'ai pas le temps de discuter !<PAGE><lf>Oh, non...<lf>Sherry ! Sherry, j'arrive !
+<string>Non ! Je veux rentrer à la maison. S'il te plaît !
+<string><COLOR FF0000>#Rejected#</COLOR> CF650_2020_pl3000
+<string>Qu'est-ce que c'est... ?
+<string>Sherry... Je te l'ai dit, je ne peux pas sortir<lf>d'ici avant d'avoir fini mon travail.
+<string>Tu dis tout le temps ça.
+<string>Sherry ?
+<string>Pourquoi tu es pas restée à la maison ?<lf>Tu étais en sécurité là-bas !
+<string><COLOR FF0000>#Rejected#</COLOR> CF650_2080_pl5300
+<string>Hé ! Sherry !
+<string>J'avais peur !
+<string>Ces monstres étaient partout et...
+<string>T'aurais dû appeler la police !
+<string>C'est pourtant ce qu'on t'a appris.
+<string>Je l'ai fait, mais personne n'est venu.
+<string><COLOR FF0000>#Rejected#</COLOR> CF650_2150_pl3000
+<string>Et tu répondais pas au téléphone alors...
+<string>Quoi ?
+<string>Sherry, je n'ai pas le temps de discuter !
+<string>Oh, non...<lf>Sherry ! Sherry, j'arrive !

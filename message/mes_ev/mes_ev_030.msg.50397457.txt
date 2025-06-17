@@ -1,0 +1,30 @@
+<string><COLOR FF0000>#Rejected#</COLOR> EV030_0010_pl7500_14
+<string><COLOR FF0000>#Rejected#</COLOR> EV030_0011_pl7500_14
+<string><COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500_14
+<string><COLOR FF0000>#Rejected#</COLOR> EV030_0030_pl7500_14
+<string><COLOR FF0000>#Rejected#</COLOR> EV030_0040_pl0000_14
+<string><COLOR FF0000>#Rejected#</COLOR> EV030_0041_pl0000_14
+<string><COLOR FF0000>#Rejected#</COLOR> EV030_0050_pl7500_14
+<string>
+<string><TIME 2.20, 2.80><TIME 3.00, 3.90><TIME 4.50, 5.80><TIME 8.00, 11.30><TIME 12.00, 13.00><TIME 15.00, 16.00>Arrête de bouger !<PAGE><lf>Est-ce que tout va bien ?<PAGE><lf>Reculez monsieur, je m'en occupe.<PAGE><lf>Hé ! Hé !<lf>Lâche-le tout de suite !<PAGE><lf>Au secours...<PAGE><lf>Oh putain...
+<string>Arrête de bouger !
+<string><COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500
+<string>Est-ce que tout va bien ?
+<string>Reculez monsieur, je m'en occupe.
+<string>Hé ! Hé !<lf>Lâche-le tout de suite !
+<string>Oh putain...
+<string>Au secours...
+<string>
+<string>
+<string>
+<string><TIME 1.67, 2.8><TIME 2.81, 4.48><TIME 4.54, 6.0><TIME 8.45, 9.81><TIME 12.67, 17.01>Bouge pas, je te dis !<PAGE><lf>Excusez-moi, mais tout va bien ?<PAGE><lf>N'approchez pas, je m'en occupe.<PAGE><lf>Oh mon Dieu...<PAGE><lf>Lâche-le !<lf>J'ai dit lâche-le !<lf>
+<string>Bouge pas, je te dis !
+<string>Arrête de bouger !
+<string>Excusez-moi, mais tout va bien ?
+<string>N'approchez pas, je m'en occupe.
+<string>Putain ! Au secours !
+<string>
+<string>Oh mon Dieu...
+<string>
+<string>Lâche-le !<lf>J'ai dit lâche-le !
+<string>

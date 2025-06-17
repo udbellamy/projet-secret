@@ -1,0 +1,6 @@
+<string>Samurai Edge (Chris)
+<string>Samurai Edge (Chris)
+<string>Un pistolet avec glissière en acier et<lf>gâchette argentée pour une meilleure<lf>prise en main et plus de précision.<lf>Capacité : 15 coups (9 mm)
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7010_1
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7010_2
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_DETAIL_WP7010_3

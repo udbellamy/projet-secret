@@ -1,0 +1,11 @@
+<string>Mensuel de Raccoon City, juin
+<string>À l'attention des héros de Raccoon City !<lf>Qui est l'homme le plus craint et le plus<lf>respecté de la ville ? La réponse est évidente<lf>pour tout habitant de notre belle ville.<lf>C'est ça ! Le chef de la Police, Brian Irons :<lf>la terreur des criminels et le père strict mais<lf>magnanime qui aime tous ses citoyens<lf>en dépit de leurs péchés.
+<string>Le chef Irons est célèbre pour son implication<lf>dans des œuvres caritatives, notamment ses dons<lf>conséquents à l'orphelinat, à la protection des<lf>femmes battues, à la préservation de l'art, à<lf>la protection animale... Entre autres !<lf>Quand donc dort notre héros ? Il a répondu à<lf>cette question en ces termes : "La ville est ma<lf>famille. Il est normal que j'en prenne soin."
+<string>
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

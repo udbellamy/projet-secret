@@ -1,0 +1,3 @@
+<string>Statue de lion
+<string>
+<string><END>

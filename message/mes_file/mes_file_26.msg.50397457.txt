@@ -1,0 +1,11 @@
+<string>Brochure Société des égouts
+<string>Message du PDG<lf>Merci pour l'intérêt que vous portez à Knights<lf>Construction Company. Au cours des 20 dernières<lf>années, nous avons eu l'honneur de travailler<lf>sur le système d'évacuation des eaux usées des<lf>plus grandes villes de notre pays, sans jamais<lf>perdre de vue nos deux principes fondateurs que<lf>sont le design et l'aspect ludique.
+<string>Chez KCC, nous pensons que le fait que notre<lf>œuvre soit souterraine n'empêche pas notre<lf>niveau de qualité de dépasser les attentes.<lf><lf>Plus raffiné qu'une reine, plus perfectionné<lf>qu'un cavalier et aussi plaisant qu'un pion,<lf>notre travail garantit la victoire à nos clients !
+<string>Dans l'espoir de vous rencontrer.<lf><lf><RIGHT>PDG de Knights Construction Company<lf><RIGHT>Membre de l'Alliance d'échecs<lf><RIGHT>Conseiller du Club d'échecs de Raccoon<lf><RIGHT>Directeur de la Guilde des amateurs d'échecs<lf><RIGHT>R.B. Fischer
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

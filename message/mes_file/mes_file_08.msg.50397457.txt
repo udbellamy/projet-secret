@@ -1,0 +1,11 @@
+<string>Copie d'e-mails au chef Irons
+<string>Chef Irons,<lf>En remerciement de votre soutien indéfectible,<lf>j'ai déposé une petite somme sur votre compte,<lf>à utiliser à votre guise. J'espère que vous<lf>poursuivrez la surveillance de vos subordonnés,<lf>notamment les survivants du manoir.<lf>Débarrassez-vous d'eux si nécessaire.<lf><RIGHT>W. B.
+<string>Chef Irons,<lf>Je suis confronté à un problème avec le siège<lf>d'Umbrella. Les dirigeants veulent s'emparer<lf>du fruit de mes recherches. Ne vous en faites<lf>pas, tout cela sera vite réglé. Continuez<lf>simplement de suivre mes instructions et tout<lf>ira bien.<lf><RIGHT> W. B.
+<string>Chef Irons,<lf>Vous devez accroître la sécurité de mon labo.<lf>Vos gorilles doivent tirer à vue sur tout<lf>individu louche. Quitte à le tuer, et ce même<lf>s'il s'agit d'un employé d'Umbrella. Je suis<lf>sur le point de terminer le virus G, et aucun<lf>enfoiré ne m'en empêchera.<lf><RIGHT> W. B.
+<string>Chef Irons,<lf>Reprenez-vous et faites votre boulot ! Je vous<lf>ai dit que j'avais besoin d'une sécurité accrue<lf>dans les égouts ! Vous ne comprenez pas à<lf>quel point l'instant est critique ? Je vous<lf>paierai ce que vous voulez quand j'aurai pris<lf>le contrôle, pas avant. N'oubliez pas que je<lf>peux vous remplacer.<lf><RIGHT> W. B.
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>

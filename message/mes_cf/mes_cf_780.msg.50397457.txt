@@ -1,0 +1,4 @@
+<string><TIME 15.61, 16.94><TIME 17.33, 19.78><TIME 32.8, 34.18><PAGE><lf><PAGE><lf>Faut pas que je reste là !
+<string>
+<string>
+<string>Faut pas que je reste là !

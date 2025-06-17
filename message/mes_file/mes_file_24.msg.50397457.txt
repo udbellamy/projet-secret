@@ -1,0 +1,11 @@
+<string>Lettre du directeur
+<string>Au sujet de l'incident en question, je suis<lf>ravi de vous apprendre que tout a été réglé.<lf><lf>Le 19 février, le sujet 628 s'est enfui du labo<lf>et a pénétré dans le bâtiment. 628 était issu<lf>du groupe de candidats de ce site, et semble<lf>y être retourné pour obtenir "de l'aide". 628<lf>a rapidement été interpellé par notre équipe.
+<string>628 ayant participé aux essais cliniques du<lf>labo, il était possible qu'il ait emporté le<lf>virus avec lui. Nous avons donc éliminé tous<lf>les candidats par précaution. Leur éradication<lf>rapide a été menée à bien par l'équipe de<lf>sécurité, à laquelle j'aimerais transmettre<lf>tous mes remerciements.
+<string>Quant à nos voisins, nous leur avons dit qu'en<lf>raison de l'état de vétusté du bâtiment, nous<lf>avions déplacé temporairement tous les enfants<lf>dans un autre orphelinat pour leur sécurité.<lf><lf>Une fois ce site entièrement décontaminé, je<lf>compte reprendre le rassemblement de sujets<lf>expérimentaux potentiels.
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

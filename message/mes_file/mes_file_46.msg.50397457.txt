@@ -1,0 +1,11 @@
+<string>Lettre de la meilleure amie
+<string>Chère Claire,<lf>Tout d'abord, merci pour ta lettre.<lf>Bon, je ne vais pas y aller par quatre chemins :<lf><lf>Ce que tu comptes faire, c'est de la folie.<lf>Je n'arrive pas à croire que tu aies décidé de<lf>rouler jusqu'à Raccoon City, juste pour voir<lf>ton frère ! Tu es tombée sur la tête ?
+<string>Je sais que Chris compte beaucoup pour toi,<lf>et que tu n'as pas pu le joindre depuis un mois,<lf>mais t'es dingue.<lf><lf>Tu sais combien de pervers et de salopards<lf>attendent qu'une jeune et jolie étudiante<lf>s'amène pour profiter d'elle ? C'est trop<lf>dangereux de partir seule.
+<string>Mais ta décision est prise, pas vrai ?<lf>Je comprends. Mais promets-moi juste de<lf>m'appeler en arrivant à Raccoon City. Ne<lf>laisse pas ta meilleure pote sans nouvelles,<lf>d'accord ?<lf><lf>Je t'adore !
+<string>PS : Même si ton frère est le célèbre Chris<lf>Redfield et qu'il t'a appris à te battre et à<lf>utiliser un flingue, ça te rend pas invincible,<lf>alors fais attention à toi !
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>

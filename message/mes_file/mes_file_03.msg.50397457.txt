@@ -1,0 +1,11 @@
+<string>Lettre aux membres du S.T.A.R.S.
+<string>À mes copains du S.T.A.R.S.,<lf><lf>Comment ça se passe au commissariat ?<lf>Vous tenez le coup face au vieux Irons ?<lf>Moi, je reviens tout juste d'un rencard avec<lf>un avion de chasse. Je vous laisse imaginer<lf>ce qui s'est passé sous son grand parapluie.
+<string>L'Europe, c'est génial. Un mois ne suffit pas<lf>pour avoir ne serait-ce qu'un aperçu. Je vais<lf>peut-être prolonger mes vacances de six mois.<lf><lf>Barry, n'envisage même pas de me rejoindre.<lf>Tu voudrais pas faire peur aux jolies filles,<lf>hein ? Alors laisse-les-moi.
+<string>Jill, si Claire essaie de te contacter, dis-lui<lf>que je vais bien.<lf><lf><RIGHT>Chris Redfield, 29 août
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

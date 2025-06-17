@@ -1,0 +1,153 @@
+<string>Exploration terminée
+<string>Exploration en cours
+<string>Aucune info
+<string>Magasin
+<string>Rues de la ville
+<string>Hall principal
+<string>Hall principal
+<string>Hall principal
+<string>Entrée
+<string>Réception
+<string>Archives
+<string>Salle des<ENT>opérations
+<string>Salle<ENT>des casiers
+<string>Bureau ouest
+<string>Chambre<ENT>noire
+<string>Escalier<ENT>de secours
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_211_0
+<string>Chaufferie
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_213_0
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_214_0
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_215_0
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_216_0
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_301_0
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_303_0
+<string>Bureau est
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_305_0
+<string>Salle de<ENT>conférence
+<string>Salle<ENT>d'interrogatoire
+<string>Salle<ENT>d'observation
+<string><ENT>Salle<ENT>de pause
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_310_0
+<string>Toilettes
+<string>Salle du<ENT>gardien
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_313_0
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_314_0
+<string>Douches
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_403_0
+<string>Bureau du S.T.A.R.S.
+<string>Armurerie
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_406_0
+<string>Salon
+<string>Bibliothèque
+<string>Buanderie
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_410_0
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_411_0
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_412_0
+<string>Salle d'attente
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_502_0
+<string>Salle d'art
+<string>Bureau du Chef
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_505_0
+<string>Collection<ENT>privée
+<string>Toit
+<string>Escalier de secours
+<string>Bibliothèque
+<string>Tour de l'horloge
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_603_0
+<string>Salle de stockage<ENT>ouest
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_605_0
+<string>Terrasse
+<string>Salle de stockage<ENT>est
+<string>Collection privée
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_610_0
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_650_0
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_701_0
+<string>Morgue
+<string>Salle du<ENT>générateur
+<string>Stand de tir
+<string>Parking
+<string>Chenil
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_712_0
+<string>Cellules
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_750_0
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_751_0
+<string>Commande de<ENT>l'ascenseur
+<string>Loge
+<string>Salle secrète
+<string>Escalier souterrain
+<string>Salle des machines
+<string>Salle des<ENT>techniciens
+<string>Armurerie
+<string>Terrain de basket
+<string>Cour de l'orphelinat
+<string>Chantier
+<string>Vieux canal
+<string>Ancienne salle de stockage
+<string>Hall
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_602_0
+<string>Salle du directeur
+<string>Chambre
+<string>Nurserie
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_608_0
+<string>Salle de bain
+<string>Sous-sol
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_613_0
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_614_0
+<string>Passage 
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_602_0
+<string>Écluse
+<string>Canal supérieur
+<string>Atelier
+<string>Canal inférieur
+<string>Monte-charge<ENT>de l'atelier
+<string>Salle d'injection<ENT>de l'eau
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_614_0
+<string>Salle de<ENT>pause
+<string>Bureau
+<string>Canal inférieur
+<string>Canal inférieur<ENT>secondaire
+<string>Salle de stockage
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_627_0
+<string>Bassin de traitement
+<string>Salle de contrôle
+<string>Plateforme<ENT>du funiculaire
+<string>Salle de<ENT>surveillance
+<string>Salle de purification<ENT>de l'eau
+<string>Salle d'alimentation<ENT>principale
+<string>Décharge
+<string>Incinérateur
+<string>Couloir de la salle<ENT>de contrôle
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_652_0
+<string>Zone nord
+<string>Zone est
+<string>Zone ouest
+<string>Plateforme<ENT>du funiculaire
+<string>Salle de<ENT>sécurité
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_104_0
+<string>Cafétéria
+<string>Cuisine
+<string>Réception
+<string>Ascenseur<ENT>principal
+<string>Salle de sieste
+<string>Lobby
+<string>Salle de<ENT>conférence 
+<string>Salle de contrôle<ENT>de la serre
+<string>Serre
+<string>Labo de test<ENT>des médicaments
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_125_0
+<string>Salon
+<string>Labo de test<ENT>basse température
+<string>Salle des serveurs
+<string>Labo de test<ENT>biologique
+<string>Salle des<ENT>bioréacteurs
+<string>Labo de test<ENT>niveau P-4
+<string>Salle de<ENT>surveillance
+<string>Salle de pompage
+<string>Passage
+<string>Passage
+<string>Monte-charge
+<string>Plaque tournante
+<string>Conduit<ENT>de secours
+<string>Quai
+<string>Fourgon à bagages

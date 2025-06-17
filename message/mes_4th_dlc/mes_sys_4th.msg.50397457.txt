@@ -1,0 +1,2 @@
+<string>Le 4e survivant
+<string>Jouer au mode "Le 4e survivant".

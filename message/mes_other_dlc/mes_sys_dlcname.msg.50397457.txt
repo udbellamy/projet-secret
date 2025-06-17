@@ -1,0 +1,17 @@
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_DLCName_4th
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_DLCName_Tofu
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_DLCName_Rogue
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_DLCName_AllRewards
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_DLCName_BgmChange
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_DLCName_LeonCos_Sheriff
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_DLCName_LeonCos_Noir
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_DLCName_LeonCos_Original
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_DLCName_ClaireCos_Military
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_DLCName_ClaireCos_Noir
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_DLCName_ClaireCos_Original
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_DLCName_ClaireCos_Elza
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_DLCName_Weapon_Chris
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_DLCName_Weapon_Jill
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_DLCName_Weapon_Albert
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_DLCName_Theme
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_DLCName_Wallpaper

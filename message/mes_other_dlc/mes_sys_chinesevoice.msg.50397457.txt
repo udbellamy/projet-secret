@@ -1,0 +1,4 @@
+<string>Chinois [zh]
+<string>Le doublage chinois a été ajouté.<lf>Vous pouvez changer la langue des voix via :<lf>Options → Langue → Voix
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_ChineseVoice_DLCError
+<string>Pack de voix : Chinois mandarin

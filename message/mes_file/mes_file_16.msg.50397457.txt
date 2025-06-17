@@ -1,0 +1,11 @@
+<string>Lettre du réparateur
+<string>D'après ce que vous nous dites concernant<lf>le système de verrouillage électronique<lf>de la porte à barreaux dans le bureau du<lf>chef de la police, il semble que quelque<lf>chose doive être remplacé.<lf><lf>Il vous faut des <COL FILE_EMP>pièces de panneau électrique</COLOR><lf>pour résoudre ce problème. Justement, un<lf>réparateur d'une de nos boutiques est au<lf>commissariat pour réparer la cloche de<lf>l'horloge.
+<string>Il a emporté quelques pièces, et il a dit<lf>en avoir laissé une dans la <COL FILE_EMP>salle de stockage<lf>est</COLOR> du niveau 3F. En cas de problème,<lf>ou s'il vous en faut d'autres, n'hésitez<lf>pas à aller le voir dans la <COL FILE_EMP>tour de l'horloge</COLOR>.<lf><lf>Cordialement.
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

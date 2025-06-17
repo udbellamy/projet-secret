@@ -1,0 +1,11 @@
+<string>Brochure
+<string>Bienvenue à Raccoon City !<lf><lf>Le saviez-vous ? Raccoon City n'est pas<lf>seulement le berceau d'Umbrella, géant de<lf>l'industrie pharmaceutique, elle a également<lf>une histoire riche et passionnante.<lf>Ce guide vous présente quelques-uns des<lf>aspects insolites de notre ville.
+<string>Commissariat de Raccoon City<lf><lf>Le bâtiment situé en plein cœur de la ville<lf>n'a pas toujours été un commissariat : il<lf>abritait autrefois un musée. Certains éléments,<lf>comme son horloge pittoresque et la statue de<lf>déesse dans le hall principal, sont les vestiges<lf>de cette époque révolue.
+<string>Orphelinat<lf><lf>À quelques rues du commissariat se trouve un<lf>orphelinat fondé et géré par Umbrella, avec<lf>l'aide généreuse d'entreprises et de particuliers.<lf>Le bâtiment est célèbre pour son vitrail, qui<lf>attire des visiteurs venus du monde entier.
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

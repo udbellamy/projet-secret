@@ -1,0 +1,11 @@
+<string>Journal de Tom
+<string>5 février<lf>Ça fait 2 mois que j'ai envoyé cette lettre à<lf>Oliver, et toujours pas de réponse.<lf>De toute façon, c'est toujours pareil quand<lf>ils sont adoptés. Je parie qu'il vit comme un<lf>prince dans une belle maison et qu'il nous a<lf>oubliés. Je croyais qu'Oliver était différent,<lf>qu'il serait toujours mon ami. Je suis stupide.
+<string>8 février<lf>Ann a rassemblé tous les petits et leur a<lf>raconté une histoire. Elle leur a dit que "Tous<lf>les enfants qui sont adoptés finissent en pâtée<lf>pour les croque-mitaines. C'est pour ça qu'on<lf>n'en entend plus jamais parler". Je sais pas<lf>où elle trouve ses idées, mais elle devrait<lf>écrire des livres d'horreur.
+<string>13 février<lf>Il se passe un truc bizarre ici, et c'est pas<lf>juste à cause des histoires d'Ann. J'ai été<lf>dans des endroits pires qu'ici, et l'orphelinat<lf>est financé par une grosse marque de médocs,<lf>mais pourquoi on peut pas appeler quelqu'un<lf>ou sortir ? Pourquoi il y a tant de docteurs ?<lf>Ces quoi, ces piqûres ? On dirait qu'on est...
+<string>14 février<lf>Je vais être adopté. Moi. La plupart des gens<lf>veulent des petits, alors je pensais que<lf>j'étais trop vieux, mais je dois avouer que je<lf>suis plutôt content. Faut être honnête ! Je<lf>dirai adios à cet endroit le 20. Je ferai de<lf>mon mieux pour être un bon fils, dont mes<lf>nouveaux parents pourront être fiers.
+<string>19 février<lf>Oliver est revenu au milieu de la nuit, en sale<lf>état, il criait "au secours" et tout... Je l'ai<lf>même pas reconnu au début, son visage était<lf>comme fondu. Il est avec les profs et les<lf>docteurs. Ils disent que c'est qu'un problème<lf>de peau. Il ira bientôt mieux, et on pourra<lf>partir à l'aventure ensemble comme avant.
+<string><END>
+<string>
+<string>
+<string>
+<string>

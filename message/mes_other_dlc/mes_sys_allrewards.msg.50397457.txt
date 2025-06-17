@@ -1,0 +1,1 @@
+<string>Les récompenses suivantes ont été débloquées :<lf><lf>Mode additionnel : Le 4e survivant<lf>Mode additionnel : Le Tofu survivant<lf>Tenues<lf>Armes bonus ∞<lf>Modèles<lf>Concept Arts<lf><lf>Note :<lf>Les armes bonus ∞ ont été placées dans le coffre à objets.<lf>Vous devez attendre que les données de jeu soient prêtes<lf>pour accéder à ces objets.

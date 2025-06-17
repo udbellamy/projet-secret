@@ -1,0 +1,11 @@
+<string>Boîte de réception : William Birkin
+<string>Expéditeur : Jane Doyle<lf>Objet : Arrêt des recherches sur "G"<lf><lf>Umbrella Corporation a décidé de mettre fin à<lf>toutes les recherches sur "G" menées dans le<lf>laboratoire souterrain du NEST. Tous les<lf>financements du projet ont été coupés et le<lf>directeur du laboratoire, William Birkin, a été<lf>démis de ses fonctions.
+<string>Expéditeur : B.E.<lf>Objet : (aucun)<lf><lf>Merci pour votre message, Dr Birkin. Nos<lf>supérieurs sont intéressés par "l'arme<lf>biologique en évolution" que vous mentionnez.<lf>Ne vous en faites pas pour le budget. Notre<lf>entreprise bénéficie des meilleurs financements<lf>des États-Unis.
+<string>Expéditeur : Richard Kessler<lf>Objet : Félicitations<lf><lf>J'ai appris la bonne nouvelle. "G" est<lf>presque prêt. Je suis surpris que vous ayez<lf>omis d'en avertir le laboratoire de recherches<lf>du siège d'Umbrella... mais je ne vous en tiens<lf>pas rigueur. Envoyez-nous les données, je vous<lf>prie.
+<string>Et ne vous en faites pas. Vous avez fait du bon<lf>travail sur "G". Nous nous occupons du reste.
+<string>Expéditeur : Jane Doyle<lf>Objet : Avertissement de sanction<lf><lf>Vous êtes soupçonné d'avoir enfreint votre<lf>contrat avec Umbrella Corporation.<lf>Nous avons la preuve que vous avez tenté<lf>de vous approprier le projet "G" et que<lf>vous entretenez des contacts illégaux avec<lf>l'armée américaine.
+<string>Vous disposez de 24 heures pour vous présenter<lf>devant le comité d'enquête.
+<string><END>
+<string>
+<string>
+<string>

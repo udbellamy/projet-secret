@@ -1,0 +1,11 @@
+<string>Inspection sept. (semaine 2)
+<string>Avec le nouveau <COL FILE_EMP>bracelet</COLOR> qui vient d'arriver,<lf>on peut enfin commencer notre analyse de la<lf>zone de démolition.<lf>Au sujet du rapport de l'autre jour concernant<lf>l'<COL FILE_EMP>incinérateur</COLOR>, c'était rien, probablement un<lf>reste de gros déchets. Je vais aller jeter un<lf>coup d'œil après avoir bouclé ce rapport.
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

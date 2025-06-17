@@ -1,0 +1,45 @@
+<string>Tenues normales
+<string>Tenues alternatives
+<string>Personnaliser
+<string>Tenues du mode Campagne
+<string>Leon
+<string>Claire
+<string>Ada
+<string>Sherry
+<string>Porter les tenues normales liées au scénario.
+<string>Porter les tenues alternatives liées au scénario.
+<string>Changer la tenue de chaque personnage individuellement.
+<string>Sélectionner une tenue.
+<string>Leon (Choix de la tenue normale)
+<string>Claire (Choix de la tenue normale)
+<string>Leon (Tenues alternatives)
+<string>Claire (Tenues alternatives)
+<string>Ada (Choix de la tenue normale)
+<string>Sherry (Choix de la tenue normale)
+<string>Leon (Choix de la tenue classique)
+<string>Claire (Choix de la tenue classique)
+<string>Sherry (Choix de la tenue classique)
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards03
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards04
+<string>Tenues normales
+<string>Tenues alternatives
+<string>Décontracté
+<string>Uniforme
+<string>Uniforme (blessé)
+<string>Uniforme classique
+<string>Uniforme classique (blessé)
+<string>Veste
+<string>Débardeur
+<string>Veste classique
+<string>Débardeur classique
+<string>Imper
+<string>Robe de soirée
+<string>Robe de soirée (blessée)
+<string>Uniforme
+<string>Uniforme (infectée)
+<string>Veste (infectée)
+<string>Veste
+<string>Uniforme classique
+<string>Uniforme classique (infectée)
+<string>Veste classique (infectée)
+<string>Veste classique

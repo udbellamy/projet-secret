@@ -1,0 +1,11 @@
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_1_1_Door_Close01
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_1_1_Door_Close02
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_1_1_WalkInCooler
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_1_1_DoorStopper
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_1_1_Search_Refueling
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_1_1_Search_Refueling_02
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_1_1_Search_Car
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_1_1_Search_door
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_1_1_Search_dog
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_1_1_Search_cafe
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_1_1_Search_kanban

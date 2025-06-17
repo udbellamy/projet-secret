@@ -1,0 +1,30 @@
+<string><TIME 0.97, 3.5><lf><TIME 4.83, 7.35><lf><TIME 8.39, 11.52><lf><TIME 12.7, 15.21><lf><TIME 19.53, 22.75><lf><TIME 23.93, 26.48><lf><TIME 28.98, 30.66><lf><TIME 34.32, 35.69><lf><TIME 39.45, 40.6><lf><TIME 40.62, 43.79><lf><TIME 45.37, 46.74><lf><TIME 47.14, 49.9><lf><TIME 50.43, 51.8><lf><TIME 52.59, 54.98><lf><TIME 55.9, 59.75><lf><TIME 61.12, 62.86><lf><TIME 63.14, 67.91><lf><TIME 68.02, 74.73><lf><TIME 75.08, 76.84><lf><TIME 76.88, 79.01><lf><TIME 79.41, 80.56><lf><TIME 82.31, 83.77><lf><TIME 83.78, 86.84><lf><TIME 88.59, 89.41><lf><TIME 89.43, 93.16><lf><TIME 94.93, 96.48><lf><TIME 97.1, 98.01><lf><TIME 98.03, 100.29><lf>Claire ? Est-ce que ça va ?<PAGE><lf>Est-ce que tu m'entends ? Claire ?<PAGE><lf>Claire, il faut te réveiller. Il va nous avoir.<PAGE><lf>Réveille-toi ! Réveille-toi !<PAGE><lf>Réveille-toi ! Réveille-toi !<PAGE><lf>Ouvre les yeux... Ne bouge pas...<PAGE><lf>Non infectée...<PAGE><lf>Sherry ?<PAGE><lf>Où est-elle ?<PAGE><lf>Sherry... Sherry va bien.<PAGE><lf>Vous la connaissez ?<PAGE><lf>Quelle incroyable démonstration de force...<PAGE><lf>Que lui est-il arrivé ?<PAGE><lf>On doit évaluer la situation...<PAGE><lf>Qui êtes-vous ? Moi, c'est Claire.<PAGE><lf>J'avais pas prévu ça...<PAGE><lf>Excusez-moi, où est-elle ?<lf>Allô ?<PAGE><lf>Hein ? Oh, Annette.<lf>Dis-moi, qu'est-ce qui est arrivé à William ?<PAGE><lf>Je sais pas. De qui vous parlez ?<PAGE><lf>La créature responsable de tout ça.<PAGE><lf>Quoi ?<PAGE><lf>Aidez-moi à retrouver Sherry.<PAGE><lf>On dirait qu'il évolue beaucoup plus vite que prévu...<PAGE><lf>Où allez-vous ?<PAGE><lf>Écoute, j'ai pas le temps de répondre à toutes tes questions.<PAGE><lf>Tout est sous contrôle, d'accord ?<PAGE><lf>Je dois retrouver Sherry...<PAGE><lf>Ne t'occupe pas de ma fille !
+<string>Claire ? Est-ce que ça va ?
+<string>Est-ce que tu m'entends ? Claire ?
+<string>Claire, il faut te réveiller. Il va nous avoir.
+<string>Réveille-toi ! Réveille-toi !
+<string>Réveille-toi ! Réveille-toi !
+<string>Ouvre les yeux... Ne bouge pas...
+<string>Non infectée...
+<string>
+<string>Sherry ?
+<string>Où est-elle ?
+<string>Sherry... Sherry va bien.
+<string>Vous la connaissez ?
+<string>Quelle incroyable démonstration de force...
+<string>Que lui est-il arrivé ?
+<string>On doit évaluer la situation...
+<string>Qui êtes-vous ? Moi, c'est Claire.
+<string>J'avais pas prévu ça...
+<string>Excusez-moi, où est-elle ?<lf>Allô ?
+<string>Hein ? Oh, Annette.<lf>Dis-moi, qu'est-ce qui est arrivé à William ?
+<string>Je sais pas. De qui vous parlez ?
+<string>La créature responsable de tout ça.
+<string>Quoi ?
+<string>Aidez-moi à retrouver Sherry.
+<string>On dirait qu'il évolue beaucoup plus vite que prévu...
+<string>Où allez-vous ?
+<string>Écoute, j'ai pas le temps de répondre à toutes tes questions.
+<string>Tout est sous contrôle, d'accord ?
+<string>Je dois retrouver Sherry...
+<string>Ne t'occupe pas de ma fille !

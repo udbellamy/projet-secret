@@ -1,0 +1,18 @@
+<string><TIME 2.15, 4.63><TIME 11.65, 12.96><TIME 14.94, 15.73><TIME 17.03, 18.32><TIME 28.95, 30.2><TIME 32.0, 32.96><TIME 33.96, 35.63><TIME 44.09, 45.59><TIME 46.69, 48.16><TIME 49.67, 52.26><TIME 54.75, 55.69><TIME 58.5, 60.28><TIME 62.0, 64.55><TIME 64.62, 67.42><TIME 67.5, 68.4><TIME 70.82, 75.48>Merde. Il me faut la carte...<PAGE><lf>Oh c'est pas vrai...<PAGE><lf><PAGE><lf>Tu vas me lâcher ?!<PAGE><lf>Hé !<PAGE><lf>Qui êtes-vous ?<PAGE><lf>Attention !<PAGE><lf>Baisse ça.<PAGE><lf>FBI.<PAGE><lf>Désolé. Merci...<PAGE><lf>Pour votre aide...<PAGE><lf>Je me demande comment tu as survécu.<PAGE><lf>FBI, hein ? Qu'est-ce qui se passe ici ?<PAGE><lf>Désolée. Cette information est confidentielle.<PAGE><lf>Vous allez où ?<PAGE><lf>Un conseil pour ton bien :<lf>ne pose pas de questions, et fiche le camp d'ici.
+<string>Merde. Il me faut la carte...
+<string>Oh c'est pas vrai...
+<string>
+<string>Tu vas me lâcher ?!
+<string>Hé !
+<string>Qui êtes-vous ?
+<string>Attention !
+<string>Baisse ça.
+<string>FBI.
+<string><COLOR FF0000>#Rejected#</COLOR> EV250_0060_pl2000
+<string>Désolé. Merci...
+<string>Pour votre aide...
+<string>Je me demande comment tu as survécu.
+<string>FBI, hein ? Qu'est-ce qui se passe ici ?
+<string>Désolée. Cette information est confidentielle.
+<string>Vous allez où ?
+<string>Un conseil pour ton bien :<lf>ne pose pas de questions, et fiche le camp d'ici.

@@ -1,0 +1,10 @@
+<string><TIME 0.74, 1.7><TIME 4.38, 5.21><TIME 11.72, 13.72><TIME 19.44, 20.35><PAGE><lf><PAGE><lf>Oh... Oh putain !<PAGE><lf>Hein ? C'est quoi ?
+<string>Oh... Oh putain !
+<string>Hein ? C'est quoi ?
+<string>
+<string>
+<string><TIME 5.19, 5.5><TIME 12.26, 14.2><TIME 18.06, 18.54><TIME 20.48, 21.24>Hein ?<PAGE><lf>Oh, bon sang ! Le pauvre...<PAGE><lf>Hein ?<PAGE><lf>Qui est là ?!
+<string>Hein ?
+<string>Oh, bon sang ! Le pauvre...
+<string>Hein ?
+<string>Qui est là ?!

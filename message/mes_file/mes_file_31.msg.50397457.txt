@@ -1,0 +1,11 @@
+<string>Inspection sept. (semaine 1)
+<string>J'ai déjà posté une demande la semaine<lf>dernière, mais on a vraiment besoin d'un<lf><COL FILE_EMP>bracelet d'identification</COLOR> de rechange.<lf>Il en faut un pour accéder à certaines<lf>zones de la structure principale.<lf>En d'autres termes, mon équipe et moi ne<lf>pouvons pas aller faire notre travail,<lf>alors je ne veux entendre personne nous<lf>accuser de nous tourner les pouces.
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

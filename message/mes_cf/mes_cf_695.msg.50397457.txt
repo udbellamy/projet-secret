@@ -1,0 +1,7 @@
+<string><TIME 2.63, 6.16><lf><TIME 7.46, 10.2><lf><TIME 13.82, 20.8><lf><TIME 22.47, 26.26><lf><PAGE><lf><PAGE><lf>Là, OK.<lf>Voilà...<PAGE><lf>Accroche-toi, Sherry, d'accord ?<lf>Je te promets que ça va aller.
+<string>
+<string>
+<string>Là, OK.<lf>Voilà...
+<string>Accroche-toi, Sherry, d'accord ?<lf>Je te promets que ça va aller.
+<string>
+<string>

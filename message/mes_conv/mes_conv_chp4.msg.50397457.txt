@@ -1,0 +1,176 @@
+<string>Tu peux toujours courir, Annette, mais tu ne m'échapperas pas.
+<string>C'est l'heure de mon arme secrète.
+<string><COLOR FF0000>#Rejected#</COLOR> CONV423_0020_pl2000
+<string>Un vrai jeu d'enfant.
+<string><MCVO>Bracelet d'identification requis.
+<string><MCVO>Bracelet d'identification requis pour le funiculaire.
+<string><COLOR FF0000>#Rejected#</COLOR> CONV425_0010_pl2000
+<string>
+<string>
+<string>Tu détales toujours aussi vite, Annette.<PAGE><lf>Je dois le reconnaître.
+<string>Tu détales toujours aussi vite, Annette.
+<string>Je dois le reconnaître.
+<string>Je te tiens, maintenant.
+<string>Tu parles d'un sacré pot de colle...
+<string><COLOR FF0000>#Rejected#</COLOR> CONV429_0010_pl2000
+<string><COLOR FF0000>#Rejected#</COLOR> CONV430_0010_pl2000
+<string>Allez, Ada. Cette fois, c'est la fin...
+<string>Cette garce sait ce qu'elle fait...
+<string>
+<string>
+<string>
+<string>
+<string>Accès visiteur confirmé.<PAGE><lf>Votre bracelet est valide jusqu'au [premier] [octobre].<PAGE><lf>Veuillez le restituer avant cette date.<PAGE><lf>Ça risque pas.
+<string>Accès visiteur confirmé.
+<string>Votre bracelet est valide jusqu'au [premier] [octobre].
+<string>Veuillez le restituer avant cette date.
+<string>Ça risque pas.
+<string>
+<string>
+<string>Ada !<PAGE><lf>Où es-tu ?
+<string>Ada !
+<string>Où es-tu ?
+<string><COLOR FF0000>#Rejected#</COLOR> CONV589_0010_pl0000
+<string><COLOR FF0000>#Rejected#</COLOR> CONV590_0010_pl0000
+<string>Où est-elle passée ?
+<string>Engagez-vous, qu'ils disaient...
+<string>Pouah... Merde !
+<string>C'est quoi ça ?!
+<string>Je peux pas... respirer.
+<string>Faut que j'élimine... cette toxine...
+<string>Un funiculaire... Intéressant.
+<string>
+<string>
+<string>Le virus...<PAGE><lf>Je parie que ces rats l'ont propagé.
+<string>Le virus...
+<string>Je parie que ces rats l'ont propagé.
+<string>J'arrive, Ada.
+<string><COLOR FF0000>#Rejected#</COLOR> CONV443_0010_pl0000
+<string><COLOR FF0000>#Rejected#</COLOR> CONV444_0010_pl0000
+<string>Oh bon sang... C'est de pire en pire !
+<string>C'était quoi ça ?
+<string>Allez...
+<string>Merde.
+<string>OK... J'y suis presque, Ada.
+<string>
+<string>
+<string>Eh merde !<PAGE><lf>Je dois rétablir le courant...
+<string>Eh merde !
+<string>Je dois rétablir le courant...
+<string>Oh la vache !
+<string>Eh merde !
+<string>Il est encore vivant ?
+<string><COLOR FF0000>#Rejected#</COLOR> CONV456_0010_pl0000
+<string><COLOR FF0000>#Rejected#</COLOR> CONV456_0020_pl0000
+<string>Cette fois je te tiens !
+<string>Tu vas voir !
+<string>Il doit y avoir un autre moyen !
+<string>Je peux utiliser la grue...
+<string>J'espère que c'est fini cette fois.
+<string><COLOR FF0000>#Rejected#</COLOR> CONV458_0010_pl0000
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Le funiculaire nous amènera au NEST.<PAGE><lf>Ce bracelet est notre ticket.<PAGE><lf>Bien.<PAGE><lf>Tu l'as trouvé où ?<PAGE><lf>Un emprunt.<PAGE><lf>Mais peu importe, on y est presque.
+<string>Le funiculaire nous amènera au NEST.
+<string>Ce bracelet est notre ticket.
+<string>Bien.
+<string>Tu l'as trouvé où ?
+<string>Un emprunt.
+<string>Mais peu importe, on y est presque.
+<string>
+<string>
+<string>
+<string>
+<string>Ah... ma jambe...<PAGE><lf>Laisse-moi te porter.<PAGE><lf>Non !<PAGE><lf>Je me sentirais encore plus mal.
+<string>Ah... ma jambe...
+<string>Laisse-moi te porter.
+<string>Non !
+<string>Je me sentirais encore plus mal.
+<string>
+<string>
+<string>
+<string>
+<string>Comment va ton épaule ?<PAGE><lf>Pire que ça en a l'air.<PAGE><lf>On fait la paire.<PAGE><lf>Tous les deux un pied dans la tombe.
+<string>Comment va ton épaule ?
+<string>Pire que ça en a l'air.
+<string>On fait la paire.
+<string>Tous les deux un pied dans la tombe.
+<string>Ça devrait nous amener à bon port.
+<string>On y est.
+<string>
+<string>
+<string>Ça pourrait être un aller simple.<PAGE><lf>J'espère que tu es prêt, Leon.
+<string>Ça pourrait être un aller simple.
+<string>J'espère que tu es prêt, Leon.
+<string>Sherry... est sa fille ?
+<string>Où est passée Sherry ?
+<string>Et voilà, je suis dans la merde... au sens propre.
+<string>Eh merde !
+<string>
+<string>
+<string>Sherry ?<PAGE><lf>Est-ce que tu m'entends ?
+<string>Sherry ?
+<string>Est-ce que tu m'entends ?
+<string>Putain de merde !
+<string>J'étouffe...
+<string>Faut que... j'élimine... la toxine...
+<string>
+<string>
+<string>Un funiculaire ?<PAGE><lf>Ici ?
+<string>Un funiculaire ?
+<string>Ici ?
+<string>Tiens bon, Sherry...
+<string>Contente d'avoir vu ça...
+<string>OK... Cet endroit est... flippant.
+<string>
+<string>
+<string>Oh, bon sang...<PAGE><lf>Ils sont partout.
+<string>Oh, bon sang...
+<string>Ils sont partout.
+<string><COLOR FF0000>#Rejected#</COLOR> CONV474_0010_pl1000
+<string><COLOR FF0000>#Rejected#</COLOR> CONV474_0020_pl1000
+<string>C'est clairement pas mon fort.
+<string>Je hais les puzzles.
+<string>OK, Sherry... Me voilà.
+<string>Le courant doit être coupé...
+<string>Oh, merde !
+<string>Sérieusement ?
+<string>J'aurais dû me douter que tu reviendrais !
+<string><COLOR FF0000>#Rejected#</COLOR> CONV481_0010_pl1000
+<string><COLOR FF0000>#Rejected#</COLOR> CONV481_0020_pl1000
+<string>J'ai une petite surprise pour toi !
+<string>OK... Même joueur joue encore !
+<string>Je dois pouvoir faire quelque chose !
+<string>Avec la grue !
+<string><COLOR FF0000>#Rejected#</COLOR> CONV485_0010_pl1000
+<string>Je suis désolée, Sherry...<lf>C'est plus long que prévu...
+<string>
+<string>
+<string>Annette a dit que son labo n'était pas loin.<PAGE><lf>Attends... Le funiculaire...
+<string>Annette a dit que son labo n'était pas loin.
+<string>Attends... Le funiculaire...
+<string>
+<string>
+<string>On y est presque, Sherry.<PAGE><lf>On y est presque...
+<string>Tiens bon, Sherry.
+<string>Tout va s'arranger.
+<string>
+<string>
+<string>Tiens bon, Sherry.<PAGE><lf>Tout va s'arranger.
+<string>On y est presque, Sherry.
+<string>On y est presque...
+<string>Super. Le funiculaire.
+<string>
+<string>
+<string>Bon... J'espère que j'ai rien oublié.<PAGE><lf>On pourra pas revenir...
+<string>Bon... J'espère que j'ai rien oublié.
+<string>On pourra pas revenir...
+<string>
+<string>
+<string><MCVO>Cette navette va au NEST.<PAGE><lf>Veuillez ne pas sortir avant la destination finale.
+<string>Cette navette va au NEST.
+<string>Veuillez ne pas sortir avant la destination finale.

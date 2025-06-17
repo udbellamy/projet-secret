@@ -1,0 +1,11 @@
+<string>Article : "La pierre rouge"
+<string>Le rubis qui captiva le prince Édouard de<lf>Woodstock, la perle que but la Reine du Nil,<lf>le diamant qui mena une reine à la guillotine...<lf>Les histoires liées à l'attrait exercé par les<lf>pierres précieuses sont légion.<lf><lf>Cette mystérieuse pierre rouge n'est que la<lf>dernière d'une longue série.
+<string>Comme les autres pierres, l'origine de celle-ci<lf>est inconnue. On dit qu'elle orna jadis la<lf>boîte à bijoux d'une noble, et qu'elle fut même<lf>attribuée à un roi sage.<lf><lf>Cet automne, cette pierre auréolée de mystère<lf>sera exposée à l'occasion des enchères. De<lf>nombreux passionnés devraient s'y bousculer.
+<string>Mais, cher lecteur, faites preuve de prudence,<lf>car le mal est tapi dans l'ombre de la beauté.<lf>Cette pierre a transformé des nobles soucieux<lf>de leurs sujets en despotes plus terribles que<lf>Caligula, et nos histoires le prouvent. C'est<lf>le sang versé pour ces joyaux qui les rend si<lf>brillants et corrompt le cœur de leurs<lf>propriétaires.
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

@@ -1,0 +1,11 @@
+<string>Rapport d'événements
+<string>25 septembre<lf>Le commissariat est converti en abri temporaire<lf>pour faire face à la soudaine montée de violence.<lf>Tous les agents ont reçu l'ordre de veiller en<lf>priorité à la sécurité des citoyens alors que<lf>nous tentons d'en accueillir un maximum sur<lf>place.
+<string>25 septembre (addendum)<lf>L'un des réfugiés nous a attaqués au milieu de<lf>la nuit, faisant un mort et trois blessés parmi<lf>les officiers. La personne en question a<lf>rapidement été maîtrisée. Nous pensons qu'il<lf>ne s'agissait que d'une réaction au stress<lf>intense.
+<string>26 septembre<lf>Une foule a attaqué le commissariat, faisant<lf>de nombreuses victimes. Quelques survivants<lf>sont parvenus à passer derrière les stores de<lf>sécurité, mais nous sommes cernés. Nous aurons<lf>du mal à sortir d'ici. Nous ne serons peut-être<lf>pas en mesure de rétablir les communications<lf>et sommes donc coupés du reste du monde.
+<string>27 septembre<lf>Une nouvelle attaque est survenue du côté ouest<lf>du commissariat vers 13h. Douze personnes sont<lf>décédées, et il ne reste qu'une poignée de<lf>survivants. Tout sombre dans le chaos.<lf><lf><RIGHT>David Ford
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>

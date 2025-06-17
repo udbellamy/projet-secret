@@ -1,0 +1,11 @@
+<string><TIME 4.7, 6.09><TIME 8.01, 10.0><TIME 12.49, 14.23><TIME 15.04, 18.11><TIME 18.4, 20.23><TIME 20.91, 24.0><TIME 24.6, 26.24><TIME 27.28, 28.77><TIME 29.27, 31.36>Où tu vas, Sherry ?<PAGE><lf>Je t'ai dit de rester tranquille.<PAGE><lf>Il faut que tu apprennes à écouter.<PAGE><lf>Laissez-moi tranquille ! Je vous en supplie !<PAGE><lf>Je vais t'apprendre les bonnes manières.<PAGE><lf><PAGE><lf>Sale petite conne !<PAGE><lf>Tu vas me le payer !<PAGE><lf>Petite peste !
+<string>Où tu vas, Sherry ?
+<string>Je t'ai dit de rester tranquille.
+<string>Il faut que tu apprennes à écouter.
+<string>Laissez-moi tranquille ! Je vous en supplie !
+<string>Je vais t'apprendre les bonnes manières.
+<string>
+<string>
+<string>Sale petite conne !
+<string>Tu vas me le payer !
+<string>Petite peste !

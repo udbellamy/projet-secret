@@ -1,0 +1,15 @@
+<string><TIME 8.18, 9.5><TIME 10.5, 11.5><TIME 18.32, 21.68><TIME 22.32, 23.95><TIME 25.11, 26.88><TIME 27.63, 29.38><TIME 29.5, 32.0><TIME 32.5, 34.56><TIME 35.71, 37.38><TIME 46.31, 50.78><TIME 56.5, 62.28><TIME 65.5, 67.0><TIME 69.45, 72.62><TIME 75.81, 77.0>Virus G en visuel.<PAGE><lf>On entre.<PAGE><lf>Dr. Birkin, vous allez nous suivre calmement.<PAGE><lf>Je savais bien que vous viendriez !<PAGE><lf>C'est le travail de ma vie !<PAGE><lf>Hors de question que je cède quoi que ce soit !<PAGE><lf>Nous avons des ordres, Dr. Birkin.<PAGE><lf>Je vous le demande encore une fois.<PAGE><lf>Stop ! Cessez le feu !<PAGE><lf>Putain mais qu'est-ce qui t'a pris ?<lf>On avait ordre de le ramener vivant !<PAGE><lf>On est entrés, mais on a eu un problème.<lf>La cible a résisté, on a dû l'abattre.<PAGE><lf>C'est exact, monsieur.<PAGE><lf>Bien compris. Juste les échantillons.<PAGE><lf>Allez, on bouge.
+<string>Virus G en visuel.
+<string>On entre.
+<string>Dr. Birkin, vous allez nous suivre calmement.
+<string>Je savais bien que vous viendriez !
+<string>C'est le travail de ma vie !
+<string>Hors de question que je cède quoi que ce soit !
+<string>Nous avons des ordres, Dr. Birkin.
+<string>Je vous le demande encore une fois.
+<string>Stop ! Cessez le feu !
+<string>Putain mais qu'est-ce qui t'a pris ?<lf>On avait ordre de le ramener vivant !
+<string>On est entrés, mais on a eu un problème.<lf>La cible a résisté, on a dû l'abattre.
+<string>C'est exact, monsieur.
+<string>Bien compris. Juste les échantillons.
+<string>Allez, on bouge.

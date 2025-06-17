@@ -1,0 +1,61 @@
+<string><TIME 11.02, 12.49><TIME 12.96, 16.01><TIME 16.65, 18.48><TIME 22.06, 23.75><TIME 24.94, 26.69><TIME 26.91, 28.76><TIME 39.45, 42.51><TIME 45.47, 47.48><TIME 49.24, 51.88><TIME 52.62, 54.0><TIME 54.44, 56.28><TIME 56.3, 57.51><TIME 58.12, 61.02><TIME 62.83, 65.97><TIME 73.26, 75.77><TIME 78.31, 86.51><TIME 91.21, 93.25><TIME 93.5, 95.06><TIME 99.22, 101.01><TIME 101.51, 103.98><TIME 104.01, 105.92><TIME 106.13, 107.51><TIME 108.17, 114.26><TIME 123.10, 125.10,><TIME 125.60, 126.50,><TIME 135.38, 136.74><TIME 136.76, 139.01><TIME 146.34, 149.0>Encore toi...<PAGE><lf>Non ! Il est à moi.<PAGE><lf>Il faut en finir.<PAGE><lf>Je peux savoir ce qui se passe ?<PAGE><lf>Pardon, William.<PAGE><lf>Tu ne m'as pas laissé le choix.<PAGE><lf>Vous l'avez appelé "William". Pourquoi ?<PAGE><lf>Ça aurait pas dû finir comme ça...<PAGE><lf>C'est de la faute d'Umbrella, tout ça...<PAGE><lf>Vous en faites partie.<PAGE><lf>Vous êtes impliquée là-dedans, non ?<PAGE><lf>Oui...<PAGE><lf>Mais jamais on a voulu que ça se produise !<PAGE><lf>Dites-moi tout. Racontez-moi depuis le début.<PAGE><lf>Vous vous en tirerez pas comme ça...<PAGE><lf><PAGE><lf>Oh mon Dieu, William.<PAGE><lf>Qu'est-ce que t'as fait ?<PAGE><lf>Vous avez créé ce monstre...<PAGE><lf>On a créé le virus G, mais à aucun moment on a voulu...<PAGE><lf>Ne cherchez pas d'excuse.<PAGE><lf>Vous êtes responsable.<PAGE><lf><PAGE><lf>Oh putain !<PAGE><lf>Merde !<PAGE><lf>Qu'est-ce que vous faites ?<PAGE><lf>On peut pas le laisser s'échapper !<PAGE><lf>OK... Je m'en occupe.
+<string>Encore toi...
+<string>Non ! Il est à moi.
+<string>Il faut en finir.
+<string>Je peux savoir ce qui se passe ?
+<string>Pardon, William.
+<string>Tu ne m'as pas laissé le choix.
+<string>Vous l'avez appelé "William". Pourquoi ?
+<string>Ça aurait pas dû finir comme ça...
+<string>C'est de la faute d'Umbrella, tout ça...
+<string>Vous en faites partie.
+<string>Vous êtes impliquée là-dedans, non ?
+<string>Oui...
+<string>Mais jamais on a voulu que ça se produise !
+<string>Dites-moi tout. Racontez-moi depuis le début.
+<string>Vous vous en tirerez pas comme ça...
+<string>
+<string>Oh mon Dieu, William.
+<string>Qu'est-ce que t'as fait ?
+<string>Vous avez créé ce monstre...
+<string>Ce n'est pas de ma faute...
+<string>Mais vous l'avez fait.
+<string>Ce n'est pas de ma faute.
+<string>On a créé le virus G, mais à aucun moment on a voulu...
+<string>Ne cherchez pas d'excuse.
+<string>Vous êtes responsable.
+<string><COLOR FF0000>#Rejected#</COLOR> EV730_0280_pl0000
+<string>
+<string>Oh putain !
+<string>Merde !
+<string>Qu'est-ce que vous faites ?
+<string>On peut pas le laisser s'échapper !
+<string>OK... Je m'en occupe.
+<string><TIME 11.37, 12.72><TIME 13.96, 15.49><TIME 16.56, 18.75><TIME 32.91, 34.5><TIME 36.54, 38.01><TIME 47.99, 50.5><TIME 62.52, 64.23><TIME 70.55, 73.22><TIME 73.7, 77.69><TIME 77.94, 79.5><TIME 80.63, 84.0><TIME 84.39, 90.01><TIME 90.17, 94.14><TIME 94.17, 95.96><TIME 95.98, 102.5><TIME 106.03, 107.49><TIME 110.28, 111.99><TIME 122.4, 124.28><TIME 133.3, 134.73><TIME 137.31, 138.75><TIME 140.14, 142.02><TIME 144.81, 146.75><TIME 146.77, 148.91><TIME 149.05, 152.92><TIME 152.94, 154.32><TIME 154.62, 157.36>Encore toi ?<PAGE><lf>William !<PAGE><lf>Finissons-en !<PAGE><lf>C'est quoi ce monstre ?<PAGE><lf>C'était mon mari.<PAGE><lf>J'ai créé ce virus !<PAGE><lf>William !<PAGE><lf>J'aurais dû le tuer quand j'en avais l'occasion...<PAGE><lf>Je sais pas pourquoi j'ai... J'ai pas pu.<PAGE><lf>C'était votre mari.<PAGE><lf>À vrai dire, on était surtout mariés à notre travail.<PAGE><lf>Et Sherry dans tout ça ? Comment avez-vous pu la laisser<lf>seule alors que Raccoon City était à feu et à sang ?<PAGE><lf>Je ne pouvais pas laisser ma fille grandir<lf>dans un monde où le virus G existe.<PAGE><lf>Mais c'était pas une raison pour la laisser...<PAGE><lf><PAGE><lf>Annette !<PAGE><lf>C'est bon.<PAGE><lf>Pardonne-moi, William...<PAGE><lf>Non.<PAGE><lf>Laissez-le moi.<PAGE><lf>Occupez-vous plutôt de Sherry.<PAGE><lf>Tu ne sais pas à quoi tu as affaire.<PAGE><lf>J'ai eu le temps de me faire une idée...<PAGE><lf>Quoi que tu fasses, sois bien certaine de le tuer.<PAGE><lf>Je sais.<PAGE><lf>Cette fois, on va en finir.
+<string>Encore toi ?
+<string>William !
+<string>Finissons-en !
+<string>C'est quoi ce monstre ?
+<string>C'était mon mari.
+<string>Oh mon Dieu, William... Qu'est-ce que tu as fait ?
+<string>J'ai créé ce virus !
+<string>William !
+<string>J'aurais dû le tuer quand j'en avais l'occasion...
+<string>Je sais pas pourquoi j'ai... J'ai pas pu.
+<string>C'était votre mari.
+<string>À vrai dire, on était surtout mariés à notre travail.
+<string>Et Sherry dans tout ça ? Comment avez-vous pu la laisser<lf>seule alors que Raccoon City était à feu et à sang ?
+<string>Je ne pouvais pas laisser ma fille grandir<lf>dans un monde où le virus G existe.
+<string>Mais c'était pas une raison pour la laisser...
+<string>
+<string>Annette !
+<string>C'est bon.
+<string>Pardonne-moi, William...
+<string>Non.
+<string>Laissez-le moi.
+<string>Occupez-vous plutôt de Sherry.
+<string>Tu ne sais pas à quoi tu as affaire.
+<string>J'ai eu le temps de me faire une idée...
+<string>Quoi que tu fasses, sois bien certaine de le tuer.
+<string>Je sais.
+<string>Cette fois, on va en finir.

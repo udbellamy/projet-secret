@@ -1,0 +1,11 @@
+<string>Mot de Leon
+<string>Claire,<lf><lf>Si tu es arrivée jusqu'ici, alors tu es presque<lf>sortie de la ville. J'ai quelque chose à régler<lf>avant de partir, mais je voulais te dire ceci<lf>au cas où je ne m'en sors pas : Umbrella est<lf>derrière tout ça. Il faut que tu le dises à tout<lf>le monde.<lf><lf><RIGHT>Leon
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

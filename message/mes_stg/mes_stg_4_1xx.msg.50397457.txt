@@ -1,0 +1,10 @@
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_4_1_01
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_4_1_02
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_4_1_03
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_4_1_04
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_4_1_05
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_4_1_06
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_4_1_07
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_4_1_08
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_4_1_09
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Stg_4_1_10

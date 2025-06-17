@@ -1,0 +1,11 @@
+<string><TIME 9.47, 13.86><TIME 13.9, 15.51><TIME 16.31, 17.96><TIME 18.4, 20.01><TIME 26.98, 28.82><TIME 36.93, 39.53>Fini... de... jouer !<PAGE><lf>Non !<PAGE><lf>Maintenant je te tiens !<PAGE><lf>Lâchez-moi !<PAGE><lf>Non ! Arrête !<PAGE><lf>
+<string><lf>
+<string>Fini... de... jouer !
+<string>Non !
+<string>
+<string>Maintenant je te tiens !
+<string>Lâchez-moi !
+<string>
+<string>
+<string>Non ! Arrête !
+<string>

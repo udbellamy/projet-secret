@@ -1,0 +1,193 @@
+<string>Oui
+<string>Non
+<string>COMMENCER
+<string>Quitter
+<string>OK
+<string>Annuler
+<string>{0} %
+<string>SAUVEGARDE
+<string>Charger une partie
+<string>CAMPAGNE
+<string>MODE
+<string>SAUVEGARDES
+<string>ZONE
+<string>DERNIÈRE SAUVEGARDE
+<string>JOUEUR
+<string>DATE
+<string>EMPLACEMENT
+<string>AUTO
+<string>DATE DE CRÉATION
+<string>Leon
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_LeonA_Reserve
+<string>Leon (bis)
+<string>Claire
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClaireA_Reserve
+<string>Claire (bis)
+<string>Ada
+<string>Sherry
+<string>Vous ne pouvez pas changer de mode en cours de partie.
+<string>Choix du mode de jeu
+<string>FACILE
+<string>NORMAL
+<string>HARDCORE
+<string><ICON DECIDE> Confirmer
+<string><ICON DECIDE> Appuyer
+<string><ICON CANCEL> Retour
+<string><ICON CANCEL> Fermer
+<string><ICON CANCEL> Annuler
+<string><ICON TAB_LEFT>
+<string><ICON TAB_RIGHT>
+<string><ICON AREA_LEFT>
+<string><ICON AREA_RIGHT>
+<string><ICON HOLD_SUB>
+<string><ICON DECIDE_F>
+<string><ICON ROTATION> Faire tourner
+<string><ICON SCALE> Zoom +/-
+<string><ICON CURSOR> Déplacer
+<string><ICON MAPMOVE> Bouger
+<string><ICON CURSOR_LS> Bouger
+<string><ICON CURSOR_LR> Bouger
+<string><ICON FLOOR> Changer de niveau
+<string><ICON DECIDE> Animation
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomIn
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomOut
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideCharChange
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideDefRturn
+<string><ICON DISPLAY> Afficher les commandes
+<string><ICON DISPLAY> Cacher l'interface
+<string><ICON DEFAULT> Par défaut
+<string><ICON DEFAULT> Repositionner
+<string><ICON AREA_LEFT> <ICON AREA_RIGHT> Changer de zone
+<string><ICON AREA_LEFT> <ICON AREA_RIGHT> Changer de catégorie
+<string><ICON ITEMNUM> Tourner les pages
+<string><ICON PAGE> Faire défiler
+<string><ICON DECIDE> Suivant
+<string><ICON DEFAULT> Par défaut
+<string><ICON DEFAULT> Réinitialiser sélection
+<string><ICON STATUS> Tout réinitialiser
+<string><ICON ITEMMOVE> Déplacer
+<string><ICON STATUS> Fermer
+<string><ICON DECIDE> Examiner
+<string><ICON SORT> Trier
+<string><ICON ITEMNUM> Quantité
+<string><ICON CANCEL> Fermer
+<string><ICON CURSOR_LR> Tourner
+<string><ICON CURSOR_LR> Sélectionner
+<string><ICON CURSOR_UD> Faire tourner
+<string><ICON CURSOR_LR> Sélectionner/Déplacer
+<string><ICON CURSOR_LS> Sélectionner
+<string><ICON DECIDE> Faire tourner
+<string><ICON CURSOR_LS> Choix de la touche
+<string><ICON CURSOR_LR> Tourner la molette de gauche
+<string><ICON CURSOR_LR2> Tourner la molette de droite
+<string><ICON TAB_LEFT> <ICON TAB_RIGHT> Changer
+<string><ICON DECIDE> Remplir
+<string><ICON DECIDE> Faire tourner
+<string><ICON DECIDE> Remplir / Tourner
+<string><ICON PAUSE> Pause
+<string><ICON DEFAULT> Changer de mode
+<string><ICON CURSOR_LR> Changer de personnage
+<string>{0:D4}/{1:D2}/{2:D2}<lf>{3:D2}:{4:D2}:{5:D2}
+<string>{1:D2}/{2:D2}/{0:D4}<lf>{3:D2}:{4:D2}:{5:D2}
+<string>{2:D2}/{1:D2}/{0:D4}<lf>{3:D2}:{4:D2}:{5:D2}
+<string>Défis
+<string>Options
+<string>Faites correspondre la zone rectangulaire avec la taille de votre écran.
+<string><ICON CURSOR_UP> Agrandir
+<string><ICON CURSOR_DOWN> Réduire
+<string><ICON STATUS> Changer de profil
+<string>Charger une partie sauvegardée.
+<string>Voir les défis et les bonus débloqués.
+<string>Continuer la partie depuis votre dernière sauvegarde.
+<string>Ajuster différents paramètres.
+<string>COMMENCER
+<string>Connexion à RE NET
+<string>RE NET est un service entièrement gratuit destiné à enrichir encore plus votre<lf>expérience dans l'univers de BIOHAZARD.<lf>Envoyez vos données de jeu (progression et adresse IP) pour accéder à divers<lf>services tels que votre historique de jeu et des défis uniques. Les données de jeu<lf>envoyées à RE NET pourront être utilisées pour des développements futurs.<lf>Il vous suffit d'un clic pour connecter votre jeu à RE NET.<lf>Souhaitez-vous envoyer vos données de jeu à RE NET après avoir lu et accepté<lf>les conditions d'utilisation ci-dessous ?<lf><lf>* Les paramètres RE NET peuvent être modifiés à tout moment dans le menu Options.
+<string>RE NET est un service entièrement gratuit destiné à enrichir encore plus votre<lf>expérience dans l'univers de Resident Evil.<lf>Envoyez vos données de jeu (progression et adresse IP) pour accéder à divers<lf>services tels que votre historique de jeu et des défis uniques. Les données de jeu<lf>envoyées à RE NET pourront être utilisées pour des développements futurs.<lf>Il vous suffit d'un clic pour connecter votre jeu à RE NET.<lf>Souhaitez-vous envoyer vos données de jeu à RE NET après avoir lu et accepté<lf>les conditions d'utilisation ci-dessous ?<lf><lf>* Les paramètres RE NET peuvent être modifiés à tout moment dans le menu Options.
+<string>Nous, Capcom Co., Ltd. (« Capcom »), collecterons et traiterons vos données personnelles conformément à notre politique de confidentialité sur votre utilisation de Resident Evil 2 (« Jeu »). <lf><lf><CENTER>Politique de confidentialité (https://www.capcom.co.jp/privacy/game/)</CENTER><lf><lf>Ce jeu contient aussi une fonction vous permettant de partager vos données de jeu avec le service RESIDENT EVIL.NET (« RE NET ») (https://www.residentevil.net) opéré par Capcom. <lf><lf>RE NET est un service de verrouillage en ligne gratuit qui supporte la série Resident Evil, fournissant des fonctions qui vous permettent la visualisation de diverses données telles que ; <lf>・des statistiques mondiales basées sur des volumes énormes de données de jeu provenant de joueurs du monde entier ;<lf>・des données de jeu détaillées ; et<lf>・des classements<lf><lf>Votre consentement à partager vos données de jeu avec le service RE NET est facultatif et vous pouvez décider librement de donner votre consentement ou non.  Votre expérience de jeu ne sera pas affectée par le refus de consentement.<lf><lf>Capcom collectera les données personnelles suivantes avec votre consentement aux fins suivantes :<lf><lf>Informations collectées :<lf>(a)  Données d’identification fournies par les fournisseurs de la plateforme ;<lf>(b)  Informations sur la configuration de jeu ;<lf>(c)  Données de jeu (incluant les informations sur les zones géographiques) ;<lf>(d)  Journaux sur la connexion au réseau ; et,<lf><lf>But de l’utilisation :<lf>•	Vous permettre d’utiliser les services liés à ce jeu sur le site web RE NET ;<lf>•	Mieux comprendre les utilisateurs de Capcom et utiliser les résultats aux fins de développement de produit et de marketing des produits de Capcom ; et,<lf>•	Créer des données statistiques pour l’utilisation et la publication. <lf><lf><lf>En relation avec le service RE NET, vos données personnelles seront envoyées et stockées sur le serveur au Japon, géré par Capcom et/ou le serveur au Japon et/ou aux États-Unis des fournisseurs de service dans le nuage engagés par Capcom, indépendamment de votre pays de résidence.<lf>Si vos données sont transférées en dehors de l’Espace économique européen (EEE) pour le stockage et le traitement des données, Capcom se conformera aux lois de protection des données applicables, incluant le RGPD.<lf><lf>Vous pouvez retirer votre consentement à tout moment sur « RE NET » à partir de l’écran « Options ». Ceci n’affectera pas le processus légitime du transfert des données à Capcom, antérieur au refus de consentement et les données resteront accessibles sur le site web RE NET.<lf><lf>Veuillez noter que, pour utiliser le site web RE NET, vous devez accepter les conditions d’utilisation de RE NET ainsi que sa politique de confidentialité fournie séparément. 
+<string>Accéder à la page de RE NET pour en savoir plus<lf>sur notre politique de confidentialité ?
+<string>Conditions d'utilisation
+<string>Voir les conditions d'utilisation du service RE NET.
+<string>Fermer
+<string>Politique de confidentialité
+<string>Envoi des données de jeu à RE NET.<lf>Les données seront envoyées à chaque fois que vous<lf>sauvegarderez la partie sur un emplacement de sauvegarde.
+<string>L'envoi des données de jeu nécessite une connexion au réseau.
+<string>Désactiver l'envoi des données de jeu à RE NET ?
+<string>RE NET est un service entièrement gratuit destiné à enrichir encore plus<lf>votre expérience dans l'univers de BIOHAZARD.<lf><lf>Envoyez vos données de jeu (progression et adresse IP) pour avoir accès<lf>à divers services tels que votre historique de jeu et des défis uniques.<lf>Les données de jeu envoyées à RE NET pourront être utilisées pour des<lf>développements futurs.<lf><lf>* Veuillez lire et accepter les conditions d'utilisation ci-dessous.
+<string>RE NET est un service entièrement gratuit destiné à enrichir encore plus votre expérience dans l'univers de Resident Evil.<lf><lf>Envoyez vos données de jeu (progression et adresse IP) pour avoir accès à divers services tels que votre historique de jeu<lf>et des défis uniques. Les données de jeu envoyées à RE NET pourront être utilisées pour des développements futurs.<lf><lf>* Veuillez lire et accepter les conditions d'utilisation ci-dessous.
+<string>Page d'accueil RE NET (https://www.residentevil.net/2/)
+<string>Accéder à la page de RE NET.
+<string>Accéder à la page de RE NET ?
+<string>Défi hebdomadaire disponible
+<string><ICON DEFAULT> Voir le défi
+<string>Paramètres initiaux
+<string>Débloqués :
+<string>Conditions
+<string>Récompenses
+<string>Progression :
+<string>Actuel :
+<string>{0} fois
+<string>{0} fois
+<string>{0} pas
+<string>Bonus débloqués
+<string>Défi
+<string>Récompenses
+<string>CAMPAGNE COMPLÉTÉE
+<string>Leon S. Kennedy
+<string>Claire Redfield
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Leon01
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Claire01
+<string>Leon S. Kennedy (bis)
+<string>Claire Redfield (bis)
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Aside
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Bside
+<string>Mode
+<string>TEMPS TOTAL
+<string>{0:D2}:{1:D2}:{2:D2}
+<string>{0}/{1}
+<string>S+
+<string>S
+<string>A
+<string>B
+<string>C
+<string>Fichier obtenu.
+<string>RÉSULTATS
+<string>SAUVEGARDES
+<string><ICON DECIDE> Suivant
+<string>VOUS ÊTES MORT
+<string>VOUS ÊTES PRIS AU PIÈGE
+<string>En voulant faire une courte pause dans une station service aux<lf>abords de la ville, Leon S. Kennedy, jeune recrue de la police<lf>de Raccoon City, était loin d'imaginer qu'il se retrouverait au<lf>beau milieu d'une marée de zombies.<lf><lf>Accompagné de Claire Redfield dont il vient de faire la rencontre,<lf>Leon roule jusqu'à Raccoon City à bord d'un véhicule de police,<lf>mais un accident vient séparer les deux compagnons d'infortune.<lf><lf>Se frayant un chemin parmi les dangers qui l'entourent, Leon<lf>parvient à rejoindre le commissariat de la ville.<lf>Est-il en sécurité pour autant ?
+<string>Sans nouvelle de son frère, Claire Redfield se rend à Raccoon<lf>City dans le but de le retrouver. En arrêtant sa moto dans une<lf>station service isolée aux abords de la ville, ce n'est pas son<lf>frère qu'elle trouve, mais une horde de zombies.<lf><lf>Claire fait également la rencontre de Leon S. Kennedy avec qui<lf>elle s'échappe de la station service, mais un accident les<lf>contraint à se séparer dès leur arrivée en ville.<lf><lf>Malgré les dangers sur sa route, Claire parvient à rejoindre le<lf>commissariat de Raccoon City.<lf>Y trouvera-t-elle ce qu'elle est venue chercher ?
+<string>R.P.D.
+<string>Japonais [ja]
+<string>Anglais [en]
+<string>Français [fr]
+<string>Allemand [de]
+<string>Italien [it]
+<string>Espagnol [es]
+<string>Chinois (traditionnel) [zh-TW]
+<string>Chinois (simplifié) [zh-CN]
+<string>Coréen [ko]
+<string>Russe [ru]
+<string>Polonais [pl]
+<string>Portugais (Brésil) [pt-BR]
+<string>%
+<string>/
+<string>∞
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PS4
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_Xone
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PC
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_GameTitle
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveTitle
+<string>Leon S. Kennedy
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveDetail
+<string>Claire Redfield
+<string>Ada Wong
+<string>Sherry Birkin
+<string>Merci d'avoir joué !
+<string>25 janvier 2019
+<string>Disponible en précommande !
+<string>Disponible en précommande !
+<string>#re2
+<string>*La disponibilité varie selon la région et la plateforme.
+<string>Temps requis

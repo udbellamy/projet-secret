@@ -1,0 +1,11 @@
+<string>Note de Claire
+<string>Leon,<lf><lf>J'espère que tu trouveras ceci. Le commissariat<lf>est fichu. Va-t'en d'ici aussi vite que possible.<lf>Ne t'en fais pas pour moi, je vais m'en sortir.<lf>Et ne t'inquiète pas non plus pour mon frère.
+<string>Occupe-toi seulement de sortir d'ici vivant.<lf><lf><RIGHT>Claire
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

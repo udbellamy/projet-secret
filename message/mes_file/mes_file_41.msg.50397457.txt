@@ -1,0 +1,11 @@
+<string>Note de Wayne Li
+<string>Mon Dieu. Du sang. Partout !<lf>Qu'est-ce qui se passe ? Ils sont morts. Tous<lf>morts. C'était ces hommes en noir, l'U.S.S.,<lf>les forces spéciales du siège. Mais pourquoi ?<lf>Ils ne sont pas censés nous protéger ? Des<lf>bouts de cervelles blancs dans une mer rouge.<lf>C'est un cauchemar.
+<string>Mon Dieu. Pourquoi ? Ne m'a-t-on pas dit que<lf>j'étais un génie ? Un génie comme moi ne peut<lf>pas mourir dans un endroit pareil. J'ai toujours<lf>obtenu des résultats. Ils veulent me baiser...<lf>C'est moi qui vais les baiser !<lf>Je vais gagner le prix Nobel. Je suis un héros.<lf>Un génie, un dieu. Je ne mourrai pas. Je vais...
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

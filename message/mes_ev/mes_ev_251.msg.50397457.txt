@@ -1,0 +1,41 @@
+<string><TIME 1.18, 3.99><TIME 6.04, 7.06><TIME 9.71, 11.08><TIME 19.93, 21.79><TIME 22.01, 23.78><TIME 23.8, 25.15><TIME 27.59, 29.72><TIME 30.8, 34.49><TIME 37.03, 38.93><TIME 39.21, 40.8><TIME 42.05, 44.28><TIME 48.4, 50.75><TIME 51.45, 52.1><TIME 52.11, 54.44><TIME 56.37, 60.97><TIME 67.6, 68.98><TIME 69.29, 71.6><TIME 75.31, 78.0><TIME 78.08, 79.01><TIME 79.02, 80.5><TIME 80.52, 83.0><TIME 84.01, 86.14><TIME 88.65, 90.0><TIME 92.35, 94.51><TIME 94.81, 96.24><TIME 96.34, 101.07><TIME 101.09, 102.92><TIME 104.42, 106.65><TIME 106.93, 107.99><TIME 108.02, 110.34><TIME 112.01, 113.96><TIME 114.0, 116.5><TIME 116.54, 120.02><TIME 120.08, 123.29><TIME 123.32, 124.29><TIME 124.3, 127.29><TIME 127.31, 129.35><TIME 140.03, 142.19>Mince. Il nous faut la carte.<PAGE><lf>Allez...<PAGE><lf>Hé, aide-moi.<PAGE><lf>Tu es sûre que c'est par là ?<PAGE><lf>On est déjà passées par là avec maman.<PAGE><lf>Sherry ?<PAGE><lf>Je t'ai cherchée partout, Sherry...<PAGE><lf>C'était courageux de sortir de ta maison<lf>au milieu de tout ce bazar...<PAGE><lf>À terre, les mains derrière la tête.<PAGE><lf>Attendez, c'est une blague ?<PAGE><lf>À terre, j'ai dit ! Vite !<PAGE><lf>Sherry, attache ses mains.<PAGE><lf>Pourquoi vous faites ça ?<PAGE><lf>La ferme. Ligote-la !<PAGE><lf>Très bien...<lf>Tu la ligotes tout de suite, ou alors elle crève.<PAGE><lf>C'est quoi ces conneries ?<PAGE><lf>Mise en danger d'enfant, pour commencer.<PAGE><lf>Sherry, viens ici.<PAGE><lf>Qu'allez-vous lui faire ?<PAGE><lf>Toi ça te regarde pas.<PAGE><lf>Mon frère est dans le S.T.A.R.S.<lf>Si tu la touches, je te jure que je...<PAGE><lf>Sherry, viens ici !<PAGE><lf>C'est quoi ton nom ?<PAGE><lf>Dis-moi ton putain de nom !<PAGE><lf>Claire !<PAGE><lf>Sherry, tu viens avec moi maintenant<lf>ou tu peux dire adieu à Claire.<PAGE><lf>OK, OK ! J'arrive !<PAGE><lf>J'espère que vous m'emmenez voir ma mère.<PAGE><lf>C'est promis.<PAGE><lf>Ne l'écoute pas, c'est une ordure !<PAGE><lf>Lui faites pas de mal ! Par pitié !<PAGE><lf>J'ai pas d'ordre à recevoir d'une gamine !<PAGE><lf>Arrêtez ! Lâchez-moi ! Lâchez-moi !<PAGE><lf>Personne ne t'a enseigné les bonnes manières ?<lf>On va y remédier.<PAGE><lf>Ah tu vas voir.<PAGE><lf>Lâchez-moi ! Lâchez-moi !<PAGE><lf>Je t'aurai, enfoiré !<PAGE><lf>Tiens bon, Sherry...
+<string>Mince. Il nous faut la carte.
+<string>Allez...
+<string>Hé, aide-moi.
+<string>Tu es sûre que c'est par là ?
+<string>On est déjà passées par là avec maman.
+<string>Sherry ?
+<string>Je t'ai cherchée partout, Sherry...
+<string>C'était courageux de sortir de ta maison<lf>au milieu de tout ce bazar...
+<string>À terre, les mains derrière la tête.
+<string>Attendez, c'est une blague ?
+<string>À terre, j'ai dit ! Vite !
+<string>Sherry, attache ses mains.
+<string>Pourquoi vous faites ça ?
+<string>La ferme. Ligote-la !
+<string>Très bien...<lf>Tu la ligotes tout de suite, ou alors elle crève.
+<string>C'est quoi ces conneries ?
+<string>Mise en danger d'enfant, pour commencer.
+<string>Sherry, viens ici.
+<string>Qu'allez-vous lui faire ?
+<string>Toi ça te regarde pas.
+<string>Mon frère est dans le S.T.A.R.S.<lf>Si tu la touches, je te jure que je...
+<string>Sherry, viens ici !
+<string>C'est quoi ton nom ?
+<string>Dis-moi ton putain de nom !
+<string>Claire !
+<string>Sherry, tu viens avec moi maintenant<lf>ou tu peux dire adieu à Claire.
+<string>
+<string>OK, OK ! J'arrive !
+<string>J'espère que vous m'emmenez voir ma mère.
+<string>C'est promis.
+<string>Ne l'écoute pas, c'est une ordure !
+<string>Lui faites pas de mal ! Par pitié !
+<string>J'ai pas d'ordre à recevoir d'une gamine !
+<string>Arrêtez ! Lâchez-moi ! Lâchez-moi !
+<string>Ah ! Lâchez-moi ! Lâchez-moi !
+<string>Personne ne t'a enseigné les bonnes manières ?<lf>On va y remédier.
+<string>Ah tu vas voir.
+<string>Lâchez-moi ! Lâchez-moi !
+<string>Je t'aurai, enfoiré !
+<string>Tiens bon, Sherry...

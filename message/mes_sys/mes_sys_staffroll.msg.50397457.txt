@@ -1,0 +1,1546 @@
+<string>CAPCOM CO., LTD.
+<string>CAPCOM CO., LTD. Development Support
+<string>ADIA Entertainment Ltd.
+<string>AVANT Inc.
+<string>Binari Sonori, a Keywords Studio
+<string>Kudos Productions Ltd.
+<string>Original Force, Ltd
+<string>Main Title Sequence Created and Produced by Prologue
+<string>T601 Inc.
+<string>XPEC Art Center Inc.
+<string>POWER ARTS international Co., Ltd.
+<string>Himawari Theatre Group Inc.
+<string>TOKYO MARUI CO., LTD.
+<string>Wabisuke.inc,
+<string>IZENE Inc.<lf>INSPION
+<string>CONNECT+ECHO Co., Ltd.
+<string>Just Cause Productions, Inc.
+<string>Voice and MoCap
+<string>SPIN SOLFA Co., Ltd.
+<string>Los Angeles Music Productions
+<string>Tonic Function Co., Ltd.
+<string>Forcewick Sound Design Co., Ltd.
+<string>TOHOKUSHINSHA FILM CORPORATION
+<string>Technicolor Games
+<string>Digital Frontier Inc.
+<string>NEURON AGE CO., LTD.
+<string>KOBI Co., Ltd.
+<string>Localizations Tools and Support provided by XLOC, Inc.
+<string>Special Thanks : Monotype K.K.
+<string>Font Design by Fontworks Inc.
+<string>Font Design by Group Y Inc.
+<string>DynaFont is a registered Trademark of DynaComware Taiwan Inc.
+<string>Dedicated to Akio Kamiji
+<string>Special Thanks
+<string>The Harley-Davidson motorcycle appears with permission from Harley-Davidson Motor Company.<lf>Harley, Harley-Davidson and the Bar & Shield logo are among the trademarks of H-D U.S.A., LLC
+<string>Testronic
+<string>The typefaces included herein are solely developed by DynaComware.
+<string>Artbeats Digital Film Library
+<string>Getty Images
+<string>Visual Effects Stock Footage provided by FX Elements.
+<string>Visual FX Stock Footage provided by Final Light Productions
+<string>Resident Evil.Net
+<string>Global Production
+<string>Directors
+<string>Art Directors
+<string>Project Managers
+<string>Vendor Managers
+<string>Production Manager
+<string>Release Manager
+<string>Game Designers
+<string>Dialogue/Text Managers
+<string>Character Artists
+<string>Rigging Artists
+<string>Technical Artists
+<string>Photoscan Engineer
+<string>External Cooperation Volks Inc.
+<string>Body Scan Models
+<string>Environment Artists
+<string>Gimmick Artists
+<string>Concept Artists
+<string>Animation Artists
+<string>Cinematic Animation Artists
+<string>Facial Animation Artists
+<string>VFX Director
+<string>VFX Technical Artist
+<string>Visual Effects Artists
+<string>Lighting Artist
+<string>UI Artists
+<string>Graphic Design Artists
+<string>Programmers
+<string>RE ENGINE Staff
+<string>Audio Director
+<string>Sound Designers
+<string>Composers
+<string>Sound Programmers
+<string>Dynamic Mixing Engineer
+<string>Assistant Engineers
+<string>Sound Studio Coordinator
+<string>Foley Artist
+<string>Cinematic Sound Designer
+<string>Sound Manager
+<string>Promotional Video Editors
+<string>Promotional Video Assistants
+<string>3D Scan Coordinators
+<string>Video Engineer
+<string>Motion Capture Operators
+<string>Motion Capture Actors
+<string>Package & Manual Designers
+<string>Submission Coordinators
+<string>Programmers
+<string>Designers
+<string>Planners
+<string>Senior Manager
+<string>Localization Direction<lf>
+<string>English Localization/Editor
+<string>FIGS Coordinator & Italian Localization
+<string>Italian Editor
+<string>Multi-language Coordinator and French Localization
+<string>French Editor
+<string>German Localization
+<string>German Editor
+<string>Spanish Localization
+<string>Spanish Editor
+<string>Solutions Developer
+<string>Production Manager
+<string>Kazunori Kadoi
+<string>Yasuhiro Anpo
+<string>Gez Fry
+<string>Satoshi Takamatsu
+<string>Tatsuo Isoko
+<string>Keiji Matsunaka
+<string>Tsubasa Miyamoto
+<string>Tomohisa Suzuoki
+<string>Takanori Arai
+<string>Satomi Hayashi
+<string>Vilhelm Smari Isleifsson
+<string>Mikhail Ignatov
+<string>Takuma Uehigashi
+<string>Hidehiro Goda
+<string>Kohei Ozaki
+<string>Keisuke Yamakawa
+<string>Yuki Shinzato
+<string>Atsushi Yasu
+<string>Shogo Fujishima
+<string>Yasuhiro Seto
+<string>Genki Usui
+<string>Dairo Chijiiwa
+<string>Yukio Nishimura
+<string>Satoko Tanaka
+<string>Yosuke Yamagata
+<string>Riccardo Minervino
+<string>Yuichi Akimoto
+<string>Go Nishimura
+<string>Hirofumi Nakaoka
+<string>Tsutomu Ono
+<string>Petr Zapotocky
+<string>Anoop Manalvathukkal
+<string>Makoto Fukui
+<string>Shuichi Kawata
+<string>Takahashi
+<string>Matthew Walker
+<string>Jeffrey Windham
+<string>David Cockman
+<string>Miguel E. Corti
+<string>Yoshitsugu Tanaka
+<string>Kenji Inotsume
+<string>Hiroto Teraoka
+<string>Yasuaki Kishimoto
+<string>Haruka Mine
+<string>Takahide Sunagawa
+<string>Hongju Shin
+<string>Lin Chiming
+<string>Junichiro Nakashima
+<string>Tetsuya Deguchi
+<string>Chikako Kijima
+<string>Daisuke Taneda
+<string>Minami Tamura
+<string>Tomonori Takano
+<string>Tomoko Takahashi
+<string>Ward Lindhout
+<string>Yuki Yanagimoto
+<string>Yukio Seike
+<string>Masaya Ueda
+<string>Masafumi Kimoto
+<string>Yuichi Hasegawa
+<string>Masahiko Ueda
+<string>Syofu Ohashi
+<string>Tsuyoshi Kobayashi
+<string>Yoshiki Takegaki
+<string>Maya Murata
+<string>Masato Miyazaki
+<string>Tetsuhei Asano
+<string>Yuki Hasegawa
+<string>Tomohiro Nakano
+<string>Seiichi Shibata
+<string>Keiko Kamekawa
+<string>Hiroko Ihara
+<string>Yukiya Tomiyama
+<string>Yo Ikeda
+<string>Yoshiki Adachi
+<string>Koshi Watamura
+<string>Keisuke Ando
+<string>Zihao Hu
+<string>Seitaro Takai
+<string>Takehisa Obayashi
+<string>Yuya Nishimura
+<string>Yuka Chi
+<string>Masanari Murakami
+<string>Masahiro Takayama
+<string>Moe Kataoka
+<string>Rikako Onozawa
+<string>Saki Kawano
+<string>Tomohiro Goto
+<string>Dai Tanaka
+<string>Masatoshi Fukazawa
+<string>Takefumi Tahara
+<string>Hiroto Makiyama
+<string>Takuya Nakano
+<string>Yuki Sekino
+<string>Kazuki Sakakibara
+<string>Yasuto Tsuchisaka
+<string>Soki Nakao
+<string>Fuya Oyachi
+<string>Yosuke Noro
+<string>Yoshiatsu Sakabe
+<string>Shimpei Tanaka
+<string>Koetsu Matsuda
+<string>Shigeki Niino
+<string>Tomofumi Ishida
+<string>Kazuhiro Takahara
+<string>Stefanus Nanami
+<string>Kenta Yamaki
+<string>Yusuke Ichiyama
+<string>Haruna Akuzawa
+<string>Takakimi Hashimoto
+<string>Takumi Yamada
+<string>Takumi Sato
+<string>Haruki Noritake
+<string>Soichi Uchiyama
+<string>Tomohiro Shimizu
+<string>Takaya Nishii
+<string>Tsukasa Murayama
+<string>Adam Clapsaddle
+<string>Kohei Jin
+<string>Hiroki Sone
+<string>Ukyo Yoshida
+<string>Katsuya Kikuchi
+<string>Yusuke Saito
+<string>Naoki Suenaga
+<string>Daisuke Yagyu
+<string>Atsuhiko Murata
+<string>Masashi Okubo
+<string>Hitoshi Yokota
+<string>Shingo Ito
+<string>Masatoshi Nakamura
+<string>Juhui Wu
+<string>Seiya Kato
+<string>Haruki Shimizu
+<string>Kentaro Nakashima
+<string>Yoshito Kato
+<string>Shohei Miyata
+<string>Shotaro Nakayama
+<string>Shusaku Uchiyama
+<string>Zhenlan Kang
+<string>Yusuke Kinoshita
+<string>Kenji Kojima
+<string>Masahiko Minami
+<string>Kazuya Takimoto
+<string>Ryouta Takei
+<string>Takashi Moriguchi
+<string>Setsuo Yamamoto
+<string>Takeshi Kitamura
+<string>Arata Iwashina
+<string>Naoya Yamanaka
+<string>Yoshihiro Kura
+<string>Akira Tsumuraya
+<string>Yukiko Sasaki
+<string>Manami Kitatani
+<string>Takahiro Takahashi
+<string>Takeshi Nose
+<string>Yoshiyuki Tonoe
+<string>Yuki Hoshino
+<string>Katsumi Kobayashi
+<string>Ikuo Nakayama
+<string>Naoki Fujisawa
+<string>Takeshi Nose
+<string>Yoshiaki Yuasa
+<string>Masatoshi Fukidome
+<string>Naoyuki Tsuchiya
+<string>Shinichiro Komizu
+<string>Kenji Yamaguchi
+<string>Nobuya Yoshizumi
+<string>Kotaro Fujioka
+<string>Takehiro Kida
+<string>Naotaka Onishi
+<string>Andrew Weil
+<string>Yuta Hayashi
+<string>Koichi Okada
+<string>Hiroyuki Yamato
+<string>Shunichi Mine
+<string>Hidekatsu Tetsuda
+<string>Tatsuya Ogawa
+<string>Seiya Iwasaki
+<string>Masaki Sugimoto
+<string>Tadashi Noyama
+<string>Yuya Kuroyabu
+<string>Alberto Paque Ramirez
+<string>Troy Smith
+<string>Yanlan Qi
+<string>Yoshiaki Sakurai
+<string>Shinji Umemoto
+<string>Miyuki Yakushiji
+<string>Tomohiro Fujimoto
+<string>Akihiro Koketsu
+<string>Kota Tsuchikawa
+<string>Akio Kamiji
+<string>Shozo Horiuchi
+<string>Kohei Okumura
+<string>Kei Sasaki
+<string>Akihiko Nasu
+<string>Yoshihiro Tamura
+<string>Sayuri Shintani
+<string>Naruhiko Nishio
+<string>Joosook Eom
+<string>Kohei Tomita
+<string>Sasuke Nakano
+<string>Akiko Shibata
+<string>Yunju Jo
+<string>Yuiko Hirakuchi
+<string>Shintaro Washino
+<string>Kohei Shiomi
+<string>Hiroki Ogawa
+<string>Haruka Fujie
+<string>Masaki Sugita
+<string>Mai Takeda
+<string>Eul Noh
+<string>Kanu Akamatsu
+<string>Kazuya Takei
+<string>Kei Hashimoto
+<string>Satoshi Ueda
+<string>Masahiro Yamada
+<string>Kohetsu Matsuda
+<string>Toshiaki Yonezawa
+<string>Hiroshi Omachi
+<string>Ryosuke Sakai
+<string>Aya Kamimura
+<string>Michiaki Masuda
+<string>Daisuke Sanekane
+<string>Masaaki Korematsu
+<string>Akiyoshi Takahashi
+<string>Hitoshi Mishima
+<string>Yuki Noto
+<string>Koichi Kubo
+<string>Hong Hu
+<string>Akihiro Shimizu
+<string>Tatsuya Okamoto
+<string>Shunsuke Saito
+<string>Tatsunori Aoyama
+<string>Sho Kitami
+<string>Ojiro Tanaka
+<string>Seiya Sugo
+<string>Yoshimi Matsukawa
+<string>Ryota Imazumi
+<string>Takanori Senbon
+<string>Taiga Yano
+<string>Ginga Kato
+<string>Yuki Kitajima
+<string>Masakazu Sakoya
+<string>Yuki Furuta
+<string>Gustavo Martins
+<string>Hideki Shiojiri
+<string>Isao Higashino
+<string>Koji Misu
+<string>Daigo Matsuura
+<string>Katsuya Chiba
+<string>Kazuma Mori
+<string>Masataka Nemoto
+<string>Yuki Asakura
+<string>Taisuke Fujisawa
+<string>Tsunenori Shirahama
+<string>Masahiro Nakano
+<string>Tsuyoshi Nagae
+<string>Hiroshi Yamaguchi
+<string>Takuya Kamiura
+<string>Di Xi
+<string>Yusuke Hayashi
+<string>Tetsuji Uchida
+<string>Yasuyuki Okura
+<string>Naoki Ohsawa
+<string>Shinya Fujiwara
+<string>Shuhei Fujiwara
+<string>Christopher Narita
+<string>Shogyoku Gen
+<string>Jeffrey Windham
+<string>Miguel E. Corti
+<string>Janet Hsu
+<string>David Cockman
+<string>Luca Baldassarre
+<string>Stefano Ivan Stinga
+<string>Ugo Ricard
+<string>Francis Ishii
+<string>Maurice Ossenbrink
+<string>Florian Seidel
+<string>Manuel Trillo Carmona
+<string>Alberto Paqué Ramírez
+<string>Graham McRobbie
+<string>Mikhail Ignatov
+<string>Wataru Hachisako
+<string>Kentaro Inamura
+<string>Yuji Higashiyama
+<string>Nao Tanimoto
+<string>Mayuko Mizuno
+<string>Hiroto Yanase (K2 CO., LTD.)
+<string>Mitsunori Sasaki (K2 CO., LTD.)
+<string>Rei Orita (K2 CO., LTD.)
+<string>Yoshinori Saitou (K2 CO., LTD.)
+<string>Shinji Umemoto (K2 CO., LTD.)
+<string>Junichiro Nakashima (K2 CO., LTD.)
+<string>Shouzou Horiuchi (K2 CO., LTD.)
+<string>Tetsuya Deguchi (K2 CO., LTD.)
+<string>Takeshi Inoue (K2 CO., LTD.)
+<string>Yasushi Haraguchi (K2 CO., LTD.)
+<string>Yuto Nakagawa
+<string>Akio Chuma
+<string>Ryo Hirai
+<string>Sarina Takeda
+<string>Ayako Yoshioka
+<string>Dairo Yoshihisa
+<string>Qi Yanlan
+<string>Yuki Shimono
+<string>Rika Ninomiya
+<string>Division Managers
+<string>CAPCOM CO., LTD. Sales and Marketing Teams
+<string>CE Europe, Ltd.
+<string>Capcom Entertainment France
+<string>Capcom Entertainment Germany GmbH
+<string>Capcom U.S.A., Inc.
+<string>Capcom Asia Co., Ltd.
+<string>Capcom Entertainment Korea Co., Ltd.
+<string>Quality Assurance
+<string>Legal Section
+<string>Intellectual Property
+<string>Contract Teams
+<string>Video Content Team
+<string>Executive Project Manager
+<string>Senior Project Manager
+<string>Executive Vendor Manager
+<string>Deputy General Managers
+<string>Senior Managers
+<string>Back Office
+<string>Global Business Development and Strategy Department
+<string>Global Business Development Team
+<string>Global Business Strategy and Planning Team
+<string>External Affairs Section
+<string>Global Marketing Strategy & Planning Department
+<string>Japan & Asia Marketing Strategy Section
+<string>Brand Strategy Team
+<string>Online Strategy Team
+<string>Consumer Games Sales Department
+<string>Sales Planning Section
+<string>Sales Promotion Team
+<string>E-Commerce Team
+<string>Promotion Planning Section
+<string>Brand Promotion Team
+<string>Interactive PR Team
+<string>Character Contents Business Development Section
+<string>Media License Team
+<string>License Team
+<string>Merchandise Management Team
+<string>Asia Business Section
+<string>Asia Business Development Team
+<string>License Development Team
+<string>CEO
+<string>COO
+<string>Commercial Director
+<string>Marketing Director
+<string>Director, Business Services
+<string>Brand Manager
+<string>Community Manager
+<string>PR Manager
+<string>Legal Manager
+<string>Business Coordination Manager
+<string>Production Services Manager
+<string>Production Services Coordinator
+<string>Research & Planning Manager
+<string>Research & Planning Assistant
+<string>Marketing Services Manager
+<string>Special Project Manager
+<string>Digital & Mobile Sales Manager
+<string>Digital Sales Account Manager
+<string>Account Manager
+<string>Sales Manager
+<string>Marketing Manager
+<string>Communication Manager
+<string>Commercial Director
+<string>Marketing Manager
+<string>PR Manager
+<string>Products & Events Manager
+<string>Community Manager
+<string>Sales Manager
+<string>Sales & Marketing Coordinator
+<string>Chief Executive Officer
+<string>Senior Director, Marketing
+<string>Brand Manager, Marketing
+<string>Brand Manager, Marketing
+<string>Administrative Assistant, Marketing
+<string>Senior Director, Communications
+<string>Senior PR Manager
+<string>PR Manager
+<string>Social Media Specialist
+<string>Customer Support Representative
+<string>Director, Divisional Communications
+<string>Project Manager
+<string>Vice President, Sales
+<string>National Sales Director
+<string>Area Sales Managers
+<string>Senior Vice President, Digital Platforms
+<string>Director, Digital Platforms
+<string>Digital Account Manager
+<string>Business Development Specialist
+<string>Business Strategy Analyst
+<string>Director, Licensing & eSports
+<string>Associate Director, Licensing
+<string>Licensing Operations Manager
+<string>Associate Licensing Manager
+<string>Business Development Manager
+<string>Associate Manager, Strategic Planning
+<string>Director, Marketing Operations, Events & Creative Services
+<string>Events Manager
+<string>Director, Product Operations & Submissions
+<string>Associate Project Managers
+<string>Development Support Technician
+<string>Vice President, Operations
+<string>Senior Operations Manager
+<string>Operation Support Specialist
+<string>Vice President, General Counsel, Legal
+<string>Corporate Counsel, Legal
+<string>Brazil Territory Director, Sales & Marketing
+<string>Brazil PR Manager
+<string>Brazil Community Manager
+<string>Sales & Marketing Director
+<string>Business Development Manager
+<string>Marketing Manager
+<string>Marketing Coordinator
+<string>Marketing Executive
+<string>Management Department
+<string>Lead Tester
+<string>Assistant Lead Testers
+<string>Senior Testers
+<string>Compliance Testers
+<string>Network Testers
+<string>Testers
+<string>QA Manager
+<string>Quality Verification Section
+<string>Progress Control Team
+<string>Contents Analysis Team
+<string>Legal Team
+<string>Trademark & Copyright Team
+<string>Patent Team
+<string>Osaka R&D Contract Team
+<string>Tokyo R&D Contract Team
+<string>PR Producer
+<string>Producers
+<string>Executive Producer
+<string>Research Analyst
+<string>Makoto Kadono
+<string>Hiroyuki Chi
+<string>Yoshizumi Hori
+<string>Hayato Kaji
+<string>Masachika Kawata
+<string>Hirokazu Yonezuka
+<string>Yasutaka Hori
+<string>Tetsuto Koyama
+<string>Megumi Mizobuchi
+<string>Kenji Kataoka
+<string>Kaoru Miyamoto
+<string>Masayuki Fukumoto
+<string>Moto Shinobe
+<string>Kosuke Nakano
+<string>Motohisa Tezuka
+<string>Ayumu Terada
+<string>Kunio Funahara
+<string>Shinichi Sato
+<string>Mototaka Ido
+<string>Yukihisa Yamaguchi
+<string>Tsutomu Masuda
+<string>Akihiro Kobayashi
+<string>Hironori Sasaki
+<string>Kouhei Kubota
+<string>Norio Tanaka
+<string>Hitoshi Oose
+<string>Tsukasa Fujita
+<string>Koichi Nishiguchi
+<string>Hideki Ohnuki
+<string>Nobuhiko Kobayashi
+<string>Kenta Yamada
+<string>Kaori Uchida
+<string>Mitsuaki Sugibayashi
+<string>Kana Urasawa
+<string>Tetsuya Tabuchi
+<string>Isao Kimura
+<string>Manabu Okamoto
+<string>Jun Matsumoto
+<string>Sai Ogata
+<string>Hironori Ojima
+<string>Teruyuki Yoneyama
+<string>Kenji Kato
+<string>Masahide Akitake
+<string>Noriomi Ito
+<string>Naoto Minamide
+<string>Aki Kiuchi
+<string>Shuji Kawasaki
+<string>Kenichi Tanaka
+<string>Tetsuya Ohno
+<string>Taku Arai
+<string>Jihae Choi
+<string>Mareo Yamada
+<string>Kunio Neo
+<string>Stuart Turner
+<string>Andy Davis
+<string>Antoine Molant
+<string>Shigemi Tanaka-Lee
+<string>Stefano Barolo
+<string>Kristina Markez
+<string>Laura Skelly
+<string>Yuma Nakanishi
+<string>Patrick Shields
+<string>David Haddon
+<string>Amy Oliver
+<string>Simon Haley
+<string>Tiffanie Zheng
+<string>Carlene Honiss
+<string>Kim McCauley
+<string>Matt Glover
+<string>Anthony Darling
+<string>James MacPearson
+<string>Cynthia Lehnhard
+<string>Emmanuel Melero
+<string>Cyril Berrebi
+<string>Kai Stüwe
+<string>Matthias Mirlach
+<string>Claas Wolter
+<string>Claudia Awe
+<string>Stefanie Pirsich
+<string>Christian Patrini
+<string>Giulia Bongiovanni
+<string>Kiichiro Urata
+<string>David Zemke
+<string>Mike Lunn
+<string>Tim Turi
+<string>Vincent Kwong
+<string>Alicia Kim
+<string>Angella Austin
+<string>Stephanie Palermo
+<string>Kellen Haney
+<string>Patrick Kulikowski
+<string>Kaori Tsukuda
+<string>Ted Tsung
+<string>Debbie Mola
+<string>Dean Taraboi
+<string>Kathy Kackley
+<string>Karl Kabler
+<string>William Yagi-Bacon
+<string>Mai Kawaguchi
+<string>Danh Huynh
+<string>Yohko Kawakami
+<string>Ayuko Suzuki
+<string>John Diamonon
+<string>Noriko Matsunaga
+<string>Susan Suarez
+<string>Bao Le
+<string>Sakae Osumi
+<string>Yuya Goda
+<string>Laili Bosma
+<string>Joshua Collard
+<string>Jon Airhart
+<string>Matt Landi
+<string>David Marques
+<string>Michael Desenganio
+<string>Louie Reyes
+<string>Edmund Wong
+<string>Sachiyo Llamas
+<string>Hiro Tachibana
+<string>Dara Ashrafi
+<string>Jean Toledo
+<string>Fabio Santana
+<string>Dennys Michelassi
+<string>Alex Ng Ka Wai
+<string>Franky Lo Siu Fa
+<string>Carrie Lam Ying Ying
+<string>Sonia Chan Lok Yiu
+<string>Kyra Yeung Ting Kwan
+<string>Kim Jin Wook
+<string>Hiroshi Takayama
+<string>Akinori Murata
+<string>Masato Namba
+<string>Kenjiro Miyamae
+<string>Keita Nakajima
+<string>Satoshi Ishiguchi
+<string>Daisuke Murayama
+<string>Koki Kojima
+<string>Masamitsu Kusaba
+<string>Masahiro Fujita
+<string>Hiroki Kaneko
+<string>
+<string>Kengo Sadamoto
+<string>Shiro Hiwatashi
+<string>Mari Fujita
+<string>Toshiki Kuroda
+<string>Yuria Hiraoka
+<string>Shion Amita
+<string>
+<string>
+<string>
+<string>Mitomu Michinoshita
+<string>Shinichi Watanabe
+<string>Ayana Nakamura
+<string>Sayaka Kibino
+<string>Maki Fujita
+<string>Daichi Kitagawa
+<string>Syougo Wada
+<string>Ryoga Okada
+<string>Daiki Okada
+<string>Kazuki Nii
+<string>Kaoru Okutani
+<string>Yuta Yabuuchi
+<string>Shigeyoshi Kuwamura
+<string>Shigemi Komatsu
+<string>Yasuhiro Matsuo
+<string>Kenichi Noda
+<string>Takaaki Maeno
+<string>Kenji Morino
+<string>Takahiro Tokuda
+<string>Takanobu Nishino
+<string>Minoru Horike
+<string>Yusuke Kojima
+<string>Takaaki Tanaka
+<string>Satoru Ishigooka
+<string>Makiko Nakamura
+<string>Yuki Shimada
+<string>Takashi Chiba
+<string>Miki Owa
+<string>Yuko Yasuda
+<string>Kenji Yamada
+<string>Takashi Chihara
+<string>Issei Tsuhara
+<string>Satoshi Kawakami
+<string>Shigeyoshi Kobayashi
+<string>Kyosuke Takahashi
+<string>Naoki Yamauchi
+<string>Jun Nishino
+<string>Daiki Arai
+<string>Yuki Tanaka
+<string>Shota Nakajima
+<string>
+<string>
+<string>
+<string>Shota Iida
+<string>
+<string>
+<string>Asuka Kurano
+<string>
+<string>Kyouhei Wada
+<string>Ryota Aizawa
+<string>
+<string>Ryoga Okada
+<string>Yosuke Iino
+<string>Wataru Mori
+<string>Kosuke Kawamoto
+<string>Mina Araki
+<string>Nana Watabe
+<string>Keisuke Yamaoka
+<string>Takuya Nomura
+<string>Natsumi Nagaoka
+<string>
+<string>
+<string>Susumu Kobayashi
+<string>Takashi Ikeda
+<string>Teppei Shimode
+<string>Toshikazu Morita
+<string>Tomoaki Kamaura
+<string>Ippei Arikawa
+<string>Kazuhiro Asami
+<string>Yuto Komori
+<string>Mami Maeda
+<string>Kana Onozawa
+<string>Peter Fabiano
+<string>Yoshiaki Hirabayashi
+<string>Tsuyoshi Kanda
+<string>Jun Takeuchi
+<string>Kazuyuki Takano
+<string>Koichiro Shimura
+<string>English Voice Cast and MoCap
+<string>Japanese Voice Cast
+<string>French Voice Cast
+<string>Italian Voice Cast
+<string>German Voice Cast
+<string>Spanish Voice Cast
+<string>Leon S. Kennedy
+<string>Claire Redfield
+<string>Ada Wong
+<string>Sherry Birkin
+<string>Marvin Branagh
+<string>Brian Irons
+<string>Annette Birkin
+<string>William Birkin
+<string>Additional Voices
+<string>Nick Apostolides
+<string>Stephanie Panisello
+<string>Jolene Andersen
+<string>Eliza Pryor
+<string>Christopher Watson
+<string>Sid Carton
+<string>Karen Strassman
+<string>TJ Rotolo
+<string>Kenneth Edwards
+<string>Michael Bailey
+<string>Mark Musashi
+<string>Michelle Lee
+<string>Luke Lafontaine
+<string>Aaron Hawley
+<string>Charles Isaac
+<string>David Roach
+<string>Todd Haberkorn
+<string>Becky Boxer
+<string>Heather Halley
+<string>Tom Keegan
+<string>David Vincent
+<string>Christian T. Chan
+<string>Reuben Langdon
+<string>Jason Downs
+<string>Lauren Anchel
+<string>Courtney Munch
+<string>David Vaughn
+<string>Chris Jai Alex
+<string>Jay Preston
+<string>Molly Daisy
+<string>Derron Ross
+<string>Toshiyuki Morikawa
+<string>Yuhko Kaida
+<string>Junko Minagawa
+<string>Rio Sasaki
+<string>Fuminori Komatsu
+<string>Akio Hirose
+<string>Marika Hayashi
+<string>Toshihiko Seki
+<string>Kenji Takahashi
+<string>Hideki Tanaka
+<string>Masaki Terasoma
+<string>Ryunosuke Watanuki
+<string>Mana Hirata
+<string>Takehiro Hasu
+<string>Kenji Yoshida
+<string>Atsushi Imaruoka
+<string>Atsushi Imaruoka
+<string>
+<string>Wataru Tsuyuzaki
+<string>Daisuke Takahashi
+<string>Kenji Takahashi
+<string>Ryunosuke Watanuki
+<string>Wataru Tsuyuzaki
+<string>Katsutoshi Karatsuma
+<string>Shunichi Mine
+<string>Yuki Shinzato
+<string>Janet Hsu
+<string>Peter Fabiano
+<string>Anatole de Bodinat
+<string>Kelly Marot
+<string>Olivia Nicosia
+<string>Clara Soares
+<string>Daniel Lobé
+<string>Achille Orsoni
+<string>Ingrid Donnadieu
+<string>Raphaël Cohen
+<string>Laurent Sao
+<string>Olivier Cordina
+<string>Jérémie Bédrune
+<string>Julien Meunier
+<string>Sandra Parra
+<string>Eric Peter
+<string>Adrien Larmande
+<string>Jean-François Cros
+<string>Jean Rieffel
+<string>Fanny Bloc
+<string>Laurent Gris
+<string>Loïc Houdré
+<string>Nicolas Djermag
+<string>Hugues Martel
+<string>François Hatt
+<string>Alessandro Rigotti
+<string>Emanuela Pacotto
+<string>Patrizia Scianca
+<string>Tiziana Martello
+<string>Mattia Bressan
+<string>Giuseppe Pirovano
+<string>Marcella Silvestri
+<string>Marco Benedetti
+<string>Massimo Di Benedetto
+<string>Gianluca Iacono
+<string>Roberto Palermo
+<string>Matteo De Mojana
+<string>Francesca Perilli
+<string>Domenico Brioschi
+<string>Edoardo Lomazzi
+<string>Silvio Pandolfi
+<string>Luca Sandri
+<string>Valentina Pallavicino
+<string>Alessandro Lussiana
+<string>Maurizio Trombini
+<string>Francesco Rizzi
+<string>Mario Nutarelli
+<string>Alessandro Zurla
+<string>Matthias Keller
+<string>Leyla Trebbien
+<string>Sabina Godec
+<string>Ruth Hamm
+<string>Gilles Karolyi
+<string>Gordon Piedesack
+<string>Gisa Bergmann
+<string>José Rodriguez
+<string>Fabio Sorgini
+<string>Mario Hassert
+<string>Dieter Gring
+<string>Manuel Francescon
+<string>Katrin Laksberg
+<string>Patrick Dollmann
+<string>Nils Weyland
+<string>Heiko Grauel
+<string>Markus Haase
+<string>Verena Dienst
+<string>Stefan Senf
+<string>Andreas Otto
+<string>Christian Jungwirth
+<string>Michael Krüger
+<string>Klaus Krückemeyer
+<string>Lorenzo Beteta
+<string>Ana de Castro
+<string>Conchi López
+<string>Piluca Martín
+<string>Óscar Castellanos
+<string>Juanjo López
+<string>Inma Gallego
+<string>David Robles
+<string>Rodri Martín
+<string>Alfredo Martínez
+<string>Antonio Domínguez
+<string>Álvaro Ramos
+<string>Laura Barriga
+<string>Javier Martínez
+<string>Artur Palomo
+<string>José María Larrú
+<string>Fran Jiménez
+<string>Vera Bosch
+<string>Sergio Goicoechea
+<string>Fermín Pintos
+<string>Carlos López Benedí
+<string>Carles Caparrós
+<string>Héctor Garay
+<string>President & CEO
+<string>Business Development Manager
+<string>Senior Producer
+<string>Producer
+<string>Art Directors
+<string>Artists
+<string>Yaming Di
+<string>Makoto Hasegawa
+<string>Myra Xu
+<string>Kiddo Zhang
+<string>Carl Chen
+<string>Wan Jinkui
+<string>Zhu Yanan
+<string>Yang Kaibin
+<string>Cai Yongyan
+<string>liu Peipei
+<string>Hu Linxiao
+<string>Zhang Shuai
+<string>Zhang Wei
+<string>Si Lingling
+<string>Lu Jun
+<string>Chen Shihong
+<string>Motion Designers
+<string>Eisaku Onishi
+<string>Hiroto Suzuki
+<string>Moegi Funada
+<string>Project Managers
+<string>Language Specialist
+<string>Audio Project Lead
+<string>Giuseppe Barra
+<string>Elena Giudici
+<string>Francesco Panfili
+<string>Marco Locatelli
+<string>Roberto Rizzi
+<string>GM
+<string>AD
+<string>PM
+<string>3D Artists
+<string>Edward Yeh
+<string>Bida Wang
+<string>Eric Yeh
+<string>Stan Huang
+<string>Stacey Huang
+<string>Don Huang
+<string>Emit Lin
+<string>Junlong Kuo
+<string>TungJu Shen
+<string>Yuchi Yang
+<string>Alan Lan
+<string>Maverick Chen
+<string>JH Sung
+<string>Nomay Hunag
+<string>I-Chen Lin
+<string>Ming Su
+<string>Weitin Yu
+<string>Jim Lin
+<string>Niki Pan
+<string>JS Chen
+<string>DouDou Zhuang
+<string>Producer
+<string>Project Managers
+<string>Project Lead
+<string>Animation Supervisor
+<string>Production Lead
+<string>Facial Animators
+<string>Body Animators
+<string>Quality Check
+<string>Daria Gu
+<string>Agnes Wang
+<string>Clio Qin
+<string>Yunpeng Jiao
+<string>Qian Zheng
+<string>Ruixiang Hu
+<string>Ning Du
+<string>Qijuan Lu
+<string>Lie Wei
+<string>Yong Hua
+<string>Haiyu Ren
+<string>Binghuan Lu
+<string>Qingzhe Qiu
+<string>Yingzheng Shen
+<string>Xiaoxiao Zhang
+<string>Jiakang Xu
+<string>Jiaming Xu
+<string>Xiaoyun Xu
+<string>Peilei Yang
+<string>Zhenqiu Liu
+<string>Kang Yin
+<string>Yuezhong Chen
+<string>Zhibo Tian
+<string>Zhiwei Geng
+<string>Creative Director/Designer
+<string>Concept Design Artist
+<string>Lead Animator
+<string>3D Modeling, Animation, Compositing by
+<string>Post Production Supervisor
+<string>VFX Producer
+<string>Production Coordinator
+<string>Edited by
+<string>Executive Creative Director
+<string>Executive Producer
+<string>Olga Midlenko
+<string>Mike Zeng
+<string>Takayuki Sato
+<string>Giantstep
+<string>Gary Mau
+<string>Elena Orlova
+<string>Clea Newman
+<string>Kyle Cooper
+<string>Shawn Fedorchuk
+<string>Kyle Cooper
+<string>James Kang
+<string>Director/Editor
+<string>Producer
+<string>Shinji Yamada
+<string>Yoshiteru Yamamoto
+<string>XAC Kaohsiung Studio
+<string>XAC Suzhou Studio
+<string>XAC Taipei Studio
+<string>Project Managers
+<string>Art Director
+<string>Lead Artists
+<string>Artists
+<string>Project Manager
+<string>Model Leader
+<string>Texture Leader
+<string>Animation Leader
+<string>Artists
+<string>Animators
+<string>Chairman
+<string>Business Development Manager
+<string>Art Director
+<string>Project Managers
+<string>Animators
+<string>Ilin Hsu
+<string>Stacey Lo
+<string>Lucien Chao
+<string>Dexter Chen
+<string>Liana Chang
+<string>Mengju Tsai
+<string>Yenming Ting
+<string>Brush Tsai
+<string>Tndoys Wang
+<string>Abbi Yan
+<string>Daniel Huang
+<string>Joy Huang
+<string>Bruce Kuo
+<string>Shihchieh Su
+<string>Yilin Wu
+<string>Woody Pan
+<string>Yuling Huang
+<string>Max Yeh
+<string>ChenWen Chen
+<string>Arthur Huang
+<string>Chu Hsieh
+<string>YuTing Peng
+<string>Seki Shi
+<string>Yong Liu
+<string>Yan Liu
+<string>Xiao Jiang
+<string>XiaoYan Han
+<string>Sheng Yu
+<string>YanNi Qiu
+<string>JiWei Fan
+<string>Lei Zhou
+<string>Jun Ding
+<string>NingBo Cheng
+<string>ChunJie Wang
+<string>JingHuan Hua
+<string>XiaoLei Hao
+<string>Yan Zhang
+<string>Yan Hu
+<string>Gordon Lin
+<string>David Kao
+<string>Indiing Li
+<string>Ilin Hsu
+<string>Yuuta Chou
+<string>Che-Kai Chang
+<string>Kun-Kit Ao
+<string>Chia-Wei Peng
+<string>Hung-Chun Li
+<string>Jun-Wei Luo
+<string>Wei-Tse Hong
+<string>Justin Lin
+<string>Shane Chao
+<string>Dora Yeh
+<string>JieLong Tsai
+<string>Yafang Hsueh
+<string>Tim Lee
+<string>Yuchi Chen
+<string>HaoZhong You
+<string>Nancy Fang
+<string>Chienhui Hung
+<string>Pei Yun
+<string>Minghsuan Cheng
+<string>Jianfan Lin
+<string>Daphne Xiao
+<string>ZhongHui Li
+<string>JuanJuan Wang
+<string>WenYu Jiang
+<string>Lei Chen
+<string>BingBing Wang
+<string>Heng Zhao
+<string>JingKui Hao
+<string>Jian Zhang
+<string>Chung-Ching Cheng
+<string>Yuan-Ching Cheng
+<string>Fang-Ju Yeh
+<string>Ting-Tao Hung
+<string>Jack Fu
+<string>Performers
+<string>Keita Hayashi
+<string>Hirotaka Matsushita
+<string>Yujiro Nomura
+<string>Eko Okuyama
+<string>Shogo Hagiwara
+<string>Actors
+<string>Emiru Taguchi
+<string>Yuki Takagi
+<string>President
+<string>Senior Managing Director
+<string>Sales & Publicity Dept. Assistant Manager
+<string>Takahiro Iwasawa
+<string>Shigeru Iwasawa
+<string>Masaru Shimamura
+<string>Cast
+<string>Casting Coordinator
+<string>Tsubasa Tada
+<string>Miki Koyama
+<string>Daichi Miura
+<string>Chihiro Hoshibata
+<string>INSPION Sound Supervisor
+<string>Composer
+<string>Sound Designers
+<string>Takeshi Kuramochi
+<string>Yuichi Tsuchiya
+<string>Shoichi Hiyama
+<string>Tomoya Nakajima
+<string>Rui Ouchi
+<string>Masahiro Izumi
+<string>Composer
+<string>Sound Engineers
+<string>Sound Designer
+<string>Sound Designer
+<string>Sakiko Sakuragi (OMFACTORY)
+<string>Su-kei Oshima (OMFACTORY)
+<string>Hiroshi Watanabe
+<string>Makoto Shozu (FLIGHTGRAF)
+<string>Kazuki Kitamura
+<string>FULL PERFORMANCE CAPTURE - CREW
+<string>Producer
+<string>Cinematic Director
+<string>Cinematic Director/Stunt Coordinator
+<string>Animation Motion Capture Supervisor
+<string>Animation Supervisor
+<string>Animators
+<string>Facial Animator Supervisor
+<string>Facial Animators
+<string>Lighting Artist
+<string>Technical Support
+<string>Production Assistants
+<string>Animator
+<string>Lighting Artists
+<string>Animator
+<string>Script Adaptation
+<string>Storyboard Artist
+<string>Cinematic performance/Voice Over/ADR Director
+<string>Producer
+<string>Producer/Script Supervisor
+<string>Producer/AD/Casting Director
+<string>Studio Manager
+<string>Casting Director
+<string>Motion Capture Supervisor
+<string>Motion Capture Operators
+<string>Motion Capture Tech
+<string>Stunt Coordinator
+<string>Prop and Set Supervisor
+<string>Prop and Set Assistant
+<string>Sound Recording Engineer/Editor
+<string>Sound Assistant
+<string>Sound Recording Engineer
+<string>Reference Camera Operators
+<string>Facial Capture Assistant
+<string>Chief Facial Make up
+<string>Assistant Facial Make up
+<string>Raptor Operator
+<string>Raptor Operators/MoCap PA
+<string>MoCap PA
+<string>Studio Teachers
+<string>Facial Capture Executive Producer
+<string>Facial Capture Supervisor
+<string>Facial Capture Production Coordinator
+<string>Motion Capture Designers
+<string>Takuya Shibata
+<string>Masanori Kobayashi
+<string>Ken Ohara
+<string>Masaaki Bizen
+<string>Hiroshi Ito
+<string>Tomonori Hirata
+<string>Takahiro Nakada
+<string>Yuta Takemoto
+<string>Yutaka Ishida
+<string>Mayuko Shibata
+<string>Masaaki Ida
+<string>Aoi Nishigami
+<string>Miyuki Munekane
+<string>Xiao Gang Pang
+<string>Yuika Nakajima
+<string>Yoriko Komura
+<string>Sunao Sato (FLAME, Inc.)
+<string>Kazuki Matsuo (FLAME, Inc.)
+<string>Hsiaoyuan Su (FLAME, Inc.)
+<string>Tomonari Wakiyama (Thoris, Inc.)
+<string>Brent Friedman
+<string>Takeshi Miyazawa
+<string>Tom Keegan
+<string>Daniel C.C. Chen (Rouge Mocap)
+<string>Kumiko Ogawa (Rouge Mocap)
+<string>Mari Ueda (Rouge Mocap)
+<string>Eiren Chong (Rouge Mocap)
+<string>Mari Ueda
+<string>Dennis "DJ" Hauck
+<string>Joshua Guenard
+<string>Gabriel Romero
+<string>Tony Vogel
+<string>Ken Ohara
+<string>Andrew Burger
+<string>Chia Yi Kay Wang
+<string>Julian Beeston
+<string>Jennifer Zhang
+<string>Jamison Boaz
+<string>Teruhisa Yoshida
+<string>Jeremy Asuncion
+<string>Frank De La Cruz
+<string>Carissa St. Rose
+<string>Heddie Sinatra
+<string>Sai Ito
+<string>Kyosan King
+<string>Tyler King
+<string>Tsubasa Hamano
+<string>Jack Stern
+<string>Pam Wood
+<string>Sigtor Kildal (GOODBYE KANSAS STUDIOS)
+<string>Nils Lerin (GOODBYE KANSAS STUDIOS)
+<string>Mitra Ashkan Far (GOODBYE KANSAS STUDIOS)
+<string>Shigeaki Nunokawa (Dynamo Pictures, Inc.)
+<string>Motohiko Yoshimura (Dynamo Pictures, Inc.)
+<string>Yoshiko Koyama (Dynamo Pictures, Inc.)
+<string>Takuma Kaneko (Dynamo Pictures, Inc.)
+<string>Composer
+<string>Coordinator
+<string>Assistant Coordinator
+<string>Baritone
+<string>Recording Engineer
+<string>Assistant Recording Engineer
+<string>Tadayoshi Makino
+<string>Masako Suga (Harmonics International Co., Ltd.)
+<string>Ayumi Natsume (Harmonics International Co., Ltd.)
+<string>Motoi Oiwake
+<string>Kazuhiko Misumi (Studio TonMeister)
+<string>Yui Ogushi (Studio TonMeister)
+<string>Music Title "SAUDADE"
+<string>Music by
+<string>Words by
+<string>Produced by
+<string>Vocals
+<string>Guitar
+<string>Bass
+<string>Drums
+<string>Mixed by
+<string>Assistant Mix Engineer
+<string>Mixing Studio
+<string>Recording Engineer
+<string>Recording Assistant
+<string>Recording Studio
+<string>Production Assistant
+<string>Music Director and Music Production Supervisor
+<string>Cody Matthew Johnson
+<string>Shim
+<string>Shim
+<string>Cody Matthew Johnson
+<string>Jeff Rona
+<string>Jeff Rona
+<string>Cody Matthew Johnson
+<string>Shim
+<string>Peter DiStefano
+<string>Cody Matthew Johnson
+<string>Cody Matthew Johnson
+<string>Elmo Lovano
+<string>Mark Needham
+<string>Tyler Spratt
+<string>Red Oak Studios, Los Angeles, CA
+<string>Ethan Mates
+<string>Alejandro Baima
+<string>Sphere Studios, Los Angeles, CA
+<string>Alec Justice
+<string>Koyo Sonae
+<string>Coordinator
+<string>Takayasu Sodeoka
+<string>Sound Editors
+<string>Masayuki Endou
+<string>Masayoshi Umezu
+<string>Ryo Inakura
+<string>Recording Directors
+<string>Japanese Translators
+<string>Recording Coordinators
+<string>Sound Editor
+<string>Recording Studio
+<string>Recording Engineers
+<string>Keiichiro Miyoshi
+<string>Akane Maeda
+<string>Mizuki Nobata
+<string>Hiroko Tokuda
+<string>Mai Sasai
+<string>Koji Okano
+<string>Yo Nishiyama
+<string>Taro Yamaoka
+<string>Yukinori Takada
+<string>Sound in Studio
+<string>Studio Uni
+<string>
+<string>
+<string>VP - Creative Animation & Games
+<string>Head of Production
+<string>Creative Director
+<string>Producer
+<string>Department Director
+<string>Animation Supervisor
+<string>Senior Artists
+<string>Artists
+<string>Line Producer
+<string>Production Coordinator
+<string>Owen Hurley
+<string>Kumar Chandrasekaran
+<string>Sean Mullen
+<string>Prithi Amarnath
+<string>Selvam Venkatesan
+<string>Guruprasad Kochukrishnan
+<string>Shiyam Kumar
+<string>Anoop Augustin
+<string>Vivek MG
+<string>Srikanth Cheedey
+<string>Rakesh Narayan
+<string>Mithun Monga
+<string>Syed Rafiq Ali
+<string>John Paul
+<string>Kasi Medidi
+<string>Hussain Basha D
+<string>Austin John
+<string>Rahul Babu Kannikara
+<string>Srinivas Prasad Jidagam
+<string>Chandra Mouli Y
+<string>Sanjeev Reddy P
+<string>Sunny Raj
+<string>Krishnendu Bikash Maity
+<string>Nagarajan Madackan
+<string>Abhijit Karmakar
+<string>Prashant Dewangan
+<string>Muralidharan Ravi
+<string>Shivam Pandey
+<string>Lakshmipathi Raju
+<string>Digital Frontier (Taiwan), Inc.
+<string>TYUTYU Co., Ltd.
+<string>CG Producers
+<string>CG Director
+<string>Production Manager
+<string>Coordinators
+<string>Animation Supervisor
+<string>Animation Artists
+<string>Lighting Artists
+<string>Technical Directors
+<string>R&D Artists
+<string>System Administrators
+<string>Production Managers
+<string>Animation Artists
+<string>Storyboard Artists
+<string>Yusaku Toyoshima
+<string>Yoichiro Tajiri
+<string>Yasushi Kawamura
+<string>Miho Saneto
+<string>Susumu Fujihara
+<string>Takao Muraoka
+<string>Yumiko Kano
+<string>Misuzu Tanaka
+<string>Yukinobu Fujimatsu
+<string>Kohei Yamaguchi
+<string>Naoki Kurokawa
+<string>Shinichiro Hata
+<string>Shuichi Osawa
+<string>Hyeokjin Kim
+<string>Tomoyo Ikegami
+<string>Haruka Ishida
+<string>Ryo Tomomura
+<string>Yoshiki Yamamoto
+<string>Yasushi Yamaguchi
+<string>Atsushi Morimoto
+<string>Takahiro Nishigaki
+<string>Hiraku Fukuda
+<string>Yutaro Sawada
+<string>Makoto Morita
+<string>Yoshihiro Tamura
+<string>Shoko Matsufuji
+<string>Takahiko Kurachi
+<string>Haruka Matsumoto
+<string>Soichiro Kuroki
+<string>Leow Wei Liang
+<string>Yutaka Inoue
+<string>Hitoshi Miyake
+<string>Wataru Senzaki
+<string>Sake Li
+<string>Mirng-Lour Chueh
+<string>Grass Chao
+<string>Jia-He Ye
+<string>Lakey Liu
+<string>Moffie Chang
+<string>Ricky Chen
+<string>Jasper Yu
+<string>Chiling Chen
+<string>Yi-Hung Liu
+<string>Yu-Chin Ho
+<string>Yu-Chen Cho
+<string>Tomokazu Ohara (TYUTYU Co., Ltd.)
+<string>Chisaki Sato (TYUTYU Co., Ltd.)
+<string>Event Scene Artists
+<string>Kanae Onishi
+<string>Yui Kada
+<string>Casting & Costume General Manager
+<string>Costume Production Managers
+<string>Costumer
+<string>Make-up Artists
+<string>3D Scan Models
+<string>Modeling Agencies
+<string>Yohei Mori
+<string>Tomoyuki Takahashi (VOLK TACTICAL GEAR)
+<string>Yoshio Komatsu (Amazing Studio JIYURO)
+<string>Keiji Ando (Amazing Studio JIYURO)
+<string>Toru Hane (Amazing Studio JIYURO)
+<string>Yukari Honda (OFFICE MYUU)
+<string>Yuki Kishimoto (OFFICE MYUU)
+<string>Adriana
+<string>Eduard Badaluta
+<string>Arno LeGall
+<string>Margarita Chirkova
+<string>John Owens
+<string>Leigh Carmichael
+<string>Zumpano Maurizio
+<string>Hannah Kincaid
+<string>Anya
+<string>Edward L. Papazian
+<string>ACQUA MODELS
+<string>AVOCADO Inc.
+<string>d'Xim Ltd., Co.
+<string>KM Kikaku Inc.
+<string>Levar Boutte
+<string>Ram Avtar
+<string>Małgorzata Dittmar 
+<string>Laz B
+<string>Yann Takagi 
+<string>Katya Sostanovskaya
+<string>David Marie
+<string>Ryan Drees
+<string>Shailee Namiki
+<string>Yoshiyuki Higashino
+<string>Mitsuhiko Takano
+<string>Derron Ross
+<string>Kally Khourshid
+<string>Jonathan Berry 
+<string>Anthony Romero
+<string>Hiroaki Take
+<string>Marika Suzuki
+<string>Mark Reichwein
+<string>Michael Joseph
+<string>Anthony Nanakornpanom
+<string>Justin Pittman 
+<string>Kei Yamazaki
+<string>Invader Studios S.r.l.
+<string>Hideki Kamiya & Original Development Team
+<string>QA Director
+<string>Head of Pre-Production
+<string>LQA Manager
+<string>LQA Project Manager
+<string>LQA Project Lead
+<string>Polish LQA Technicians
+<string>Russian LQA Technicians
+<string>Brazilian Portuguese LQA Technicians
+<string>Korean LQA Technicians
+<string>Simplified Chinese LQA Technicians
+<string>Traditional Chinese LQA Technicians
+<string>Head of LQA
+<string>Erik Hittenhausen
+<string>Julian Mower
+<string>Gaelle Caballero
+<string>Jouhaina Ramy
+<string>Marta Cannilla
+<string>Michał Świechowski
+<string>Jan Koczorowski
+<string>Valeriia Romaniuk
+<string>Witalij Sośnicki
+<string>Kerim Hudayberdiyev
+<string>Rebeca de Oliveira Conceição
+<string>Eduardo Manetti
+<string>Kyunghee Jung
+<string>Grace Yoon
+<string>Ding Xia (Eric)
+<string>Jinrong Yan
+<string>Charles Chou
+<string>Lily Ngan
+<string>Edward Buffery

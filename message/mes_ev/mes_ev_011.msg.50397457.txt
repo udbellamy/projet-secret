@@ -1,0 +1,50 @@
+<string><COLOR FF0000>#Rejected#</COLOR> EV011_0010_vo0040_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV011_0020_vo0030_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV011_0030_vo0040_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV011_0040_vo0040_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV011_0042_vo0030_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV011_0045_vo0040_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV011_0050_vo0030_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV011_0060_vo0040_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV011_0061_vo0040_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV011_0065_vo0030_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV011_0070_vo0040_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV011_0080_pl7300_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV011_0090_vo0040_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV011_0100_vo0030_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV011_0110_vo0040_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV011_0120_vo0040_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV011_0130_pl7300_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV011_0140_pl7300_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV011_0160_pl7300_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV011_0170_pl7300_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV011_0180_pl7300_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV011_0190_pl7300_81
+<string><COLOR FF0000>#Rejected#</COLOR> EV011_0200_pl7300_81
+<string><TIME 3.77, 6.07><lf><TIME 6.08, 10.7><lf><TIME 10.72, 14.77><lf><TIME 14.79, 17.08><lf><TIME 17.22, 20.0><lf><TIME 20.02, 25.48><lf><TIME 25.49, 27.36><lf><TIME 27.37, 28.3><lf><TIME 28.32, 31.97><lf><TIME 31.99, 38.15><lf><TIME 38.19, 38.92><lf><TIME 38.94, 41.73><lf><TIME 41.74, 43.71><lf><TIME 43.76, 46.37><lf><TIME 46.39, 49.06><lf><TIME 49.29, 52.73><lf><TIME 53.08, 54.74><lf><TIME 55.25, 61.08><lf><TIME 61.12, 63.65><lf><TIME 74.6, 76.92><lf><TIME 79.35, 81.21><lf><TIME 99.26, 102.76><lf><TIME 103.1, 108.97><lf><TIME 118.92, 120.49><lf><TIME 120.74, 122.5><lf>Je te jure que c'est vrai, OK ?<lf>J'ai vu ça de mes propres yeux.<PAGE><lf>Oh, mais je te crois, tu sais. Je te crois.<lf>Allez, raconte-nous. On veut tous les détails.<PAGE><lf>OK, donc... C'était vendredi soir dernier,<lf>alors que je rentrais du bar...<PAGE><lf>Cette femme a commencé à venir vers moi...<PAGE><lf>La façon dont elle titubait...<lf>Je me suis dit qu'elle était bourrée.<PAGE><lf>OK... Dis la vérité, t'avais bu combien de verres dans l'histoire ?<PAGE><lf>Mec, je t'assure ! J'étais quasiment sobre !<PAGE><lf>Mais bien sûr !<PAGE><lf>Écoute-moi, d'accord ?<lf>Quand elle s'est approchée, je l'ai bien regardée...<PAGE><lf>T'aurais dû voir ses yeux, son nez...<lf>Tout son visage... On aurait dit qu'il pourrissait !<PAGE><lf>Euh...<PAGE><lf>On aurait dit un cadavre...<lf>Un cadavre ambulant, mec !<PAGE><lf>J'ai la même à la maison.<PAGE><lf>J'ai jamais rien vu de pareil...<lf>J'arrive plus à dormir depuis cette nuit.<PAGE><lf>Allez, détends-toi, tout va bien.<lf>Bon, écoute...<PAGE><lf>Tu dois rester fort, OK ?<lf>Laisse pas la peur t'envahir, d'accord ?<PAGE><lf>Ouais, ça je te le fais pas dire.<PAGE><lf>Si on reste paralysé devant ces choses, elles en<lf>profitent pour mordre. Je l'ai vue attaquer quelqu'un...<PAGE><lf>Oh, c'est pas vrai...<lf>Ça devenait intéressant.<PAGE><lf>Je suis crevé.<PAGE><lf>Oh, merde !<PAGE><lf><PAGE><lf>Non ! Non ! Non !<PAGE><lf>Qu'est-ce que j'ai fait ?<PAGE><lf>Qu'est-ce que je vais faire ? 
+<string>Je te jure que c'est vrai, OK ?<lf>J'ai vu ça de mes propres yeux.
+<string>Oh, mais je te crois, tu sais. Je te crois.<lf>Allez, raconte-nous. On veut tous les détails.
+<string>OK, donc... C'était vendredi soir dernier,<lf>alors que je rentrais du bar...
+<string>Cette femme a commencé à venir vers moi...
+<string>La façon dont elle titubait...<lf>Je me suis dit qu'elle était bourrée.
+<string>OK... Dis la vérité, t'avais bu combien de verres dans l'histoire ?
+<string>
+<string>Mec, je t'assure ! J'étais quasiment sobre !
+<string>Mais bien sûr !
+<string>Écoute-moi, d'accord ?<lf>Quand elle s'est approchée, je l'ai bien regardée...
+<string>T'aurais dû voir ses yeux, son nez...<lf>Tout son visage... On aurait dit qu'il pourrissait !
+<string>Euh...
+<string>On aurait dit un cadavre...<lf>Un cadavre ambulant, mec !
+<string>J'ai la même à la maison.
+<string>J'ai jamais rien vu de pareil...<lf>J'arrive plus à dormir depuis cette nuit.
+<string>Allez, détends-toi, tout va bien.<lf>Bon, écoute...
+<string>Tu dois rester fort, OK ?<lf>Laisse pas la peur t'envahir, d'accord ?
+<string>Ouais, ça je te le fais pas dire.
+<string>Si on reste paralysé devant ces choses, elles en<lf>profitent pour mordre. Je l'ai vue attaquer quelqu'un...
+<string>Oh, c'est pas vrai...<lf>Ça devenait intéressant.
+<string>Je suis crevé.
+<string>Oh, merde !
+<string>
+<string>Non ! Non ! Non !
+<string>Qu'est-ce que j'ai fait ?
+<string>Qu'est-ce que je vais faire ?

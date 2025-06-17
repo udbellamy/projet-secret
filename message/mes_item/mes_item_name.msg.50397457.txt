@@ -1,0 +1,464 @@
+<string> x{0}
+<string>Spray de premiers secours
+<string>Plante verte
+<string>Plante rouge
+<string>Plante bleue
+<string>Mélange de plantes (V+V)
+<string>Mélange de plantes (V+R)
+<string>Mélange de plantes (V+B)
+<string>Mélange de plantes (V+V+B)
+<string>Mélange de plantes (V+V+V)
+<string>Mélange de plantes (V+R+B)
+<string>Mélange de plantes (R+B)
+<string>Plante verte
+<string>Plante rouge
+<string>Plante bleue
+<string>Munitions pour pistolet
+<string>Cartouches de fusil à pompe
+<string>Munitions pistolet-mitrailleur
+<string>Munitions pour MAG
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_70_104
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_70_105
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_70_106
+<string>Grenades d'acide
+<string>Grenades incendiaires
+<string>Cartouches à aiguilles
+<string>Carburant
+<string>Munitions gros calibre
+<string>Munitions améliorées (SLS 60)
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_70_151
+<string>Détonateur
+<string>Ruban encreur
+<string>Planches de bois
+<string>Appareil électronique
+<string>Détonateur (sans pile)
+<string>Pile
+<string>Poudre noire
+<string>Poudre noire (grande quantité)
+<string>Poudre supérieure (jaune)
+<string>Poudre supérieure (blanche)
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_71_000
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_71_001
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_71_100
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_71_200
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_71_300
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_71_400
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_71_500
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_71_900
+<string>Chargeur grande capacité (Matilda)
+<string>Frein de bouche (Matilda)
+<string>Crosse (Matilda)
+<string>Chargeur rapide (SLS 60)
+<string>Viseur laser (JMB Hp3)
+<string>Cadre renforcé (SLS 60)
+<string>Chargeur grande capacité (JMB Hp3)
+<string>Crosse (W-870)
+<string>Canon long (W-870)
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_71_910
+<string>Chargeur grande capacité (MQ 11)
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_71_912
+<string>Silencieux (MQ 11)
+<string>Viseur point rouge (Lightning Hawk)
+<string>Canon long (Lightning Hawk)
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_71_916
+<string>Crosse d'épaule (GM 79)
+<string>Régulateur (lance-flammes)
+<string>Condensateur HT (fusil électrique)
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_72_000
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_72_001
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_72_002
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_72_003
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_72_004
+<string>Pellicule
+<string>Pellicule : "Planques"
+<string>Pellicule
+<string>Pellicule : "Recrue prometteuse"
+<string>Pellicule
+<string>Pellicule : "Commémoratif"
+<string>Pellicule
+<string>Pellicule : "Casier 3F"
+<string>Pellicule
+<string>Pellicule : "Statue de lion"
+<string>Clé
+<string>Clé de la réserve
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_001
+<string>Outil
+<string>Poignée de cric mécanique
+<string>Outil
+<string>Manivelle à embout carré
+<string>Médaillon Licorne
+<string>Clé
+<string>Clé Pique
+<string>Carte de parking
+<string>Carte d'accès
+<string>Carte de l'armoire à fusils
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_106
+<string>Volant
+<string>Volant de valve
+<string>Badge du S.T.A.R.S.
+<string>Sceptre
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_110
+<string>Joyau rouge
+<string>Boîte
+<string>Boîte ornée de joyaux
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_113
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_CHANGED_73_113
+<string>Composant électronique
+<string>Prise Fou
+<string>Composant électronique
+<string>Prise Tour
+<string>Composant électronique
+<string>Prise Roi
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_117
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_118
+<string>Cube
+<string>Cube décoré
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_120
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_121
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_122
+<string>Clé USB
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_124
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_125
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_126
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_127
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_128
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_129
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_130
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_131
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_132
+<string>Pièce de rechange
+<string>Touche de rechange
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_134
+<string>Livre rouge
+<string>Livre en plastique
+<string>Bras gauche de statue
+<string>Bras gauche avec livre
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_138
+<string>Médaillon Lion
+<string>Clé
+<string>Clé Carreau
+<string>Clé
+<string>Clé de voiture
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_142
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_143
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_144
+<string>Médaillon Vierge
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_146
+<string>Composant électronique
+<string>Pièce de panneau électrique
+<string>Composant électronique
+<string>Pièce de panneau électrique
+<string>Bas-relief
+<string>Bas-relief des amants
+<string>Petit rouage
+<string>Grand rouage
+<string>Clé de la cour
+<string>Composant électronique
+<string>Prise Cavalier
+<string>Composant électronique
+<string>Prise Pion
+<string>Composant électronique
+<string>Prise Reine
+<string>Composant électronique en boîte
+<string>Composant électronique en boîte
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_200
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_201
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_202
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_203
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_204
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_205
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_206
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_207
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_208
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_209
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_210
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_211
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_212
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_213
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_214
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_215
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_216
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_217
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_218
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_219
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_220
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_221
+<string>Clé de l'orphelinat
+<string>Clé
+<string>Clé Trèfle
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_301
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_302
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_303
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_304
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_400
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_401
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_402
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_403
+<string>Clé
+<string>Clé Cœur
+<string>Cassette vidéo U.S.S.
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_406
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_407
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_408
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_409
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_410
+<string>Outil
+<string>Poignée de valve en T
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_412
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_413
+<string>Cartouche
+<string>Cartouche (vide)
+<string>Cartouche (solution)
+<string>Cartouche (herbicide)
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_417
+<string>Prise double
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_419
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_420
+<string>Puce d'accès (Nv 4)
+<string>Bracelet d'identification (Nv 4)
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_423
+<string>Modulateur de signal
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_425
+<string>Trophée
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_427
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_428
+<string>Clé
+<string>Clé des égouts
+<string>Bracelet d'identification
+<string>Bracelet d'identification (Nv 1)
+<string>Bracelet d'identification (Nv 2)
+<string>Bracelet d'identification (Nv 3)
+<string>Puce électronique
+<string>Puce d'accès (Nv 2)
+<string>Puce électronique
+<string>Puce d'accès (Nv 3)
+<string>Bracelet d'identification
+<string>Bracelet d'identification (Nv 1)
+<string>Bracelet d'identification (Nv 2)
+<string>Bracelet d'identification (Nv 3)
+<string>Cassette vidéo du laboratoire
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_500
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_501
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_502
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_503
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_504
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_505
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_506
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_507
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_600
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_601
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_602
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_603
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_604
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_605
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_700
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_701
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_702
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_703
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_704
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_705
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_706
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_707
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_708
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_709
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_710
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_711
+<string>Mallette
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_713
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_714
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_715
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_716
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_717
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_718
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_719
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_720
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_721
+<string>Composant électrique
+<string>Fusible (hall principal)
+<string>Composant électrique
+<string>Fusible (couloir salle de pause)
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_724
+<string>Ciseaux
+<string>Outil de coupe
+<string>Coupe-boulon
+<string>Poupée de chiffon
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_800
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_801
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_802
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_73_803
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_74_000
+<string>Plan du commissariat (1F)
+<string>Plan du commissariat (B1)
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_74_102
+<string>Carte des égouts
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_74_104
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_74_105
+<string>Plan du labo - zone nord
+<string>Plan du labo - zone est
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_74_108
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_74_109
+<string>Plan du commissariat (étages supérieurs)
+<string>Sacoche
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_74_201
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_77_000
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_CAHNGED_77_000
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_77_001
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_CAHNGED_77_001
+<string>Coffre portatif
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_77_003
+<string>Boîte
+<string>Boîte en métal
+<string>Boîte en bois
+<string>Boîte en bois
+<string>Boîte
+<string>Boîte en métal
+<string><COLOR FF0000>#Rejected#</COLOR> ITEM_NAME_END_DUMMY
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_NAME_KNIFE
+<string>Matilda
+<string>M19
+<string>JMB Hp3
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_NAME_WP0210
+<string>Quickdraw Army
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_NAME_WP0400
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_NAME_WP0500
+<string>MUP
+<string>Broom Hc
+<string>SLS 60
+<string>W-870
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_NAME_WP1100
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>MQ 11
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_NAME_WP2100
+<string>LE 5
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_NAME_WP2300
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Lightning Hawk
+<string>MAG .50 AE (celui du chef ?)
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_NAME_WP3100
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_NAME_WP3200
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Détecteur CEM
+<string>Projectile normal
+<string>Projectile mine
+<string>GM 79
+<string>Cartouches explosives
+<string>Cartouches incendiaires
+<string>Cartouches d'acide
+<string>Lance-flammes chimique
+<string>Fusil électrique
+<string>ATM-4
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_NAME_WP4410
+<string>Couteau de combat
+<string>Couteau de combat
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_NAME_WP4520
+<string>Lance-roquettes antichar
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_NAME_WP4610
+<string>Minigun
+<string>Arme améliorée magique (temp)
+<string>Bonus 1
+<string>Bonus 2
+<string>Bonus 3 (corps-à-corps)
+<string>Bonus 4 (corps-à-corps)
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_NAME_WP6000
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_NAME_WP6100
+<string>Grenade
+<string>Grenade assourdissante
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Samurai Edge (modèle original)
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_NAME_WP7100
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_NAME_WP7110
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_NAME_WP7120
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_NAME_WP7300
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_NAME_WP7310
+<string><COLOR FF0000>#Rejected#</COLOR> WEAPON_NAME_WP7320
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>ATM-4
+<string>
+<string>Lance-roquettes antichar
+<string>Minigun
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

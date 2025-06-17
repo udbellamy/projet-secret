@@ -1,0 +1,11 @@
+<string>Bracelets d'identification
+<string>Ce centre de recherches utilise une technologie<lf>de pointe afin d'assurer la sécurité des<lf>employés et des méthodes de travail efficaces.<lf><lf>Pour entrer sur le site et en sortir, et pour<lf>manipuler certains équipements, les employés<lf>doivent utiliser un <COL FILE_EMP>bracelet d'identification</COLOR>.
+<string>Il existe trois niveaux d'accès :<lf><lf>1. Visiteur<lf>2. Employé<lf>3. Cadre supérieur
+<string>L'authentification se fait grâce à une <COL FILE_EMP>puce<lf>électronique</COLOR> située dans le bracelet. Le niveau<lf>d'accès du bracelet peut être modifié<lf>simplement en insérant une puce différente.<lf><lf>Des bracelets visiteurs peuvent être distribués<lf>aux familles des employés. Adressez-vous à la<lf>réception pour en savoir plus.
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

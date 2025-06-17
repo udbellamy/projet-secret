@@ -1,0 +1,56 @@
+<string><TIME 8.04, 9.46><TIME 9.52, 13.82><TIME 14.02, 18.65><TIME 18.7, 20.49><TIME 20.55, 23.33><TIME 24.4, 28.0><TIME 32.22, 33.26><TIME 34.25, 37.13><TIME 37.63, 38.48><TIME 38.86, 41.95><TIME 42.22, 46.65><TIME 47.12, 48.21><TIME 48.72, 50.87><TIME 50.93, 53.01><TIME 54.81, 56.44><TIME 56.79, 59.5><TIME 60.66, 61.89><TIME 61.93, 63.9><TIME 70.9, 74.75><TIME 75.94, 77.72><TIME 78.34, 80.08><TIME 81.55, 83.83><TIME 84.89, 87.28><TIME 91.94, 93.0><TIME 93.62, 94.03><TIME 94.04, 95.3><TIME 95.99, 97.54><TIME 101.25, 102.52><TIME 105.72, 107.02><TIME 108.06, 109.45><TIME 110.21, 111.49>Je pensais à un truc...<PAGE><lf>J'ai hâte que le FBI débarque au QG d'Umbrella<lf>et foute tous ces enfoirés derrière les barreaux.<PAGE><lf>Moi aussi... mais que ce soit clair,<lf>cette affaire n'est pas de ton ressort.<PAGE><lf>C'est une affaire fédérale.<PAGE><lf>Une fois qu'on aura le virus G, je continuerai seule.<PAGE><lf>Hé, Leon... Tu me fais confiance ?<PAGE><lf>Et toi ?<PAGE><lf>Franchement, si c'était pas le cas tu serais déjà mort.<PAGE><lf>Je vois...<PAGE><lf>Je me suis dit que tu pourrais m'aider, et j'ai eu raison.<PAGE><lf>Si tu obtiens le virus G, je ferai en sorte que ce qui<lf>s'est passé à Raccoon City ne se reproduise jamais.<PAGE><lf>Ada...<PAGE><lf>Tu l'as dit toi-même.<lf>C'est une affaire fédérale...<PAGE><lf>Leon, regarde-moi.<PAGE><lf>J'ai besoin de toi.<PAGE><lf>Si je veux boucler cette affaire, tu es mon seul espoir.<PAGE><lf>Pas question de te laisser ici.<PAGE><lf>Imagine qu'on t'attaque, que tu aies besoin d'aide...<PAGE><lf>Ça va aller. T'en fais pas pour moi.<PAGE><lf>Je veux aller jusqu'au bout...<PAGE><lf>Et je veux te revoir aussi.<PAGE><lf>Je compte bien vivre. Crois-moi.<PAGE><lf>Vous êtes arrivés au NEST.<PAGE><lf>Vas-y.<PAGE><lf>Allez !<PAGE><lf>On n'a pas le temps.<PAGE><lf>T'auras besoin de ça.<PAGE><lf>OK.<PAGE><lf>Leon...<PAGE><lf>Je compte sur toi.<PAGE><lf>Je sais.
+<string>Je pensais à un truc...
+<string>J'ai hâte que le FBI débarque au QG d'Umbrella<lf>et foute tous ces enfoirés derrière les barreaux.
+<string>Moi aussi... mais que ce soit clair,<lf>cette affaire n'est pas de ton ressort.
+<string>C'est une affaire fédérale.
+<string>Une fois qu'on aura le virus G, je continuerai seule.
+<string>Hé, Leon... Tu me fais confiance ?
+<string>Et toi ?
+<string>Franchement, si c'était pas le cas tu serais déjà mort.
+<string>Je vois...
+<string>Je me suis dit que tu pourrais m'aider, et j'ai eu raison.
+<string>Si tu obtiens le virus G, je ferai en sorte que ce qui<lf>s'est passé à Raccoon City ne se reproduise jamais.
+<string>Ada...
+<string>
+<string>Tu l'as dit toi-même.<lf>C'est une affaire fédérale...
+<string>
+<string>Leon, regarde-moi.
+<string>J'ai besoin de toi.
+<string>Si je veux boucler cette affaire, tu es mon seul espoir.
+<string><COLOR FF0000>#Rejected#</COLOR> EV700_0160_pl2000
+<string>
+<string>Pas question de te laisser ici.
+<string>Imagine qu'on t'attaque, que tu aies besoin d'aide...
+<string>Ça va aller. T'en fais pas pour moi.
+<string>Je veux aller jusqu'au bout...
+<string>Et je veux te revoir aussi.
+<string>Je compte bien vivre. Crois-moi.
+<string>Vous êtes arrivés au NEST.
+<string>Vas-y.
+<string>Allez !
+<string>On n'a pas le temps.
+<string>T'auras besoin de ça.
+<string>OK.
+<string>Leon...
+<string>Je compte sur toi.
+<string>Je sais.
+<string><TIME 7.12, 13.0><TIME 16.0, 19.03><TIME 23.94, 26.25><TIME 29.0, 33.51><TIME 37.17, 39.28><TIME 40.62, 42.2><TIME 43.3, 47.92><TIME 50.27, 51.94><TIME 52.75, 54.23><TIME 54.73, 58.49><TIME 60.86, 66.01><TIME 69.84, 72.82><TIME 76.19, 80.58><TIME 80.59, 81.88><TIME 81.92, 84.99><TIME 90.49, 92.19><TIME 92.21, 94.5><TIME 100.16, 103.81><PAGE><lf>Hé ! Ça va ?<PAGE><lf>Ta veste est si chaude.<PAGE><lf>Mon frère me l'a donnée.<lf>Il paraît qu'elle porte chance.<PAGE><lf>Je sais pas ce que je ferais sans toi.<PAGE><lf>Tu plaisantes ?<PAGE><lf>Tu t'en sortais très bien avant que je débarque<lf>et que je t'attire tout un tas d'ennuis.<PAGE><lf>J'ai quelque chose à toi.<PAGE><lf>J'en veux pas.<PAGE><lf>Vraiment ? Pourquoi ? Il est joli.<PAGE><lf>Ma mère me l'a donné... Pour mon anniversaire, l'an dernier.<PAGE><lf>Moi je voulais juste qu'elle soit plus souvent à la maison.<PAGE><lf>Je sais qu'on pourrait croire que ta mère s'en fiche, mais...<PAGE><lf><PAGE><lf>Hé, Sherry. Viens.<PAGE><lf>Hé ! Tiens bon, d'accord ?<PAGE><lf>Vous êtes arrivés au NEST.<PAGE><lf>Ça va aller. Je suis là. Allez.
+<string>
+<string>Hé ! Ça va ?
+<string>Ta veste est si chaude.
+<string>Mon frère me l'a donnée.<lf>Il paraît qu'elle porte chance.
+<string>Je sais pas ce que je ferais sans toi.
+<string>Tu plaisantes ?
+<string>Tu t'en sortais très bien avant que je débarque<lf>et que je t'attire tout un tas d'ennuis.
+<string><COLOR FF0000>#Rejected#</COLOR> EV700_2080_pl1000
+<string>J'ai quelque chose à toi.
+<string>J'en veux pas.
+<string>Vraiment ? Pourquoi ? Il est joli.
+<string>Ma mère me l'a donné... Pour mon anniversaire, l'an dernier.
+<string>Moi je voulais juste qu'elle soit plus souvent à la maison.
+<string>Je sais qu'on pourrait croire que ta mère s'en fiche, mais...
+<string>
+<string>Hé, Sherry. Viens.
+<string>Hé ! Tiens bon, d'accord ?
+<string>Vous êtes arrivés au NEST.
+<string>Ça va aller. Je suis là. Allez.

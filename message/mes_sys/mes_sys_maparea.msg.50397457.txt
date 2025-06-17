@@ -1,0 +1,62 @@
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_1F
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_2F
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_3F
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_4F
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_B1F
+<string>Station-service
+<string>Rues de la ville
+<string>Commissariat
+<string>1F
+<string>2F
+<string>3F
+<string>4F
+<string>B1
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_F
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_G
+<string>Sous le R.P.D.
+<string>Partie souterraine
+<string>SUP
+<string>MOY
+<string>INF
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_D
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_E
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_F
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_G
+<string>Derrière le R.P.D.
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_A
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_B
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_C
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_D
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_E
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_F
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_G
+<string>Orphelinat
+<string>1F
+<string>2F
+<string>B1
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_D
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_E
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_F
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_G
+<string>Entrée des égouts
+<string>Égouts
+<string>SUP
+<string>MOY
+<string>INF
+<string>D
+<string>E
+<string>F
+<string>G
+<string>Laboratoire
+<string>B1
+<string>B2
+<string>B3
+<string>B4
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_E
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_F
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_G
+<string>Labo (niveau inf.)
+<string>Inconnu
+<string>Tutoriel
+<string>Autres

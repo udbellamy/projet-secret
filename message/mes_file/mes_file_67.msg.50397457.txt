@@ -1,0 +1,11 @@
+<string>Note de Ben
+<string>Le commissariat est infesté de monstres. Même<lf>ici je peux entendre leurs gémissements. Mais<lf>ce n'est pas des zombies que j'ai le plus peur.<lf><lf>Nom de code : Tyran. L'arme biologique ultime,<lf>développée dans le plus grand secret par ces<lf>enfoirés. Rien que de penser que cette créature<lf>peut se balader dans les parages...
+<string>Il y a des chances pour qu'ils lui aient ordonné<lf>de tuer les témoins.
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

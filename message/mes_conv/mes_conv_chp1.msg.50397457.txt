@@ -1,0 +1,27 @@
+<string>Y'a rien par là...
+<string>J'ai pas le temps...
+<string>Au milieu de nulle part...
+<string>C'est pas le moment...
+<string>Ça va ?
+<string>Est-ce que ça va ?
+<string>Bougez pas. Je vais revenir vous aider.
+<string>Restez ici. Je vais jeter un œil.
+<string>Hé ! Qu'est-ce que ça veut dire ?
+<string>Hé ! Qu'est-ce que ça veut dire ?
+<string>
+<string>Bouge pas ! Ou je tire !
+<string>Ne t'approche pas de moi !
+<string>Non... C'est impossible...
+<string>Impossible... Il peut pas être vivant !
+<string>
+<string>
+<string>C'est quoi, ça ?!
+<string>Mais qu'est-ce qui se passe ici ?!
+<string><COLOR FF0000>#Rejected#</COLOR> CONV124_0010_pl0000
+<string><COLOR FF0000>#Rejected#</COLOR> CONV280_0010_pl1000
+<string>C'est l'apocalypse !
+<string>Allez... Faut pas que je reste là.
+<string>Merde ! C'est tout le monde... Ils se sont tous transformés !
+<string>On croirait la fin du monde !
+<string>Le voilà... Le commissariat.
+<string>Le commissariat ! J'y suis presque...

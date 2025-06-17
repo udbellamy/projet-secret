@@ -1,0 +1,11 @@
+<string>Journal de taxidermie
+<string>Cerf de Virginie (mâle, environ 6 ans)<lf><lf>Zone de capture : montagnes Arklay<lf>Longueur : 185 cm    Poids : 160 kg.    <lf><lf>Content du résultat, mais je suis lassé de<lf>travailler sur des sujets si communs.<lf>J'aimerais passer à des animaux plus rares.
+<string>Tigre de Sibérie (mâle, environ 4 ans)<lf><lf>Zone de capture : Kraï de Khabarovsk<lf>Longueur : 289 cm    Poids : 239 kg.<lf><lf>J'ai failli jouir quand j'ai ouvert son ventre<lf>et que ses entrailles en sont sorties.<lf>Je sens encore le fauve. Ça, c'est la vie.
+<string>Truie (femelle, 22 ans)<lf><lf>Zone de capture : Raccoon City<lf>Longueur : 160 cm    Poids : 50 kg.<lf><lf>Le corps de ce spécimen est doux, tendre et<lf>entièrement blanc. Il est à moi. Pour toujours.
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

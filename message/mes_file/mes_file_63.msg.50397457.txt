@@ -1,0 +1,11 @@
+<string>Instructions coffre portatif
+<string>Appuyez sur une touche pour allumer la lampe<lf>correspondante. Allumez toutes les lampes pour<lf>ouvrir le coffre.<lf><lf>Les touches doivent être enfoncées dans<lf>l'ordre. Une seule erreur éteindra les lampes<lf>et vous devrez recommencer toute la séquence.
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

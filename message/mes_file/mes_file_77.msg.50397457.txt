@@ -1,0 +1,11 @@
+<string>Message au propriétaire
+<string>Kendo,<lf><lf>J'imagine que tu as tes raisons de rester ici,<lf>et je te fais confiance pour faire attention.<lf><lf>Mais si jamais les choses ne se passent pas<lf>comme tu l'espères, tu sais où me trouver.<lf>Je ferai tout ce que je peux pour t'aider.<lf><lf>Jill Valentine
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

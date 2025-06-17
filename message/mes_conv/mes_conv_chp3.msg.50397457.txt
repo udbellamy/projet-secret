@@ -1,0 +1,206 @@
+<string>
+<string>
+<string>
+<string>
+<string>Tu as ce que tu voulais ?<PAGE><lf>Malheureusement, non.<lf>On dirait que Ben a échoué.<PAGE><lf>Qu'est-ce que tu cherches exactement ?<PAGE><lf>Plus d'infos au sujet des gens à l'origine de tout ça.
+<string>Tu as ce que tu voulais ?
+<string>Malheureusement, non.<lf>On dirait que Ben a échoué.
+<string>Qu'est-ce que tu cherches exactement ?
+<string>Plus d'infos au sujet des gens à l'origine de tout ça.
+<string>
+<string>
+<string>
+<string>Et toi ? Tu essaies de sauver le monde ?<PAGE><lf>J'ai promis au Lieutenant Branagh de ramener de l'aide.<PAGE><lf>Bonne chance pour en trouver...
+<string>Et toi ? Tu essaies de sauver le monde ?
+<string>J'ai promis au Lieutenant Branagh de ramener de l'aide.
+<string>Bonne chance pour en trouver...
+<string><COLOR FF0000>#Rejected#</COLOR> CONV314_0010_pl0000
+<string><COLOR FF0000>#Rejected#</COLOR> CONV314_0020_pl2000
+<string><COLOR FF0000>#Rejected#</COLOR> CONV314_0030_pl0000
+<string><COLOR FF0000>#Rejected#</COLOR> CONV314_0040_pl2000
+<string><COLOR FF0000>#Rejected#</COLOR> CONV314_0050_pl2000
+<string>Il faut bien que quelqu'un alerte les autorités.
+<string>Il nous faut des renforts pour sauver cette ville.
+<string><COLOR FF0000>#Rejected#</COLOR> CONV314_0070_pl2000
+<string>
+<string>
+<string>
+<string>Et toi ? Tu essaies de sauver le monde ?<PAGE><lf>Il faut bien que quelqu'un alerte les autorités.<PAGE><lf>Il nous faut des renforts pour sauver cette ville.
+<string>Et toi ? Tu essaies de sauver le monde ?
+<string>
+<string>
+<string>Plus de route...<PAGE><lf>Je crois qu'on va devoir passer par cette armurerie.
+<string>Plus de route...
+<string>Je crois qu'on va devoir passer par cette armurerie.
+<string>Quelle pagaille...
+<string>
+<string>
+<string>
+<string>
+<string>Tu connais Umbrella, n'est-ce pas ?<PAGE><lf>Cette société pharmaceutique développe<lf>secrètement des armes biologiques.<PAGE><lf>Ils ont un virus... Il transforme<lf>les gens en monstres indestructibles.<PAGE><lf>Ça explique toutes les horreurs que j'ai vues...
+<string>Tu connais Umbrella, n'est-ce pas ?
+<string>Cette société pharmaceutique développe<lf>secrètement des armes biologiques.
+<string>Ils ont un virus... Il transforme<lf>les gens en monstres indestructibles.
+<string>Ça explique toutes les horreurs que j'ai vues...
+<string>
+<string>
+<string>
+<string>Voilà pourquoi je cherche Annette Birkin.<PAGE><lf>On sait que c'est elle à Umbrella qui a répandu le virus...<PAGE><lf>Et je compte bien l'arrêter.
+<string>Voilà pourquoi je cherche Annette Birkin.
+<string>On sait que c'est elle à Umbrella qui a répandu le virus...
+<string>Et je compte bien l'arrêter.
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Passons par là pour retrouver Annette.<PAGE><lf>Si ce que tu as dit est vrai, le lieu est approprié.<PAGE><lf>Tu l'as dit.<PAGE><lf>Après toi...<PAGE><lf>Ouah, merci.
+<string>Passons par là pour retrouver Annette.
+<string>Si ce que tu as dit est vrai, le lieu est approprié.
+<string>Tu l'as dit.
+<string>Après toi...
+<string>Ouah, merci.
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>J'arrive pas à croire qu'une scientifique se terre ici...<PAGE><lf>D'après le QG, ça mène droit aux installations secrètes d'Umbrella.<PAGE><lf>À ce que je sache, les égouts sont gérés par la ville !<PAGE><lf>Ils ont des installations sans que les autorités soient au courant ?<PAGE><lf>Bienvenue dans l'Amérique des affaires.<PAGE><lf>Umbrella contrôle Raccoon City depuis des années.
+<string>J'arrive pas à croire qu'une scientifique se terre ici...
+<string>D'après le QG, ça mène droit aux installations secrètes d'Umbrella.
+<string>À ce que je sache, les égouts sont gérés par la ville !
+<string>Ils ont des installations sans que les autorités soient au courant ?
+<string>Bienvenue dans l'Amérique des affaires.
+<string>Umbrella contrôle Raccoon City depuis des années.
+<string>
+<string>
+<string>Wow... C'est un tremblement de terre ?<PAGE><lf>J'aimerais tellement que ce soit ça.
+<string>Wow... C'est un tremblement de terre ?
+<string>J'aimerais tellement que ce soit ça.
+<string>
+<string>
+<string>
+<string>Encore ?<PAGE><lf>Il est encore temps de faire demi-tour, Leon.<PAGE><lf>Sûrement pas. Faudra me supporter jusqu'au bout.
+<string>Encore ?
+<string>Il est encore temps de faire demi-tour, Leon.
+<string>Sûrement pas. Faudra me supporter jusqu'au bout.
+<string>
+<string>
+<string>
+<string>C'est quoi ça ?!<PAGE><lf>Fais attention !<PAGE><lf>On ne sait pas à quoi on a affaire.
+<string>C'est quoi ça ?!
+<string>Fais attention !
+<string>On ne sait pas à quoi on a affaire.
+<string>Putain de merde !
+<string>C'est bon, tu es calmé ? Espèce de saloperie !
+<string>Leon, par ici !
+<string>
+<string>
+<string>Hé, c'était quoi ça ?<PAGE><lf>Tais-toi et monte !
+<string>Hé, c'était quoi ça ?
+<string>Tais-toi et monte !
+<string>
+<string>
+<string>
+<string>
+<string>Je t'avais pourtant prévenu...<PAGE><lf>Tu as dit que ce virus transformait<lf>les gens en monstres, pas les reptiles.<PAGE><lf>Oui, c'est vrai.<PAGE><lf>D'ailleurs, je suis impressionnée que tu t'en sois sorti.
+<string>Je t'avais pourtant prévenu...
+<string>Tu as dit que ce virus transformait<lf>les gens en monstres, pas les reptiles.
+<string>Oui, c'est vrai.
+<string>D'ailleurs, je suis impressionnée que tu t'en sois sorti.
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Je voudrais comprendre : Umbrella vend ce genre<lf>de monstres à qui exactement ? À notre armée ?<PAGE><lf>À quelqu'un d'autre ?<PAGE><lf>Ils ne vendent pas les monstres.<lf>Ils vendent les virus qui les créent.<PAGE><lf>Et c'est Annette qui fabrique les virus.<PAGE><lf>Cet alligator avait beau être terrifiant...<lf>Annette est bien plus dangereuse.<lf>
+<string>Je voudrais comprendre : Umbrella vend ce genre<lf>de monstres à qui exactement ? À notre armée ?
+<string>À quelqu'un d'autre ?
+<string>Ils ne vendent pas les monstres.<lf>Ils vendent les virus qui les créent.
+<string>Et c'est Annette qui fabrique les virus.
+<string>Cet alligator avait beau être terrifiant...<lf>Annette est bien plus dangereuse.
+<string>Alors je suis avec toi. Trouvons-la et arrêtons-la.
+<string>C'est quoi cet endroit ?
+<string><COLOR FF0000>#Rejected#</COLOR> CONV258_0010_pl3000
+<string>Je peux peut-être sortir par cette porte.
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_CONV_Chp3_Dummy00
+<string>Mince, il me faut la clé !
+<string>Oh non... C'est lui !
+<string>Tu vas regretter d'avoir fait ça, crois-moi !
+<string>Allez-vous-en !
+<string>
+<string>Non !
+<string>Pauvre imbécile ! Il n'y a pas d'issue !
+<string>Je dois me cacher... Je dois me cacher... Je dois me cacher !
+<string>C'est terminé, maintenant ! La porte est fermée !
+<string>
+<string>
+<string>
+<string>Où es-tu ?! Montre-toi !<PAGE><lf>Je sais que tu es ici !<PAGE><lf>Plus je mets du temps à te trouver, et plus ça va barder !
+<string>Où es-tu ?! Montre-toi !
+<string>Je sais que tu es ici !
+<string>Plus je mets du temps à te trouver, et plus ça va barder !
+<string>Oh non... Oh non...
+<string>Faites qu'il s'en aille...
+<string>Pitié... Pitié... Je vous en supplie...
+<string>Merde ! Fait chier !
+<string>
+<string>
+<string>C'est ta dernière chance, t'entends ?<PAGE><lf>Montre-toi ! Allez !
+<string>C'est ta dernière chance, t'entends ?
+<string>Montre-toi ! Allez !
+<string>Cette petite garce peut pas être bien loin...
+<string>Hé, je te vois !
+<string>Viens ici, sale petite conne !
+<string>Argh... Putain de merde !
+<string>
+<string>
+<string>Ah... Putain !<PAGE><lf>Ça brûle !
+<string>Ah... Putain !
+<string>Ça brûle !
+<string>
+<string>
+<string>Fini de jouer, Sherry !<PAGE><lf>
+<string>Fini de jouer, Sherry !
+<string>
+<string>Bordel, où est ma clé ?
+<string>Coucou Sherry !
+<string>Vite... Vite... Vite !
+<string>
+<string>
+<string>Quoi ? Ça s'ouvre pas ?!<PAGE><lf>Bien essayé, Sherry !
+<string>Quoi ? Ça s'ouvre pas ?!
+<string>Bien essayé, Sherry !
+<string>Me voilà, Sherry !
+<string>Au secours ! Que quelqu'un vienne m'aider !
+<string>
+<string>
+<string>Tu vas regretter d'être encore en vie !<PAGE><lf>
+<string>Tu vas regretter d'être encore en vie !
+<string>
+<string>Attends un peu, enfoiré !
+<string>Encore toi ?
+<string>Oh merde... Impossible de passer par là.
+<string>Je vois pas d'autre chemin.
+<string><COLOR FF0000>#Rejected#</COLOR> CONV418_0010_pl1000
+<string>Ça doit être l'orphelinat !
+<string>J'arrive, Sherry.
+<string>Hé oh ! J'ai le pendentif !
+<string>Sherry ! Où es-tu ?!
+<string><COLOR FF0000>#Rejected#</COLOR> CONV421_0010_pl1000
+<string>Sherry, est-ce que tu es là ?
+<string>
+<string>
+<string>Claire !<PAGE><lf>Sherry ! J'arrive tout de suite !
+<string>Claire !
+<string>Sherry ! J'arrive tout de suite !
+<string>
+<string>Sherry, cours !
+<string>Claire ! Il est derrière toi !
+<string>Vite !
+<string>Il nous rattrape !
+<string>Te retourne pas !
+<string>Cours, cours !<lf>
+<string>T'arrête pas !
+<string><COLOR FF0000>#Rejected#</COLOR> CONV396_0010_pl1000

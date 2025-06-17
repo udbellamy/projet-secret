@@ -1,0 +1,11 @@
+<string>Boîte de réception : B. Cartwright
+<string>Expéditeur : William Birkin<lf>Objet : [PRIORITÉ MAXIMALE] Renforcement de<lf>la sécurité<lf><lf>Depuis quand le NEST est un nid d'espions ?<lf>Trois le mois dernier, et un quatrième ce<lf>mois-ci. Et je ne parle que de ceux que nous<lf>avons attrapés. Renforcez la sécurité,<lf>Cartwright. À moins que vous vouliez finir<lf>comme votre prédécesseur ?
+<string>Sachez aussi que je vais restreindre l'accès à<lf>la zone ouest aujourd'hui. Ignorez toute<lf>demande du siège à propos de "G".<lf>Ces bureaucrates n'apportent rien au projet, de<lf>toute façon.
+<string>Expéditeur : Message automatique - Ne pas répondre<lf>Objet : [AVERTISSEMENT] Accès non autorisé détecté<lf><lf>Dispersion d'herbicide par un employé non autorisé<lf>détecté dans la zone est.<lf><lf>04 h 51 Wayne Li
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

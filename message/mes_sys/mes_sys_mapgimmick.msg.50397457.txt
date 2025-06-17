@@ -1,0 +1,92 @@
+<string>Porte verrouillée
+<string>Cadenas
+<string>PC
+<string>Coffre
+<string>Machine à écrire
+<string>Coffre à objets
+<string>Porte verrouillée électroniquement
+<string>Porte Pique
+<string>Porte Cœur
+<string>Porte Trèfle
+<string>Porte Carreau
+<string>Chaîne
+<string>Porte verrouillée électroniquement
+<string>Porte verrouillée
+<string>Boîte scotchée
+<string>Statue de déesse
+<string>Terminal des casiers
+<string>Évier
+<string>Boîte à fusibles
+<string>Armoire à fusils
+<string>Levier d'arrivée d'eau
+<string>Statue de licorne
+<string>Étagère mobile
+<string>Cric
+<string>Statue d'empereur
+<string>Panneau électrique
+<string>Valve
+<string>Statue de lion
+<string>Statue de vierge
+<string>Engrenage
+<string>Barricade avec C4
+<string>Trou de manivelle
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Window
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_WindowBarrier
+<string>Lecteur de carte
+<string>Panneau de distribution
+<string>Vitrine spéciale
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BridgeLever
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_ElevatorLever
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Switchboard
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Statue2
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_wallclock
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_valve
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment2
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_crossword
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_bridge
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_attachecase
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Electroniclockcontrolpanel
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Highvoltagecapacitor
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment1
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_LeonBox
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Displaycase
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_006
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_007
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_008
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_009
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_010
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_011
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_012
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_013
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_014
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_015
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_016
+<string>Porte verrouillée
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BlockPuzzle
+<string>Porte verrouillée
+<string>Porte verrouillée électroniquement
+<string>Disjoncteur
+<string>Trou pour barre en T
+<string>Prises
+<string>Funiculaire
+<string>Commandes de la grue
+<string>Levier d'ouverture
+<string>Ventilation
+<string>Commande de porte de l'incinérateur
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_022
+<string><COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_200
+<string>Nv sécurité I (visiteur)
+<string>Nv sécurité II (employé)
+<string>Nv sécurité III (cadre supérieur)
+<string>Porte non alimentée
+<string>Panneau électrique
+<string>Sherry
+<string>Commandes du pont
+<string>Panneau de contrôle de l'ascenseur
+<string>PC (cadre supérieur)
+<string>Terminal de contrôle
+<string>Système de pulvérisation
+<string>Distributeur de solution
+<string>PC (employé)
+<string>Système de refroidissement
+<string>Magnétoscope

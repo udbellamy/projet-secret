@@ -1,0 +1,11 @@
+<string>Morceau de papier
+<string>
+<string>
+<string><END>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
